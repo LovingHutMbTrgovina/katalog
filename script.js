@@ -58,6 +58,8 @@ const translations = {
     per: "na",
     productsShown: "prikazanih izdelkov",
     noResults: "Ni najdenih izdelkov",
+    moreInfo: "Več informacij",
+    lessInfo: "Manj informacij"
   },
   en: {
     eyebrow: "LOVING HUT",
@@ -70,6 +72,8 @@ const translations = {
     per: "per",
     productsShown: "products shown",
     noResults: "No products match your search.",
+    moreInfo: "More information",
+    lessInfo: "Less information"
   },
   de: {
     eyebrow: "LOVING HUT",
@@ -82,6 +86,8 @@ const translations = {
     per: "pro",
     productsShown: "angezeigte Produkte",
     noResults: "Keine passenden Produkte gefunden",
+    moreInfo: "Mehr Informationen",
+    lessInfo: "Weniger Informationen"
   }
 };
 
@@ -145,6 +151,29 @@ function buildCard(product, index) {
   const card = fragment.querySelector(".product-card");
   const image = fragment.querySelector(".product-card__image");
   const fallback = fragment.querySelector(".image-fallback");
+
+  const details = fragment.querySelector('[data-role="details"]');
+  const toggleButton = fragment.querySelector('[data-role="toggleDetails"]');
+
+  toggleButton.textContent = translations[currentLang].moreInfo;
+
+  if (window.innerWidth > 780) {
+    details.hidden = false;
+    toggleButton.hidden = true;
+  } else {
+    details.hidden = true;
+    toggleButton.hidden = false;
+    toggleButton.setAttribute("aria-expanded", "false");
+
+    toggleButton.addEventListener("click", () => {
+      const isHidden = details.hidden;
+      details.hidden = !isHidden;
+      toggleButton.setAttribute("aria-expanded", String(isHidden));
+      toggleButton.textContent = isHidden
+        ? translations[currentLang].lessInfo
+        : translations[currentLang].moreInfo;
+    });
+  }
 
   const ingredientsHeading = fragment.querySelector('[data-i18n="ingredients"]');
   if (ingredientsHeading) {
