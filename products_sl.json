@@ -662,7 +662,7 @@
     },
     {
       "code": "SS06-N",
-      "name": "Veganska ovčetina new",
+      "name": "Veganska ovčetina",
       "weight": "600g",
       "price": 10.1,
       "currency": "EUR",
@@ -693,7 +693,7 @@
         "zelene"
       ],
       "pdf_product_code": "SS-06",
-      "pdf_product_name": "Veganska ovčetina new"
+      "pdf_product_name": "Veganska ovčetina"
     },
     {
       "code": "TC04",
