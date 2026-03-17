@@ -431,6 +431,7 @@ h1 {
   flex-direction: column;
   gap: 18px;
   margin-top: 18px;
+  flex: 1;
 }
 
 .product-card__details[hidden] {
@@ -467,6 +468,11 @@ h1 {
   }
 
   .product-card__body {
+    padding-bottom: 20px;
+  }
+
+  .nutrition-block {
+    margin-top: auto;
     padding-bottom: 20px;
   }
 
