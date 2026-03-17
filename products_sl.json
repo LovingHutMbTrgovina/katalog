@@ -6,7 +6,7 @@
   "products": [
     {
       "code": "AJ01",
-      "name": "Veganski ribji zrezek", 
+      "name": "Veganski ribji zrezek",
       "weight": "300g",
       "price": 5.5,
       "currency": "EUR",
@@ -26,7 +26,7 @@
         "salt_g": 1.4
       },
       "contains_allergens": [
-        "soja"
+        "sojo"
       ],
       "may_contain": [
         "jajc",
@@ -59,7 +59,7 @@
         "salt_g": 1.9
       },
       "contains_allergens": [
-        "soja"
+        "sojo"
       ],
       "pdf_product_code": "AJ-02",
       "pdf_product_name": "Veganska ostriga",
@@ -86,7 +86,7 @@
         "salt_g": 1.7
       },
       "contains_allergens": [
-        "soja",
+        "sojo",
         "gluten"
       ],
       "may_contain": [
@@ -120,7 +120,7 @@
         "salt_g": 2.3
       },
       "contains_allergens": [
-        "soja",
+        "sojo",
         "gluten"
       ],
       "may_contain": [
@@ -154,7 +154,7 @@
         "salt_g": 3.2
       },
       "contains_allergens": [
-        "soja",
+        "sojo",
         "gluten"
       ],
       "may_contain": [
@@ -188,7 +188,7 @@
         "salt_g": 1.7
       },
       "contains_allergens": [
-        "soja",
+        "sojo",
         "gluten"
       ],
       "pdf_product_code": "CH-05",
@@ -217,7 +217,7 @@
         "salt_g": 2
       },
       "contains_allergens": [
-        "soja",
+        "sojo",
         "sezama"
       ],
       "may_contain": [
@@ -252,7 +252,7 @@
         "salt_g": 2.1
       },
       "contains_allergens": [
-        "soja"
+        "sojo"
       ],
       "may_contain": [
         "jajc",
@@ -285,7 +285,7 @@
         "salt_g": 1.5
       },
       "contains_allergens": [
-        "soja",
+        "sojo",
         "gluten"
       ],
       "may_contain": [
@@ -320,7 +320,7 @@
         "salt_g": 2.2
       },
       "contains_allergens": [
-        "soja",
+        "sojo",
         "gluten"
       ],
       "may_contain": [
@@ -355,7 +355,7 @@
         "salt_g": 2.2
       },
       "contains_allergens": [
-        "soja",
+        "sojo",
         "gluten"
       ],
       "may_contain": [
@@ -390,7 +390,7 @@
         "salt_g": 2.2
       },
       "contains_allergens": [
-        "soja",
+        "sojo",
         "gluten"
       ],
       "may_contain": [
@@ -424,7 +424,7 @@
         "salt_g": 0.01
       },
       "contains_allergens": [
-        "soja"
+        "sojo"
       ],
       "may_contain": [
         "jajc",
@@ -458,7 +458,7 @@
         "salt_g": 1.6
       },
       "contains_allergens": [
-        "soja",
+        "sojo",
         "gluten"
       ],
       "pdf_product_code": "GS-03",
@@ -485,7 +485,7 @@
         "salt_g": 2
       },
       "contains_allergens": [
-        "soja",
+        "sojo",
         "gluten"
       ],
       "may_contain": [
@@ -520,7 +520,7 @@
         "salt_g": 1.5
       },
       "contains_allergens": [
-        "soja",
+        "sojo",
         "gluten"
       ],
       "may_contain": [
@@ -555,7 +555,7 @@
         "salt_g": 2
       },
       "contains_allergens": [
-        "soja"
+        "sojo"
       ],
       "may_contain": [
         "jajc",
@@ -589,7 +589,7 @@
         "salt_g": 1.9
       },
       "contains_allergens": [
-        "soja",
+        "sojo",
         "gluten"
       ],
       "pdf_product_code": "KC-23",
@@ -618,7 +618,7 @@
         "salt_g": 0.9
       },
       "contains_allergens": [
-        "soja",
+        "sojo",
         "gluten"
       ],
       "pdf_product_code": "KC-29",
@@ -647,7 +647,7 @@
         "salt_g": 1.7
       },
       "contains_allergens": [
-        "soja",
+        "sojo",
         "gluten"
       ],
       "may_contain": [
@@ -662,7 +662,7 @@
     },
     {
       "code": "SS06-N",
-      "name": "Veganska ovčetina",
+      "name": "Veganska ovčetina new",
       "weight": "600g",
       "price": 10.1,
       "currency": "EUR",
@@ -682,7 +682,7 @@
         "salt_g": 2.2
       },
       "contains_allergens": [
-        "soja",
+        "sojo",
         "gluten"
       ],
       "may_contain": [
@@ -693,7 +693,7 @@
         "zelene"
       ],
       "pdf_product_code": "SS-06",
-      "pdf_product_name": "Veganska ovčetina"
+      "pdf_product_name": "Veganska ovčetina new"
     },
     {
       "code": "TC04",
@@ -717,7 +717,7 @@
         "salt_g": 1.5
       },
       "contains_allergens": [
-        "soja",
+        "sojo",
         "gluten"
       ],
       "may_contain": [
@@ -752,7 +752,7 @@
         "salt_g": 2.2
       },
       "contains_allergens": [
-        "soja",
+        "sojo",
         "gluten"
       ],
       "may_contain": [
@@ -787,7 +787,7 @@
         "salt_g": 1.3
       },
       "contains_allergens": [
-        "soja",
+        "sojo",
         "gluten"
       ],
       "may_contain": [
@@ -822,7 +822,7 @@
         "salt_g": 1.4
       },
       "contains_allergens": [
-        "soja",
+        "sojo",
         "gluten"
       ],
       "may_contain": [
@@ -857,7 +857,7 @@
         "salt_g": 2.4
       },
       "contains_allergens": [
-        "soja",
+        "sojo",
         "gluten"
       ],
       "may_contain": [
@@ -892,7 +892,7 @@
         "salt_g": 2.4
       },
       "contains_allergens": [
-        "soja",
+        "sojo",
         "gluten",
         "sezama"
       ],
@@ -960,7 +960,7 @@
         "salt_g": 2.1
       },
       "contains_allergens": [
-        "soja",
+        "sojo",
         "gluten"
       ],
       "may_contain": [
@@ -971,7 +971,7 @@
         "zelene"
       ],
       "pdf_product_code": "TC-27",
-      "pdf_product_name": "Veganski Three - Cup piščanec"
+      "pdf_product_name": "Veganski piščanec treh skodelic"
     },
     {
       "code": "TC29",
@@ -995,7 +995,7 @@
         "salt_g": 1.4
       },
       "contains_allergens": [
-        "soja",
+        "sojo",
         "gluten"
       ],
       "may_contain": [
@@ -1030,7 +1030,7 @@
         "salt_g": 1.9
       },
       "contains_allergens": [
-        "soja",
+        "sojo",
         "gluten"
       ],
       "may_contain": [
@@ -1065,7 +1065,7 @@
         "salt_g": 1.7
       },
       "contains_allergens": [
-        "soja",
+        "sojo",
         "gluten",
         "sezama"
       ],
@@ -1100,7 +1100,7 @@
         "salt_g": 1.2
       },
       "contains_allergens": [
-        "soja",
+        "sojo",
         "gluten"
       ],
       "pdf_product_code": "YD-01",
@@ -1129,7 +1129,7 @@
         "salt_g": 1.4
       },
       "contains_allergens": [
-        "soja",
+        "sojo",
         "gluten"
       ],
       "pdf_product_code": "YH-08",
@@ -1158,7 +1158,7 @@
         "salt_g": 1.9
       },
       "contains_allergens": [
-        "soja",
+        "sojo",
         "gluten"
       ],
       "may_contain": [
@@ -1192,7 +1192,7 @@
         "salt_g": 3.8
       },
       "contains_allergens": [
-        "soja",
+        "sojo",
         "gluten"
       ],
       "may_contain": [
@@ -1227,7 +1227,7 @@
         "salt_g": 1
       },
       "contains_allergens": [
-        "soja",
+        "sojo",
         "gluten"
       ],
       "may_contain": [
@@ -1261,7 +1261,7 @@
         "salt_g": 1.5
       },
       "contains_allergens": [
-        "soja",
+        "sojo",
         "gluten"
       ],
       "may_contain": [
@@ -1296,7 +1296,7 @@
         "salt_g": 1.6
       },
       "contains_allergens": [
-        "soja",
+        "sojo",
         "gluten",
         "sezama"
       ],
