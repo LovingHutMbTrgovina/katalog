@@ -11,7 +11,6 @@
       "price": 5.5,
       "currency": "EUR",
       "image": "images/AJ01.jpg",
-      "source_pdf": "AJ-01_Product Specification.pdf",
       "ingredients": "Voda, soja brez GSO (izolat sojinih beljakovin brez GSO, razmaščena sojina moka brez GSO, koruzni škrob), sojine beljakovine brez GSO, olje oljne repice, sladkor, sol, veganske začimbe, posušene alge",
       "nutrition_per": "100g",
       "nutrition": {
@@ -35,7 +34,6 @@
         "oreščkov",
         "zelene"
       ],
-      "pdf_product_code": "AJ-01",
       "pdf_product_name": "Veganski ribji zrezek"
     },
     {
@@ -45,7 +43,6 @@
       "price": 5.7,
       "currency": "EUR",
       "image": "images/AJ02.jpg",
-      "source_pdf": "AJ-02_Product Specification.pdf",
       "ingredients": "Voda, krompirjev škrob, tapiokin škrob, modificiran škrob, želirno sredstvo (konjak v prahu), hidrolizirane sojine beljakovine brez GSO, stabilizator (sorbitol), sol, naravne veganske začimbe, regulator kislosti (kalcijev hidroksid), barvilo (kalcijev karbonat), alge",
       "nutrition_per": "100g",
       "nutrition": {
@@ -61,7 +58,6 @@
       "contains_allergens": [
         "sojo"
       ],
-      "pdf_product_code": "AJ-02",
       "pdf_product_name": "Veganska ostriga",
       "may_contain": []
     },
@@ -72,7 +68,6 @@
       "price": 5.7,
       "currency": "EUR",
       "image": "images/CH02.jpg",
-      "source_pdf": "CH-02_Product Specification.pdf",
       "ingredients": "Voda, teksturirane sojine beljakovine brez GSO, soja brez GSO (sojine beljakovine, pšenični škrob, pšenične beljakovine, barvilo (kalcijev karbonat), antioksidant (L-cysteine hydrochloride)), sojino olje brez GSO, tomato sauce (Voda, tomato paste, saharoza, vinegar, sol, začimbe), saharoza, ekstrakt graha, ekstrakt korenja, sol, arome, rastlinsko pridobljeni ojačevalci okusa (dinatrijev gvanilat, dinatrijev inozinat), barvilo (sulfitni amonijev karamel), poper v prahu, paprika v prahu",
       "nutrition_per": "100g",
       "nutrition": {
@@ -96,7 +91,6 @@
         "oreščkov",
         "zelene"
       ],
-      "pdf_product_code": "CH-02",
       "pdf_product_name": "Veganske mesne kroglice"
     },
     {
@@ -106,7 +100,6 @@
       "price": 5.7,
       "currency": "EUR",
       "image": "images/CH03.jpg",
-      "source_pdf": "CH-03_Product Specification.pdf",
       "ingredients": "Voda, sojine beljakovine brez GSO (sojine beljakovine, pšenični škrob, pšenične beljakovine, barvilo (kalcijev karbonat), antioksidant (L-cysteine)), tempura batter mix (pšenična moka, palmovo olje, sol, soybean flour, yeast, koruzni škrob, regulator kislosti (kalcijev sulfat), sredstvo za vzhajanje (ammonium bicarbonate), sredstvo proti sprijemanju (magnezijev karbonat), vitamin C, kvasni ekstrakt, kokosovo olje), sojino olje, tapiokin škrob, modificiran škrob, saharoza, ekstrakt graha, ekstrakt korenja, sol, rastlinsko pridobljeni ojačevalci okusa (dinatrijev gvanilat, dinatrijev inozinat), arome, poper v prahu, kvasni ekstrakt",
       "nutrition_per": "100g",
       "nutrition": {
@@ -130,7 +123,6 @@
         "oreščkov",
         "zelene"
       ],
-      "pdf_product_code": "CH-03",
       "pdf_product_name": "Veganski paniran piščančji zrezek"
     },
     {
@@ -140,7 +132,6 @@
       "price": 6,
       "currency": "EUR",
       "image": "images/CH04.jpg",
-      "source_pdf": "CH-04_Product Specification.pdf",
       "ingredients": "Voda, sojine beljakovine brez GSO (sojine beljakovine, pšenični škrob, pšenične beljakovine, barvilo (kalcijev karbonat), antioksidant (L-cysteine)), modificiran škrob, sojino olje, želirno sredstvo (konjak v prahu), ekstrakt graha, ekstrakt korenja, sladkor, sol, rastlinsko pridobljeni ojačevalci okusa (dinatrijev gvanilat, dinatrijev inozinat), beli poper, regulator kislosti (natrijev karbonat), veganske arome",
       "nutrition_per": "100g",
       "nutrition": {
@@ -164,7 +155,6 @@
         "oreščkov",
         "zelene"
       ],
-      "pdf_product_code": "CH-04",
       "pdf_product_name": "Veganske marmorirane mesne rezine"
     },
     {
@@ -174,7 +164,6 @@
       "price": 6.5,
       "currency": "EUR",
       "image": "images/CH05.jpg",
-      "source_pdf": "CH-05_Product Specification b.pdf",
       "ingredients": "Voda, sojine beljakovine brez GSO (sojine beljakovine, pšenični škrob, pšenične beljakovine, barvilo (kalcijev karbonat), antioksidant (L-cysteine)), sojino olje, krompirjev škrob, maltoza, sladkor, alge, bean curd skin (soy), sojina omaka (vsebuje sojo, pšenico), stabilizator (sorbitol), sol, rastlinsko pridobljeni ojačevalci okusa (dinatrijev inozinat, dinatrijev gvanilat, glycine), beli poper, veganske arome, prah sladkega korena, mirin",
       "nutrition_per": "100g",
       "nutrition": {
@@ -191,7 +180,6 @@
         "sojo",
         "gluten"
       ],
-      "pdf_product_code": "CH-05",
       "pdf_product_name": "Veganski BBQ jeguljin file",
       "may_contain": []
     },
@@ -202,7 +190,6 @@
       "price": 6.2,
       "currency": "EUR",
       "image": "images/CK03.jpg",
-      "source_pdf": "CK-03_Product Specification.pdf",
       "ingredients": "Voda, teksturirane sojine beljakovine brez GSO, sojino olje, izolat sojinih beljakovin brez GSO, modificiran škrob, cane sladkor, sol, ojačevalci okusa (mononatrijev glutamat, plant- extract (glycine, dinatrijev gvanilat, dinatrijev inozinat)), veganske začimbe, sezamovo olje, mirin, beli poper",
       "nutrition_per": "100g",
       "nutrition": {
@@ -227,7 +214,6 @@
         "oreščkov",
         "zelene"
       ],
-      "pdf_product_code": "CK-03",
       "pdf_product_name": "Veganski piščančji zrezek"
     },
     {
@@ -237,7 +223,6 @@
       "price": 7.7,
       "currency": "EUR",
       "image": "images/CK06.jpg",
-      "source_pdf": "CK-06_Product Specification.pdf",
       "ingredients": "Voda, soja brez GSO (izolat sojinih beljakovin brez GSO, razmaščena sojina moka brez GSO, koruzni škrob), sojine beljakovine brez GSO, olje oljne repice, sladkor, sol, veganske začimbe, beli poper, barvilo (rdeči železov oksid)",
       "nutrition_per": "100g",
       "nutrition": {
@@ -261,7 +246,6 @@
         "oreščkov",
         "zelene"
       ],
-      "pdf_product_code": "CK-06",
       "pdf_product_name": "Veganska šunka"
     },
     {
@@ -271,7 +255,6 @@
       "price": 5.5,
       "currency": "EUR",
       "image": "images/CK07.jpg",
-      "source_pdf": "CK-07_Product Specification.pdf",
       "ingredients": "Voda, izolat sojinih beljakovin brez GSO, sojino olje, cane sladkor, modificiran škrob (starch acetate, hydroxypropyl distarch phosphate), alge, sol, ojačevalci okusa (mononatrijev L-glutamat, rastlinsko pridobljen (dinatrijev gvanilat, dinatrijev inozinat)), veganske arome, beli poper, tapiokin škrob, pšenična moka (gluten), parsley",
       "nutrition_per": "100g",
       "nutrition": {
@@ -295,7 +278,6 @@
         "oreščkov",
         "zelene"
       ],
-      "pdf_product_code": "CK-07",
       "pdf_product_name": "Veganska hrustljava ostriga"
     },
     {
@@ -305,7 +287,6 @@
       "price": 5.7,
       "currency": "EUR",
       "image": "images/CW03.jpg",
-      "source_pdf": "CW-03_Product Specification.pdf",
       "ingredients": "Voda, teksturirane sojine beljakovine brez GSO (izolat sojinih beljakovin brez GSO, pšenični škrob, pšenične beljakovine), sojino olje, zelenjavni ekstrakt (pea, korenje), sladkor, sol, modificiran škrob, hidrolizirane sojine beljakovine brez GSO, veganske arome, arome dima, pšenične beljakovine, kvasni ekstrakt, beli poper, mirin, barvilo (kalcijev karbonat, rdeči železov oksid)",
       "nutrition_per": "100g",
       "nutrition": {
@@ -330,7 +311,6 @@
         "oreščkov",
         "zelene"
       ],
-      "pdf_product_code": "CW-03",
       "pdf_product_name": "Veganska sendvič šunka"
     },
     {
@@ -340,7 +320,6 @@
       "price": 7,
       "currency": "EUR",
       "image": "images/CW07.jpg",
-      "source_pdf": "CW-07_Product Specification.pdf",
       "ingredients": "Voda, teksturirane sojine beljakovine brez GSO (izolat sojinih beljakovin brez GSO, pšenični škrob, pšenične beljakovine), sojino olje, zelenjavni ekstrakt (pea, korenje), sladkor, sol, modificiran škrob, hidrolizirane sojine beljakovine brez GSO, veganske arome, arome dima, pšenične beljakovine, kvasni ekstrakt, beli poper, črni poper 0,01%, mirin, barvilo (kalcijev karbonat, rdeči železov oksid)",
       "nutrition_per": "100g",
       "nutrition": {
@@ -365,7 +344,6 @@
         "oreščkov",
         "zelene"
       ],
-      "pdf_product_code": "CW-07",
       "pdf_product_name": "Veganska šunka s črnim poprom"
     },
     {
@@ -375,7 +353,6 @@
       "price": 8.6,
       "currency": "EUR",
       "image": "images/CW11.jpg",
-      "source_pdf": "CW-11_Product Specification.pdf",
       "ingredients": "Voda, teksturirane sojine beljakovine brez GSO (izolat sojinih beljakovin brez GSO, pšenični škrob, pšenične beljakovine), sojino olje, zelenjavni ekstrakt (pea, korenje), sladkor, sol, modificiran škrob, hidrolizirane sojine beljakovine brez GSO, veganske arome, arome dima, pšenične beljakovine, kvasni ekstrakt, beli poper, mirin, barvilo (kalcijev karbonat, rdeči železov oksid)",
       "nutrition_per": "100g",
       "nutrition": {
@@ -400,7 +377,6 @@
         "oreščkov",
         "zelene"
       ],
-      "pdf_product_code": "CW-11",
       "pdf_product_name": "Veganska dimljena šunka"
     },
     {
@@ -410,7 +386,6 @@
       "price": 12.1,
       "currency": "EUR",
       "image": "images/FC01.jpg",
-      "source_pdf": "FC-01_Product Specification.pdf",
       "ingredients": "soja brez GSO*, Voda, emulgator (sojin lecitin) *Država porekla: Kanada",
       "nutrition_per": "100g",
       "nutrition": {
@@ -433,7 +408,6 @@
         "oreščkov",
         "zelene"
       ],
-      "pdf_product_code": "FC-01",
       "pdf_product_name": "Veganska fižolova skuta"
     },
     {
@@ -443,7 +417,6 @@
       "price": 7,
       "currency": "EUR",
       "image": "images/GS03.jpg",
-      "source_pdf": "GS-03_Product Specification.pdf",
       "ingredients": "Pšenični gluten* 92%, pšenični škrob 3%, sojina omaka (vsebuje črno sojo, sol) 1.5%, sladkor, sol, začimbe (anise, fennel, klinčki, cimet, Chinese red poper), hydrolysed sojine beljakovine * Država porekla: ZDA",
       "nutrition_per": "100g",
       "nutrition": {
@@ -461,7 +434,6 @@
         "sojo",
         "gluten"
       ],
-      "pdf_product_code": "GS-03",
       "pdf_product_name": "Veganska pečena raca",
       "may_contain": []
     },
@@ -472,7 +444,6 @@
       "price": 7.4,
       "currency": "EUR",
       "image": "images/JC36.jpg",
-      "source_pdf": "JC-36_Product Specification.pdf",
       "ingredients": "Non-GMO sojine beljakovine, soja brez GSO, Voda, pšenične beljakovine, sojina omaka, olje oljne repice, kvasni ekstrakt, tapiokin škrob, sladkor, sol, veganske arome",
       "nutrition_per": "100g",
       "nutrition": {
@@ -495,7 +466,6 @@
         "oreščkov",
         "zelene"
       ],
-      "pdf_product_code": null,
       "pdf_product_name": "Veganska piščančja šunka"
     },
     {
@@ -505,7 +475,6 @@
       "price": 6,
       "currency": "EUR",
       "image": "images/KC10-V.jpg",
-      "source_pdf": "KC-10_Product Specification.pdf",
       "ingredients": "Voda, izolat sojinih beljakovin brez GSO, sojino olje, zelenjavni ekstrakt, tapiokin škrob, grahov škrob, sol, sladkor, poper, sojina omaka (vsebuje sojo in pšenico), kvasni ekstrakt, hydrolysed corn protein",
       "nutrition_per": "100g",
       "nutrition": {
@@ -530,7 +499,6 @@
         "oreščkov",
         "zelene"
       ],
-      "pdf_product_code": "KC-10",
       "pdf_product_name": "Veganski slano pečen piščanec"
     },
     {
@@ -540,7 +508,6 @@
       "price": 6,
       "currency": "EUR",
       "image": "images/KC21-V.jpg",
-      "source_pdf": "KC-21_Product Specification.pdf",
       "ingredients": "Voda, soja brez GSO (izolat sojinih beljakovin brez GSO, razmaščena sojina moka brez GSO, koruzni škrob), sojine beljakovine brez GSO, olje oljne repice, sladkor, sol, veganske začimbe, črni poper",
       "nutrition_per": "100g",
       "nutrition": {
@@ -564,7 +531,6 @@
         "oreščkov",
         "zelene"
       ],
-      "pdf_product_code": "KC-21",
       "pdf_product_name": "Veganski poprov zrezek"
     },
     {
@@ -574,7 +540,6 @@
       "price": 5.7,
       "currency": "EUR",
       "image": "images/KC23-V.jpg",
-      "source_pdf": "KC-23_Product Specification.pdf",
       "ingredients": "sojine beljakovine brez GSO*, Voda, pšenične beljakovine, pšenični škrob, sončnično olje, sol, sladkor, kitajska mešanica petih začimb, čili v prahu, veganska aroma mesa, veganska aroma piščanca, stabilizator (kalcijev sulfat), barvilo (kalcijev karbonat), glukoza, veganske arome (maltodextrin, ekstrakt shiitake, zelenjavni ekstrakt) * Država porekla: Kitajska",
       "nutrition_per": "100g",
       "nutrition": {
@@ -592,7 +557,6 @@
         "sojo",
         "gluten"
       ],
-      "pdf_product_code": "KC-23",
       "pdf_product_name": "Veganski piščančji koščki",
       "may_contain": []
     },
@@ -603,7 +567,6 @@
       "price": 5.5,
       "currency": "EUR",
       "image": "images/KC29.jpg",
-      "source_pdf": "KC-29_Product Specification.pdf",
       "ingredients": "Voda, krompirjev škrob*, ekstrakt kelpa, sladkor, pšenična vlaknina, sol, želirno sredstvo (karagenan, konjak v prahu), prah sojinih beljakovin brez GSO, barvilo (ekstrakt paprike) *Država porekla: Nemčija",
       "nutrition_per": "100g",
       "nutrition": {
@@ -621,7 +584,6 @@
         "sojo",
         "gluten"
       ],
-      "pdf_product_code": "KC-29",
       "pdf_product_name": "Veganske kozice",
       "may_contain": []
     },
@@ -632,7 +594,6 @@
       "price": 4.4,
       "currency": "EUR",
       "image": "images/SD01.jpg",
-      "source_pdf": "SD-01_Product Specification.pdf",
       "ingredients": "teksturirane sojine beljakovine brez GSO*, sojine beljakovine brez GSO, pšenične beljakovine, sojino olje, rastlinsko pridobljeni ojačevalci okusa (dinatrijev gvanilat, dinatrijev inozinat), saharoza, sol, začimbe, poper, modificiran škrob * Država porekla: ZDA",
       "nutrition_per": "100g",
       "nutrition": {
@@ -657,7 +618,6 @@
         "oreščkov",
         "zelene"
       ],
-      "pdf_product_code": "SD-01",
       "pdf_product_name": "Veganski pol piščanca"
     },
     {
@@ -667,7 +627,6 @@
       "price": 10.1,
       "currency": "EUR",
       "image": "images/SS06-N.jpg",
-      "source_pdf": "SS-06n_Product Specification.pdf",
       "ingredients": "sojine beljakovine brez GSO*, Voda, pšenične beljakovine, vlaknine shiitake, sojino olje, pšenični škrob, sol, sladkor, stabilizator (kalcijev sulfat), barvilo (kalcijev karbonat), beli poper, black sojina omaka(vsebuje črno sojo), veganske arome (maltodextrin, ekstrakt shiitake, zelenjavni ekstrakt) * Država porekla: Kitajska",
       "nutrition_per": "100g",
       "nutrition": {
@@ -692,7 +651,6 @@
         "oreščkov",
         "zelene"
       ],
-      "pdf_product_code": "SS-06",
       "pdf_product_name": "Veganska ovčetina new"
     },
     {
@@ -702,7 +660,6 @@
       "price": 6.2,
       "currency": "EUR",
       "image": "images/TC04.jpg",
-      "source_pdf": "TC-04_Product Specification.pdf",
       "ingredients": "sojine beljakovine brez GSO, soja brez GSO, pšenična vlaknina, pšenične beljakovine, bambusovi poganjki, korenje, sojina omaka, Voda, olje oljne repice, tapiokin škrob, sladkorni trs",
       "nutrition_per": "100g",
       "nutrition": {
@@ -727,7 +684,6 @@
         "oreščkov",
         "zelene"
       ],
-      "pdf_product_code": "TC-04",
       "pdf_product_name": "Veganske piščančje krače"
     },
     {
@@ -737,8 +693,7 @@
       "price": 5.1,
       "currency": "EUR",
       "image": "images/TC05.jpg",
-      "source_pdf": "TC-05_Product Specification.pdf",
-      "ingredients": "Sestavine: teksturirane sojine beljakovine brez GSO*, izolat sojinih beljakovin brez GSO, pšenične beljakovine, sojina omaka (vsebuje sojo in pšenico), maltoza (pšenica), trehaloza**, tapiokin škrob, sladkor, sol, črni poper 1%, kitajska mešanica petih začimb, začimbe, arome (maltodextrin, sol, sladkor, kvasni ekstrakt, hidrolizirane sojine beljakovine, ekstrakt shiitake, ekstrakt zelja) * Država porekla:Kitajska ** Trehalose is a source of glukoza.",
+      "ingredients": "Sestavine: teksturirane sojine beljakovine brez GSO*, izolat sojinih beljakovin brez GSO, pšenične beljakovine, sojina omaka (vsebuje sojo in pšenico), maltoza (pšenica), trehaloza, tapiokin škrob, sladkor, sol, črni poper 1%, kitajska mešanica petih začimb, začimbe, arome (maltodextrin, sol, sladkor, kvasni ekstrakt, hidrolizirane sojine beljakovine, ekstrakt shiitake, ekstrakt zelja) * Država porekla:Kitajska",
       "nutrition_per": "100g",
       "nutrition": {
         "energy_kj": 1373,
@@ -762,7 +717,6 @@
         "oreščkov",
         "zelene"
       ],
-      "pdf_product_code": "TC-05",
       "pdf_product_name": "Veganske vampi s črnim poprom"
     },
     {
@@ -772,7 +726,6 @@
       "price": 5.5,
       "currency": "EUR",
       "image": "images/TC06.jpg",
-      "source_pdf": "TC-06_Product Specification.pdf",
       "ingredients": "Pšenične vlaknine, soja brez GSO, Voda, sojine beljakovine brez GSO, sojina omaka, tapiokin škrob, sladkor, sol, beli poper, barvilo (ekstrakt paprike E160c), alge",
       "nutrition_per": "100g",
       "nutrition": {
@@ -797,7 +750,6 @@
         "oreščkov",
         "zelene"
       ],
-      "pdf_product_code": "TC-06",
       "pdf_product_name": "Veganski losos"
     },
     {
@@ -807,7 +759,6 @@
       "price": 4.2,
       "currency": "EUR",
       "image": "images/TC14.jpg",
-      "source_pdf": "TC-14_Product Specification.pdf",
       "ingredients": "soja brez GSO*, sojine beljakovine brez GSO, pšenična vlaknina, pšenične beljakovine, maltoza (pšenični ekstrakt), olje oljne repice, sladkor, sol, sojina omaka, barvilo (ekstrakt paprike E160c), veganske arome, tapiokin škrob * Država porekla:Kitajska",
       "nutrition_per": "100g",
       "nutrition": {
@@ -832,7 +783,6 @@
         "oreščkov",
         "zelene"
       ],
-      "pdf_product_code": "TC-14",
       "pdf_product_name": "Vegansko BBQ meso"
     },
     {
@@ -842,8 +792,7 @@
       "price": 5.2,
       "currency": "EUR",
       "image": "images/TC15.jpg",
-      "source_pdf": "TC-15_Product Specification.pdf",
-      "ingredients": "teksturirane sojine beljakovine brez GSO*, izolat sojinih beljakovin brez GSO, pšenične beljakovine, korenina lotosa, sojina omaka (vsebuje sojo in pšenico), maltoza (pšenica), trehaloza**, tapiokin škrob, sladkor, sol, arome (maltodextrin, sol, sladkor, kvasni ekstrakt, hidrolizirane sojine beljakovine, ekstrakt shiitake, ekstrakt zelja), sok črne slive, začimbe, olje oljne repice * Država porekla:Kitajska ** Trehalose is a source of glukoza.",
+      "ingredients": "teksturirane sojine beljakovine brez GSO*, izolat sojinih beljakovin brez GSO, pšenične beljakovine, korenina lotosa, sojina omaka (vsebuje sojo in pšenico), maltoza (pšenica), trehaloza, tapiokin škrob, sladkor, sol, arome (maltodextrin, sol, sladkor, kvasni ekstrakt, hidrolizirane sojine beljakovine, ekstrakt shiitake, ekstrakt zelja), sok črne slive, začimbe, olje oljne repice * Država porekla:Kitajska",
       "nutrition_per": "100g",
       "nutrition": {
         "energy_kj": 1428,
@@ -867,7 +816,6 @@
         "oreščkov",
         "zelene"
       ],
-      "pdf_product_code": "TC-15",
       "pdf_product_name": "Veganska rebrca"
     },
     {
@@ -877,7 +825,6 @@
       "price": 5.1,
       "currency": "EUR",
       "image": "images/TC24.jpg",
-      "source_pdf": "TC-24_Product Specification.pdf",
       "ingredients": "sojine beljakovine brez GSO*, soja brez GSO, pšenična vlaknina, olje oljne repice, Voda, sojina omaka, maltoza (pšenični ekstrakt), tapiokin škrob, sezamovo olje 0,7%, sol, kvasni ekstrakt, beli poper, veganske arome, goji jagode *Država porekla: Kitajska",
       "nutrition_per": "100g",
       "nutrition": {
@@ -903,7 +850,6 @@
         "oreščkov",
         "zelene"
       ],
-      "pdf_product_code": "TC-24",
       "pdf_product_name": "Veganski piščanec s sezamovim oljem"
     },
     {
@@ -913,7 +859,6 @@
       "price": 4.6,
       "currency": "EUR",
       "image": "images/TC26.jpg",
-      "source_pdf": "TC-26_Product Specification.pdf",
       "ingredients": "Voda, modificiran škrob, sladkor, sol, želirno sredstvo (konjak v prahu), olje oljne repice, veganske arome",
       "nutrition_per": "100g",
       "nutrition": {
@@ -935,7 +880,6 @@
         "oreščkov",
         "zelene"
       ],
-      "pdf_product_code": "TC-26",
       "pdf_product_name": "Veganske rezine lignja"
     },
     {
@@ -945,7 +889,6 @@
       "price": 5.1,
       "currency": "EUR",
       "image": "images/TC27.jpg",
-      "source_pdf": "TC-27_Product Specification.pdf",
       "ingredients": "sojine beljakovine brez GSO*, pšenične beljakovine, soja brez GSO, Voda, maltoza (pšenični ekstrakt), sladkor, sol, olje oljne repice, tapiokin škrob, veganske arome, ingver, čili *Država porekla: Kitajska",
       "nutrition_per": "100g",
       "nutrition": {
@@ -970,7 +913,6 @@
         "oreščkov",
         "zelene"
       ],
-      "pdf_product_code": "TC-27",
       "pdf_product_name": "Veganski piščanec treh skodelic"
     },
     {
@@ -980,7 +922,6 @@
       "price": 4.2,
       "currency": "EUR",
       "image": "images/TC29.jpg",
-      "source_pdf": "TC-29_Product Specification.pdf",
       "ingredients": "sojine beljakovine brez GSO*, soja brez GSO, shiitake, pšenične beljakovine, pšenična vlaknina, sladkor, olje oljne repice, kvasni ekstrakt, sol, veganske arome, beli poper, cimet *Država porekla: Kitajska",
       "nutrition_per": "100g",
       "nutrition": {
@@ -1005,7 +946,6 @@
         "oreščkov",
         "zelene"
       ],
-      "pdf_product_code": "TC-29",
       "pdf_product_name": "Veganska dušena govedina"
     },
     {
@@ -1015,7 +955,6 @@
       "price": 7.8,
       "currency": "EUR",
       "image": "images/TY01.jpg",
-      "source_pdf": "TY-01_Product Specification.pdf",
       "ingredients": "Pšenični gluten*, pšenični škrob, sezamovo olje, sojina omaka (vsebuje črno sojo, sol), ingver, sol, beli poper v prahu, hidrolizirane sojine beljakovine brez GSO",
       "nutrition_per": "100g",
       "nutrition": {
@@ -1040,7 +979,6 @@
         "oreščkov",
         "zelene"
       ],
-      "pdf_product_code": "TY-01",
       "pdf_product_name": "Veganska BBQ raca"
     },
     {
@@ -1050,7 +988,6 @@
       "price": 7.8,
       "currency": "EUR",
       "image": "images/TY02.jpg",
-      "source_pdf": "TY-02_Product Specification.pdf",
       "ingredients": "Pšenični gluten*, pšenični škrob, sezamovo olje, sojina omaka (vsebuje črno sojo, sol), ingver, sladkor, sol, beli poper v prahu, hidrolizirane sojine beljakovine brez GSO * Država porekla: ZDA",
       "nutrition_per": "100g",
       "nutrition": {
@@ -1076,7 +1013,6 @@
         "oreščkov",
         "zelene"
       ],
-      "pdf_product_code": "TY-02",
       "pdf_product_name": "Veganski račji koščki"
     },
     {
@@ -1086,7 +1022,6 @@
       "price": 13.2,
       "currency": "EUR",
       "image": "images/YD01.jpg",
-      "source_pdf": "YD-01_Product Specification.pdf",
       "ingredients": "Voda, vegansko meso (sojine beljakovine brez GSO, koruzni škrob, barvilo (kalcijev karbonat), utrjevalec (kalcijev sulfat)), izolat sojinih beljakovin brez GSO, sol, sladkor, poper, krompirjev škrob, arome (sol, kvasni ekstrakt, arabski gumi, palmovo olje, arome, antioksidant (vitamin E), rastlinsko pridobljen ojačevalec okusa (dinatrijevi 5′-ribonukleotidi), krompirjev škrob, izolat sojinih beljakovin, olje oljne repice, ocetna kislina)",
       "nutrition_per": "100g",
       "nutrition": {
@@ -1103,7 +1038,6 @@
         "sojo",
         "gluten"
       ],
-      "pdf_product_code": "YD-01",
       "pdf_product_name": "Veganska dušena šunka",
       "may_contain": []
     },
@@ -1114,7 +1048,6 @@
       "price": 5.5,
       "currency": "EUR",
       "image": "images/YH08.jpg",
-      "source_pdf": "YH-08_Product Specification.pdf",
       "ingredients": "Voda, krompirjev škrob*, ekstrakt kelpa, pšenična vlaknina, sladkor, sol, prah sojinih beljakovin brez GSO, želirno sredstvo (konjak v prahu, karagenan), barvilo (ekstrakt paprike) *Država porekla: Nemčija",
       "nutrition_per": "100g",
       "nutrition": {
@@ -1132,7 +1065,6 @@
         "sojo",
         "gluten"
       ],
-      "pdf_product_code": "YH-08",
       "pdf_product_name": "Veganski rakov surimi",
       "may_contain": []
     },
@@ -1143,7 +1075,6 @@
       "price": 5.8,
       "currency": "EUR",
       "image": "images/YS02.jpg",
-      "source_pdf": "YS-02_Product Specification.pdf",
       "ingredients": "Sojine beljakovine brez GSO*, Voda, pšenične beljakovine, pšenični škrob, sončnično olje, sol, sladkor, kitajska mešanica petih začimb, čili v prahu, veganska aroma mesa, veganska aroma piščanca, stabilizator (kalcijev sulfat), barvilo (kalcijev karbonat), glukoza, veganske arome (maltodextrin, ekstrakt shiitake, zelenjavni ekstrakt) *Država porekla: Kitajska",
       "nutrition_per": "100g",
       "nutrition": {
@@ -1168,7 +1099,6 @@
         "oreščkov",
         "zelene"
       ],
-      "pdf_product_code": "YS-02",
       "pdf_product_name": "Veganski satay"
     },
     {
@@ -1178,7 +1108,6 @@
       "price": 5.3,
       "currency": "EUR",
       "image": "images/AZ05.jpg",
-      "source_pdf": "AZ-05_Product Specification.pdf",
       "ingredients": "teksturirane sojine beljakovine brez GSO*, sladkor, olje oljne repice, sol, sojina omaka (vsebuje sojo in pšenico), ojačevalci okusa (mononatrijev glutamat, rastlinsko pridobljen (dinatrijev gvanilat, dinatrijev inozinat)), začimbe (sladki koren, cimet, klinčki, črni poper, vegetarijanski curry), vlažilo (D-sorbitol), konzervans (kalijev sorbat), antioksidant (vitamin E), barvilo (ekstrakt paprike) *Država porekla: Kitajska",
       "nutrition_per": "100g",
       "nutrition": {
@@ -1202,7 +1131,6 @@
         "oreščkov",
         "zelene"
       ],
-      "pdf_product_code": "AZ-05",
       "pdf_product_name": "Veganske BBQ rezine govedine"
     },
     {
@@ -1212,7 +1140,6 @@
       "price": 7.4,
       "currency": "EUR",
       "image": "images/D004b.jpg",
-      "source_pdf": "D-004_Product Specification.pdf",
       "ingredients": "sojine beljakovine brez GSO*, sojina moka brez GSO, pšenične beljakovine, pšenični škrob, barvila (kakav v prahu, kalcijev karbonat), utrjevalec (kalcijev sulfat) *Država porekla: Kitajska",
       "nutrition_per": "100g",
       "nutrition": {
@@ -1237,7 +1164,6 @@
         "oreščkov",
         "zelene"
       ],
-      "pdf_product_code": "D-004",
       "pdf_product_name": "Veganske rezine govedine"
     },
     {
@@ -1247,7 +1173,6 @@
       "price": 7.1,
       "currency": "EUR",
       "image": "images/D005b.jpg",
-      "source_pdf": "D-005_Product Specification.pdf",
       "ingredients": "sojine beljakovine brez GSO*, koruzni škrob, pšenične beljakovine, sojina moka brez GSO, pšenični škrob, utrjevalec (kalcijev sulfat), antioksidant (L-cistein monohidroklorid) *Država porekla: Kitajska",
       "nutrition_per": "100g",
       "nutrition": {
@@ -1271,7 +1196,6 @@
         "oreščkov",
         "zelene"
       ],
-      "pdf_product_code": "D-005",
       "pdf_product_name": "Veganski svinjski zrezek"
     },
     {
@@ -1281,7 +1205,6 @@
       "price": 7.6,
       "currency": "EUR",
       "image": "images/D126.jpg",
-      "source_pdf": "D-126_Product Specification.pdf",
       "ingredients": "Pšenični gluten*, sojino olje**, pšenični škrob, sezamovo olje, sojina omaka (vsebuje črno sojo, sol), sladkor, sol, ingver, čili paprika, hidrolizirane sojine beljakovine brez GSO * Država porekla: ZDA",
       "nutrition_per": "100g",
       "nutrition": {
@@ -1296,9 +1219,9 @@
         "salt_g": 1.6
       },
       "contains_allergens": [
-        "sojo",
+        "soja",
         "gluten",
-        "sezama"
+        "sezam"
       ],
       "may_contain": [
         "jajc",
@@ -1307,8 +1230,196 @@
         "oreščkov",
         "zelene"
       ],
-      "pdf_product_code": "D-126",
       "pdf_product_name": "Veganska mock raca"
+    },
+    {
+      "code": "Seitan_Kebab",
+      "name": "Seitan Kebab",
+      "weight": "1000g",
+      "price": "12",
+      "currency": "EUR",
+      "image": "images/Seitan_Kebab.jpg",
+      "ingredients": "voda, pšenične beljakovine (EU), sončnično olje, moka T-850, sol, začimbe, sojina omaka (soja, pšenica, voda, sol).",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 857,
+        "energy_kcal": 203,
+        "fat_g": 5.2,
+        "saturated_fat_g": 0.8,
+        "carbohydrates_g": 10.7,
+        "sugars_g": 0.5,
+        "protein_g": 28.4,
+        "salt_g": 1.39
+      },
+      "contains_allergens": [
+        "pšenica",
+        "gluten",
+        "soja"
+      ],
+      "may_contain": [
+        "sezama"
+      ]
+    },
+    {
+      "code": "Silken_Tofu",
+      "name": "Silken Tofu",
+      "weight": "300g",
+      "price": 3,
+      "currency": "EUR",
+      "image": "images/Silken_Tofu.jpg",
+      "ingredients": "voda, soja, stabilizator (E516), regulator kislosti (E575)",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 180,
+        "energy_kcal": 43,
+        "fat_g": 2.2,
+        "saturated_fat_g": 0.4,
+        "carbohydrates_g": 1.4,
+        "sugars_g": 0.5,
+        "protein_g": 5.1,
+        "salt_g": 0.0
+      },
+      "contains_allergens": [
+        "soja"
+      ],
+      "may_contain": []
+    },
+    {
+      "code": "Chicken_Burger",
+      "name": "Burger Chicken-Style",
+      "weight": "950g",
+      "price": "13",
+      "currency": "EUR",
+      "image": "images/Chicken_Burger.jpg",
+      "ingredients": "teksturiran aromatiziran pripravek iz grahovih beljakovin (voda, grahove beljakovine, repično olje, citrusna vlaknina, želirno sredstvo (kalcijev alginat), naravna aroma), voda, koruzni kosmiči (koruza, sladkor, olja (sončnično, repično), pšenična moka, zgoščevalec (metilceluloza), sol, pšenični zdrob, krompirjeve beljakovine, modificiran škrob (vsebuje pšenico), začimbe, sredstva za vzhajanje (difosfati, natrijevi karbonati), kvasni ekstrakt, dekstroza",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 1008,
+        "energy_kcal": 241,
+        "fat_g": 13,
+        "saturated_fat_g": 1.4,
+        "carbohydrates_g": 24,
+        "sugars_g": 1.3,
+        "protein_g": 7.0,
+        "salt_g": 1.6
+      },
+      "contains_allergens": [
+        "pšenica",
+        "gluten",
+        "ječmenov sladni ekstrakt"
+      ],
+      "may_contain": [
+        "mleko"
+      ]
+    },
+    {
+      "code": "Seitan",
+      "name": "Seitan",
+      "weight": "1000g",
+      "price": "12",
+      "currency": "EUR",
+      "image": "images/Seitan.jpg",
+      "ingredients": "voda, pšenične beljakovine (EU), moka T-850, sol, sojina omaka (soja, pšenica, voda, sol).",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 857,
+        "energy_kcal": 203,
+        "fat_g": 5.2,
+        "saturated_fat_g": 0.8,
+        "carbohydrates_g": 10.7,
+        "sugars_g": 0.5,
+        "protein_g": 28.4,
+        "salt_g": 1.39
+      },
+      "contains_allergens": [
+        "pšenica",
+        "soja"
+      ],
+      "may_contain": [
+        "sezama"
+      ]
+    },
+    {
+      "code": "Hotdogs",
+      "name": "Tofu Hotdogs",
+      "weight": "800g",
+      "price": "12",
+      "currency": "EUR",
+      "image": "images/Hotdogs.jpg",
+      "ingredients": "tofu (EU) (soja, voda, utrjevalec: kalcijev klorid), voda, sončnično olje, pšenične beljakovine, sojina omaka (soja, voda, pšenica, sol), čebula, sol, dimljene začimbe.",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 1121,
+        "energy_kcal": 269,
+        "fat_g": 17.7,
+        "saturated_fat_g": 2.2,
+        "carbohydrates_g": 7.3,
+        "sugars_g": 0.7,
+        "protein_g": 20.1,
+        "salt_g": 1.9
+      },
+      "contains_allergens": [
+        "pšenica",
+        "gluten",
+        "soja"
+      ],
+      "may_contain": [
+        "sezama"
+      ]
+    },
+    {
+      "code": "Nuggets",
+      "name": "Nuggets Chicken-Style",
+      "weight": "1000g",
+      "price": "13",
+      "currency": "EUR",
+      "image": "images/Nuggets.jpg",
+      "ingredients": "pripravek iz teksturiranih aromatiziranih grahovih beljakovin (voda, grahove beljakovine, repično olje, citrusna vlakna, želirno sredstvo (kalcijev alginat), naravna aroma), pšenična moka, voda, rastlinska olja (sončnično, repično olje), škrob (vsebuje pšenico), pšenični gluten, naravne arome, sredstvo za zgoščevanje (metilceluloza), sol, začimbe, krompirjeve beljakovine, ekstrakt kvasa, kvas, sredstvo za vzhajanje (difosfati, natrijevi karbonati), ekstrakt začimb.",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 1087,
+        "energy_kcal": 261,
+        "fat_g": 17,
+        "saturated_fat_g": 1.5,
+        "carbohydrates_g": 19,
+        "sugars_g": 0.3,
+        "protein_g": 7.3,
+        "salt_g": 1.2
+      },
+      "contains_allergens": [
+        "pšenica",
+        "gluten"
+      ],
+      "may_contain": [
+        "mleko"
+      ]
+    },
+    {
+      "code": "Fingers",
+      "name": "Fingers Chicken-Style",
+      "weight": "1000g",
+      "price": "13",
+      "currency": "EUR",
+      "image": "images/Fingers.jpg",
+      "ingredients": "pripravek iz teksturiranih aromatiziranih grahovih beljakovin (voda, grahove beljakovine, repično olje, citrusna vlakna, želirno sredstvo (kalcijev alginat), naravna aroma), pšenična moka, naravne arome, sredstvo za zgoščevanje (metilceluloza), sol, začimbe, krompirjeve beljakovine, ekstrakt kvasa, kvas, sredstvo za vzhajanje (difosfati, natrijevi karbonati), ekstrakt začimb.",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 1023,
+        "energy_kcal": 245,
+        "fat_g": 15,
+        "saturated_fat_g": 1.5,
+        "carbohydrates_g": 19,
+        "sugars_g": 0.3,
+        "protein_g": 7.9,
+        "salt_g": 1.3
+      },
+      "contains_allergens": [
+        "pšenica",
+        "gluten"
+      ],
+      "may_contain": [
+        "mleko"
+      ]
     }
   ]
 }

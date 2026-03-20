@@ -11,7 +11,6 @@
       "price": 5.5,
       "currency": "EUR",
       "image": "images/AJ01.jpg",
-      "source_pdf": "AJ-01_Product Specification.pdf",
       "ingredients": "Wasser, Sojafaser ohne Gentechnik (Sojaproteinisolat ohne Gentechnik, entfettetes Sojamehl ohne Gentechnik, Maisstärke), Sojaprotein ohne Gentechnik, Rapsöl, Zucker, Salz, vegane Gewürze, getrocknete Algen",
       "nutrition_per": "100g",
       "nutrition": {
@@ -34,9 +33,7 @@
         "Sesam",
         "Nüsse",
         "Sellerie"
-      ],
-      "pdf_product_code": "AJ-01",
-      "pdf_product_name": "Veganes Fischsteak"
+      ]
     },
     {
       "code": "AJ02",
@@ -45,7 +42,6 @@
       "price": 5.7,
       "currency": "EUR",
       "image": "images/AJ02.jpg",
-      "source_pdf": "AJ-02_Product Specification.pdf",
       "ingredients": "Wasser, Kartoffelstärke, Tapiokastärke, modifizierte Stärke, Geliermittel (Konjakpulver), hydrolysiertes Sojaprotein ohne Gentechnik, Stabilisator (Sorbitol), Salz, natürliche vegane Gewürze, Säureregulator (Calciumhydroxid), Farbstoff (Calciumcarbonat), Algen",
       "nutrition_per": "100g",
       "nutrition": {
@@ -61,8 +57,6 @@
       "contains_allergens": [
         "Soja"
       ],
-      "pdf_product_code": "AJ-02",
-      "pdf_product_name": "Vegane Auster",
       "may_contain": []
     },
     {
@@ -72,7 +66,6 @@
       "price": 5.7,
       "currency": "EUR",
       "image": "images/CH02.jpg",
-      "source_pdf": "CH-02_Product Specification.pdf",
       "ingredients": "Wasser, texturiertes Sojaprotein ohne Gentechnik, Sojafaser ohne Gentechnik (Sojaprotein, Weizenstärke, Weizenprotein, Farbstoff (Calciumcarbonat), Antioxidationsmittel (L-cysteine hydrochloride)), Sojabohnenöl ohne Gentechnik, Tomatensauce (Wasser, Tomatenmark, Saccharose, Essig, Salz, Gewürze), Saccharose, Erbsenextrakt, Karottenextrakt, Salz, Aromen, pflanzlich gewonnene Geschmacksverstärker (Dinatriumguanylat, Dinatriuminosinat), Farbstoff (Ammoniak-Zuckerkulör mit Sulfit), Pfefferpulver, Paprikapulver",
       "nutrition_per": "100g",
       "nutrition": {
@@ -95,9 +88,7 @@
         "Sesam",
         "Nüsse",
         "Sellerie"
-      ],
-      "pdf_product_code": "CH-02",
-      "pdf_product_name": "Vegane Fleischbällchen"
+      ]
     },
     {
       "code": "CH03",
@@ -106,7 +97,6 @@
       "price": 5.7,
       "currency": "EUR",
       "image": "images/CH03.jpg",
-      "source_pdf": "CH-03_Product Specification.pdf",
       "ingredients": "Wasser, Sojaprotein ohne Gentechnik (Sojaprotein, Weizenstärke, Weizenprotein, Farbstoff (Calciumcarbonat), Antioxidationsmittel (L-cysteine)), Tempura-Mix (Weizenmehl, Palmöl, Salz, Sojamehl, Hefe, Maisstärke, Säureregulator (Calciumsulfat), Backtriebmittel (Ammoniumbicarbonat), Trennmittel (Magnesiumcarbonat), Vitamin C, Hefeextrakt, Kokosöl), Sojaöl, Tapiokastärke, modifizierte Stärke, Saccharose, Erbsenextrakt, Karottenextrakt, Salz, pflanzlich gewonnene Geschmacksverstärker (Dinatriumguanylat, Dinatriuminosinat), Aromen, Pfefferpulver, Hefeextrakt",
       "nutrition_per": "100g",
       "nutrition": {
@@ -130,7 +120,6 @@
         "Nüsse",
         "Sellerie"
       ],
-      "pdf_product_code": "CH-03",
       "pdf_product_name": "Veganes paniertes Hähnchensteak"
     },
     {
@@ -140,7 +129,6 @@
       "price": 6,
       "currency": "EUR",
       "image": "images/CH04.jpg",
-      "source_pdf": "CH-04_Product Specification.pdf",
       "ingredients": "Wasser, Sojaprotein ohne Gentechnik (Sojaprotein, Weizenstärke, Weizenprotein, Farbstoff (Calciumcarbonat), Antioxidationsmittel (L-cysteine)), modifizierte Stärke, Sojaöl, Geliermittel (Konjakpulver), Erbsenextrakt, Karottenextrakt, Zucker, Salz, pflanzlich gewonnene Geschmacksverstärker (Dinatriumguanylat, Dinatriuminosinat), weißer Pfeffer, Säureregulator (Natriumcarbonat), vegane Aromen",
       "nutrition_per": "100g",
       "nutrition": {
@@ -163,9 +151,7 @@
         "Sesam",
         "Nüsse",
         "Sellerie"
-      ],
-      "pdf_product_code": "CH-04",
-      "pdf_product_name": "Vegane marmorierte Fleischscheiben"
+      ]
     },
     {
       "code": "CH05",
@@ -174,7 +160,6 @@
       "price": 6.5,
       "currency": "EUR",
       "image": "images/CH05.jpg",
-      "source_pdf": "CH-05_Product Specification b.pdf",
       "ingredients": "Wasser, Sojaprotein ohne Gentechnik (Sojaprotein, Weizenstärke, Weizenprotein, Farbstoff (Calciumcarbonat), Antioxidationsmittel (L-cysteine)), Sojaöl, Kartoffelstärke, Maltose, Zucker, Algen, Tofu-Skin (Soja), Sojasauce (enthält Soja, Weizen), Stabilisator (Sorbitol), Salz, pflanzlich gewonnene Geschmacksverstärker (Dinatriuminosinat, Dinatriumguanylat, glycine), weißer Pfeffer, vegane Aromen, Lakritzpulver, Mirin",
       "nutrition_per": "100g",
       "nutrition": {
@@ -191,8 +176,6 @@
         "Soja",
         "Gluten"
       ],
-      "pdf_product_code": "CH-05",
-      "pdf_product_name": "Vegane Barbecue-Aalalternative",
       "may_contain": []
     },
     {
@@ -202,7 +185,6 @@
       "price": 6.2,
       "currency": "EUR",
       "image": "images/CK03.jpg",
-      "source_pdf": "CK-03_Product Specification.pdf",
       "ingredients": "Wasser, texturiertes Sojaprotein ohne Gentechnik, Sojaöl, Sojaproteinisolat ohne Gentechnik, modifizierte Stärke, Rohrzucker, Salz, Geschmacksverstärker (Mononatriumglutamat, Pflanzenextrakt (glycine, Dinatriumguanylat, Dinatriuminosinat)), vegane Gewürze, Sesamöl, Mirin, weißer Pfeffer",
       "nutrition_per": "100g",
       "nutrition": {
@@ -226,9 +208,7 @@
         "Sesam",
         "Nüsse",
         "Sellerie"
-      ],
-      "pdf_product_code": "CK-03",
-      "pdf_product_name": "Veganes Hähnchensteak"
+      ]
     },
     {
       "code": "CK06",
@@ -237,7 +217,6 @@
       "price": 7.7,
       "currency": "EUR",
       "image": "images/CK06.jpg",
-      "source_pdf": "CK-06_Product Specification.pdf",
       "ingredients": "Wasser, Sojafaser ohne Gentechnik (Sojaproteinisolat ohne Gentechnik, entfettetes Sojamehl ohne Gentechnik, Maisstärke), Sojaprotein ohne Gentechnik, Rapsöl, Zucker, Salz, vegane Gewürze, weißer Pfeffer, Farbstoff (rotes Eisenoxid)",
       "nutrition_per": "100g",
       "nutrition": {
@@ -260,9 +239,7 @@
         "Sesam",
         "Nüsse",
         "Sellerie"
-      ],
-      "pdf_product_code": "CK-06",
-      "pdf_product_name": "Veganer Schinken"
+      ]
     },
     {
       "code": "CK07",
@@ -271,7 +248,6 @@
       "price": 5.5,
       "currency": "EUR",
       "image": "images/CK07.jpg",
-      "source_pdf": "CK-07_Product Specification.pdf",
       "ingredients": "Wasser, Sojaproteinisolat ohne Gentechnik, Sojaöl, Rohrzucker, modifizierte Stärke (Stärkeacetat, Hydroxypropyldistärkephosphat), Algen, Salz, Geschmacksverstärker (Mononatrium-L-Glutamat, pflanzlich gewonnenes Dinatriumguanylat und Dinatriuminosinat)), vegane Aromen, weißer Pfeffer, Tapiokastärke, Weizenmehl (Gluten), Petersilie",
       "nutrition_per": "100g",
       "nutrition": {
@@ -294,9 +270,7 @@
         "Sesam",
         "Nüsse",
         "Sellerie"
-      ],
-      "pdf_product_code": "CK-07",
-      "pdf_product_name": "Vegane knusprige Auster"
+      ]
     },
     {
       "code": "CW03",
@@ -305,7 +279,6 @@
       "price": 5.7,
       "currency": "EUR",
       "image": "images/CW03.jpg",
-      "source_pdf": "CW-03_Product Specification.pdf",
       "ingredients": "Wasser, texturiertes Sojaprotein ohne Gentechnik (Sojaproteinisolat ohne Gentechnik, Weizenstärke, Weizenprotein), Sojaöl, Gemüseextrakt (Erbse, Karotte), Zucker, Salz, modifizierte Stärke, hydrolysiertes Sojaprotein ohne Gentechnik, vegane Aromen, Raucharomen, Weizenprotein, Hefeextrakt, weißer Pfeffer, Mirin, Farbstoff (Calciumcarbonat, rotes Eisenoxid)",
       "nutrition_per": "100g",
       "nutrition": {
@@ -329,9 +302,7 @@
         "Sesam",
         "Nüsse",
         "Sellerie"
-      ],
-      "pdf_product_code": "CW-03",
-      "pdf_product_name": "Veganer Sandwich-Schinken"
+      ]
     },
     {
       "code": "CW07",
@@ -340,7 +311,6 @@
       "price": 7,
       "currency": "EUR",
       "image": "images/CW07.jpg",
-      "source_pdf": "CW-07_Product Specification.pdf",
       "ingredients": "Wasser, texturiertes Sojaprotein ohne Gentechnik (Sojaproteinisolat ohne Gentechnik, Weizenstärke, Weizenprotein), Sojaöl, Gemüseextrakt (Erbse, Karotte), Zucker, Salz, modifizierte Stärke, hydrolysiertes Sojaprotein ohne Gentechnik, vegane Aromen, Raucharomen, Weizenprotein, Hefeextrakt, weißer Pfeffer, schwarzer Pfeffer 0,01%, Mirin, Farbstoff (Calciumcarbonat, rotes Eisenoxid)",
       "nutrition_per": "100g",
       "nutrition": {
@@ -364,9 +334,7 @@
         "Sesam",
         "Nüsse",
         "Sellerie"
-      ],
-      "pdf_product_code": "CW-07",
-      "pdf_product_name": "Veganer Schinken mit schwarzem Pfeffer"
+      ]
     },
     {
       "code": "CW11",
@@ -375,7 +343,6 @@
       "price": 8.6,
       "currency": "EUR",
       "image": "images/CW11.jpg",
-      "source_pdf": "CW-11_Product Specification.pdf",
       "ingredients": "Wasser, texturiertes Sojaprotein ohne Gentechnik (Sojaproteinisolat ohne Gentechnik, Weizenstärke, Weizenprotein), Sojaöl, Gemüseextrakt (Erbse, Karotte), Zucker, Salz, modifizierte Stärke, hydrolysiertes Sojaprotein ohne Gentechnik, vegane Aromen, Raucharomen, Weizenprotein, Hefeextrakt, weißer Pfeffer, Mirin, Farbstoff (Calciumcarbonat, rotes Eisenoxid)",
       "nutrition_per": "100g",
       "nutrition": {
@@ -399,9 +366,7 @@
         "Sesam",
         "Nüsse",
         "Sellerie"
-      ],
-      "pdf_product_code": "CW-11",
-      "pdf_product_name": "Veganer geräucherter Schinken"
+      ]
     },
     {
       "code": "FC01",
@@ -410,7 +375,6 @@
       "price": 12.1,
       "currency": "EUR",
       "image": "images/FC01.jpg",
-      "source_pdf": "FC-01_Product Specification.pdf",
       "ingredients": "Sojabohnen ohne Gentechnik*, Wasser, Emulgator (Sojalecithin) *Ursprungsland: Kanada",
       "nutrition_per": "100g",
       "nutrition": {
@@ -432,9 +396,7 @@
         "Sesam",
         "Nüsse",
         "Sellerie"
-      ],
-      "pdf_product_code": "FC-01",
-      "pdf_product_name": "Tofu-Skin"
+      ]
     },
     {
       "code": "GS03",
@@ -443,7 +405,6 @@
       "price": 7,
       "currency": "EUR",
       "image": "images/GS03.jpg",
-      "source_pdf": "GS-03_Product Specification.pdf",
       "ingredients": "Wheat gluten* 92%, Weizenstärke 3%, Sojasauce (enthält schwarze Sojabohnen, Salz) 1.5%, Zucker, Salz, Gewürze (Anis, Fenchelsamen, Nelke, Zimt, Chinesischer roter Pfeffer), hydrolisiertes Sojaprotein * Ursprungsland: USA",
       "nutrition_per": "100g",
       "nutrition": {
@@ -461,8 +422,6 @@
         "Soja",
         "Gluten"
       ],
-      "pdf_product_code": "GS-03",
-      "pdf_product_name": "Vegane Bratente",
       "may_contain": []
     },
     {
@@ -472,7 +431,6 @@
       "price": 7.4,
       "currency": "EUR",
       "image": "images/JC36.jpg",
-      "source_pdf": "JC-36_Product Specification.pdf",
       "ingredients": "Sojaprotein ohne Gentechnik, Sojafaser ohne Gentechnik, Wasser, Weizenprotein, Sojasauce, Rapsöl, Hefeextrakt, Tapiokastärke, Zucker, Salz, vegane Aromen",
       "nutrition_per": "100g",
       "nutrition": {
@@ -492,9 +450,7 @@
         "Sesam",
         "Nüsse",
         "Sellerie"
-      ],
-      "pdf_product_code": null,
-      "pdf_product_name": "Veganer Hähnchenschinken"
+      ]
     },
     {
       "code": "KC10-V",
@@ -503,7 +459,6 @@
       "price": 6,
       "currency": "EUR",
       "image": "images/KC10-V.jpg",
-      "source_pdf": "KC-10_Product Specification.pdf",
       "ingredients": "Wasser, Sojaproteinisolat ohne Gentechnik, Sojaöl, Gemüseextrakt, Tapiokastärke, Erbsenstärke, Salz, Zucker, Pfeffer, Sojasauce (enthält Soja und Weizen), Hefeextrakt, Hydrolisiertes Maisprotein",
       "nutrition_per": "100g",
       "nutrition": {
@@ -527,9 +482,7 @@
         "Sesam",
         "Nüsse",
         "Sellerie"
-      ],
-      "pdf_product_code": "KC-10",
-      "pdf_product_name": "Veganes salzgeröstetes Hähnchen"
+      ]
     },
     {
       "code": "KC21-V",
@@ -538,7 +491,6 @@
       "price": 6,
       "currency": "EUR",
       "image": "images/KC21-V.jpg",
-      "source_pdf": "KC-21_Product Specification.pdf",
       "ingredients": "Wasser, Sojafaser ohne Gentechnik (Sojaproteinisolat ohne Gentechnik, entfettetes Sojamehl ohne Gentechnik, Maisstärke), Sojaprotein ohne Gentechnik, Rapsöl, Zucker, Salz, vegane Gewürze, schwarzer Pfeffer",
       "nutrition_per": "100g",
       "nutrition": {
@@ -561,9 +513,7 @@
         "Sesam",
         "Nüsse",
         "Sellerie"
-      ],
-      "pdf_product_code": "KC-21",
-      "pdf_product_name": "Veganes Pfeffersteak"
+      ]
     },
     {
       "code": "KC23-V",
@@ -572,7 +522,6 @@
       "price": 5.7,
       "currency": "EUR",
       "image": "images/KC23-V.jpg",
-      "source_pdf": "KC-23_Product Specification.pdf",
       "ingredients": "Sojaprotein ohne Gentechnik*, Wasser, Weizenprotein, Weizenstärke, Sonnenblumenöl, Salz, Zucker, chinesisches Five-Spice-Pulver, Chilipulver, veganes Fleischaroma, veganes Hähnchenaroma, Stabilisator (Calciumsulfat), Farbstoff (Calciumcarbonat), Glukose, vegane Aromen (Maltodextrin, Shiitake-Extrakt, Gemüseextrakt) * Ursprungsland: China",
       "nutrition_per": "100g",
       "nutrition": {
@@ -590,8 +539,6 @@
         "Soja",
         "Gluten"
       ],
-      "pdf_product_code": "KC-23",
-      "pdf_product_name": "Vegane Hähnchenchunks",
       "may_contain": []
     },
     {
@@ -601,7 +548,6 @@
       "price": 5.5,
       "currency": "EUR",
       "image": "images/KC29.jpg",
-      "source_pdf": "KC-29_Product Specification.pdf",
       "ingredients": "Wasser, Kartoffelstärke*, Kelp-Extrakt, Zucker, Weizenfaser, Salz, Geliermittel (Carrageen, Konjakpulver), Sojaproteinpulver ohne Gentechnik, Farbstoff (Paprikaextrakt) *Ursprungsland: Deutschland",
       "nutrition_per": "100g",
       "nutrition": {
@@ -619,8 +565,6 @@
         "Soja",
         "Gluten"
       ],
-      "pdf_product_code": "KC-29",
-      "pdf_product_name": "Vegane Garnelen",
       "may_contain": []
     },
     {
@@ -630,7 +574,6 @@
       "price": 4.4,
       "currency": "EUR",
       "image": "images/SD01.jpg",
-      "source_pdf": "SD-01_Product Specification.pdf",
       "ingredients": "texturiertes Sojaprotein ohne Gentechnik*, Sojaprotein ohne Gentechnik, Weizenprotein, Sojaöl, pflanzlich gewonnene Geschmacksverstärker (Dinatriumguanylat, Dinatriuminosinat), Saccharose, Salz, Gewürze, Pfeffer, modifizierte Stärke * Ursprungsland: USA",
       "nutrition_per": "100g",
       "nutrition": {
@@ -654,9 +597,7 @@
         "Sesam",
         "Nüsse",
         "Sellerie"
-      ],
-      "pdf_product_code": "SD-01",
-      "pdf_product_name": "Veganes halbes Hähnchen"
+      ]
     },
     {
       "code": "SS06-N",
@@ -665,7 +606,6 @@
       "price": 10.1,
       "currency": "EUR",
       "image": "images/SS06-N.jpg",
-      "source_pdf": "SS-06n_Product Specification.pdf",
       "ingredients": "Sojaprotein ohne Gentechnik*, Wasser, Weizenprotein, Shiitake-Faser, Sojaöl, Weizenstärke, Salz, Zucker, Stabilisator (Calciumsulfat), Farbstoff (Calciumcarbonat), weißer Pfeffer,schwarze Sojasauce(enthält schwarze Sojabohnen), vegane Aromen (maltodextrin, Shiitake-Extrakt, Gemüseextrakt) * Ursprungsland: China",
       "nutrition_per": "100g",
       "nutrition": {
@@ -689,9 +629,7 @@
         "Sesam",
         "Nüsse",
         "Sellerie"
-      ],
-      "pdf_product_code": "SS-06",
-      "pdf_product_name": "Veganes Mutton neu"
+      ]
     },
     {
       "code": "TC04",
@@ -700,7 +638,6 @@
       "price": 6.2,
       "currency": "EUR",
       "image": "images/TC04.jpg",
-      "source_pdf": "TC-04_Product Specification.pdf",
       "ingredients": "Sojaprotein ohne Gentechnik, Sojafaser ohne Gentechnik, Weizenfaser, Weizenprotein, Bambussprosse, Karotte, Sojasauce, Wasser, Rapsöl, Tapiokastärke, Zuckerrohr",
       "nutrition_per": "100g",
       "nutrition": {
@@ -724,9 +661,7 @@
         "Sesam",
         "Nüsse",
         "Sellerie"
-      ],
-      "pdf_product_code": "TC-04",
-      "pdf_product_name": "Vegane Hähnchenschenkel"
+      ]
     },
     {
       "code": "TC05",
@@ -735,7 +670,6 @@
       "price": 5.1,
       "currency": "EUR",
       "image": "images/TC05.jpg",
-      "source_pdf": "TC-05_Product Specification.pdf",
       "ingredients": "Zutaten: texturiertes Sojaprotein ohne Gentechnik*, Sojaproteinisolat ohne Gentechnik, Weizenprotein, Sojasauce (enthält Soja und Weizen), Maltose (Weizen), Trehalose**, Tapiokastärke, Zucker, Salz, schwarzer Pfeffer 1%, chinesisches Five-Spice-Pulver, Gewürze, Aromen (Maltodextrin, Salz, Zucker, Hefeextrakt, hydrolysiertes Sojaprotein, Shiitake-Extrakt, Kohlextrakt) * Ursprungsland:China ** Trehalose eine Zuckerart.",
       "nutrition_per": "100g",
       "nutrition": {
@@ -759,9 +693,7 @@
         "Sesam",
         "Nüsse",
         "Sellerie"
-      ],
-      "pdf_product_code": "TC-05",
-      "pdf_product_name": "Vegane Kutteln mit schwarzem Pfeffer"
+      ]
     },
     {
       "code": "TC06",
@@ -770,7 +702,6 @@
       "price": 5.5,
       "currency": "EUR",
       "image": "images/TC06.jpg",
-      "source_pdf": "TC-06_Product Specification.pdf",
       "ingredients": "Weizenfaser, Sojafaser ohne Gentechnik, Wasser, Sojaprotein ohne Gentechnik, Sojasauce, Tapiokastärke, Zucker, Salz, weißer Pfeffer, Farbstoff (Paprikaextrakt E160c), Algen",
       "nutrition_per": "100g",
       "nutrition": {
@@ -794,9 +725,7 @@
         "Sesam",
         "Nüsse",
         "Sellerie"
-      ],
-      "pdf_product_code": "TC-06",
-      "pdf_product_name": "Veganer Lachs"
+      ]
     },
     {
       "code": "TC14",
@@ -805,7 +734,6 @@
       "price": 4.2,
       "currency": "EUR",
       "image": "images/TC14.jpg",
-      "source_pdf": "TC-14_Product Specification.pdf",
       "ingredients": "Sojafaser ohne Gentechnik*, Sojaprotein ohne Gentechnik, Weizenfaser, Weizenprotein, Maltose (Weizenextrakt), Rapsöl, Zucker, Salz, Sojasauce, Farbstoff (Paprikaextrakt E160c), vegane Aromen, Tapiokastärke * Ursprungsland:China",
       "nutrition_per": "100g",
       "nutrition": {
@@ -829,9 +757,7 @@
         "Sesam",
         "Nüsse",
         "Sellerie"
-      ],
-      "pdf_product_code": "TC-14",
-      "pdf_product_name": "Veganes BBQ-Fleisch"
+      ]
     },
     {
       "code": "TC15",
@@ -840,7 +766,6 @@
       "price": 5.2,
       "currency": "EUR",
       "image": "images/TC15.jpg",
-      "source_pdf": "TC-15_Product Specification.pdf",
       "ingredients": "texturiertes Sojaprotein ohne Gentechnik*, Sojaproteinisolat ohne Gentechnik, Weizenprotein, Lotuswurzel, Sojasauce (enthält Soja und Weizen), Maltose (wheat), Trehalose**, Tapiokastärke, Zucker, Salz, Aromen (Maltodextrin, Salz, Zucker, Hefeextrakt, hydrolysiertes Sojaprotein, Shiitake-Extrakt, Kohlextrakt), Pflaumensaft, Gewürze, Rapsöl * Ursprungsland:China ** Trehalose ist eine Zuckerart.",
       "nutrition_per": "100g",
       "nutrition": {
@@ -864,9 +789,7 @@
         "Sesam",
         "Nüsse",
         "Sellerie"
-      ],
-      "pdf_product_code": "TC-15",
-      "pdf_product_name": "Vegane Spareribs"
+      ]
     },
     {
       "code": "TC24",
@@ -875,7 +798,6 @@
       "price": 5.1,
       "currency": "EUR",
       "image": "images/TC24.jpg",
-      "source_pdf": "TC-24_Product Specification.pdf",
       "ingredients": "Sojaprotein ohne Gentechnik*, Sojafaser ohne Gentechnik, Weizenfaser, Rapsöl, Wasser, Sojasauce, Maltose (Weizenextrakt), Tapiokastärke, Sesamöl 0,7%, Salz, Hefeextrakt, weißer Pfeffer, vegane Aromen, Gojibeere *Ursprungsland: China",
       "nutrition_per": "100g",
       "nutrition": {
@@ -900,9 +822,7 @@
         "Sesam",
         "Nüsse",
         "Sellerie"
-      ],
-      "pdf_product_code": "TC-24",
-      "pdf_product_name": "Veganes Sesamöl-Hähnchen"
+      ]
     },
     {
       "code": "TC26",
@@ -911,7 +831,6 @@
       "price": 4.6,
       "currency": "EUR",
       "image": "images/TC26.jpg",
-      "source_pdf": "TC-26_Product Specification.pdf",
       "ingredients": "Wasser, modifizierte Stärke, Zucker, Salz, Geliermittel (Konjakpulver), Rapsöl, vegane Aromen",
       "nutrition_per": "100g",
       "nutrition": {
@@ -932,9 +851,7 @@
         "Sesam",
         "Nüsse",
         "Sellerie"
-      ],
-      "pdf_product_code": "TC-26",
-      "pdf_product_name": "Vegane Tintenfischscheiben"
+      ]
     },
     {
       "code": "TC27",
@@ -943,7 +860,6 @@
       "price": 5.1,
       "currency": "EUR",
       "image": "images/TC27.jpg",
-      "source_pdf": "TC-27_Product Specification.pdf",
       "ingredients": "Sojaprotein ohne Gentechnik*, Weizenprotein, Sojafaser ohne Gentechnik, Wasser, Maltose (Weizenextrakt), Zucker, Salz, Rapsöl, Tapiokastärke, vegane Aromen, Ingwer, Chili *Ursprungsland: China",
       "nutrition_per": "100g",
       "nutrition": {
@@ -967,9 +883,7 @@
         "Sesam",
         "Nüsse",
         "Sellerie"
-      ],
-      "pdf_product_code": "TC-27",
-      "pdf_product_name": "Veganes Drei-Tassen-Hähnchen"
+      ]
     },
     {
       "code": "TC29",
@@ -978,7 +892,6 @@
       "price": 4.2,
       "currency": "EUR",
       "image": "images/TC29.jpg",
-      "source_pdf": "TC-29_Product Specification.pdf",
       "ingredients": "Sojaprotein ohne Gentechnik*, Sojafaser ohne Gentechnik, Shiitake, Weizenprotein, Weizenfaser, Zucker, Rapsöl, Hefeextrakt, Salz, vegane Aromen, weißer Pfeffer, Zimt *Ursprungsland: China",
       "nutrition_per": "100g",
       "nutrition": {
@@ -1002,9 +915,7 @@
         "Sesam",
         "Nüsse",
         "Sellerie"
-      ],
-      "pdf_product_code": "TC-29",
-      "pdf_product_name": "Veganes geschmortes Rindfleisch"
+      ]
     },
     {
       "code": "TY01",
@@ -1013,7 +924,6 @@
       "price": 7.8,
       "currency": "EUR",
       "image": "images/TY01.jpg",
-      "source_pdf": "TY-01_Product Specification.pdf",
       "ingredients": "Weizengluten*, Weizenstärke, Sesamöl, Sojasauce (enthält schwarze Sojabohnen, Salz), Ingwer, Salz, weißer Pfeffer, hydrolysiertes Sojaprotein ohne Gentechnik",
       "nutrition_per": "100g",
       "nutrition": {
@@ -1037,9 +947,7 @@
         "Sesam",
         "Nüsse",
         "Sellerie"
-      ],
-      "pdf_product_code": "TY-01",
-      "pdf_product_name": "Vegane BBQ-Ente"
+      ]
     },
     {
       "code": "TY02",
@@ -1048,7 +956,6 @@
       "price": 7.8,
       "currency": "EUR",
       "image": "images/TY02.jpg",
-      "source_pdf": "TY-02_Product Specification.pdf",
       "ingredients": "Weizengluten*, Weizenstärke, Sesamöl, Sojasauce (enthält schwarze Sojabohnen, Salz), Ingwer, Zucker, Salz, weißer Pfeffer, hydrolysiertes Sojaprotein ohne Gentechnik * Ursprungsland: USA",
       "nutrition_per": "100g",
       "nutrition": {
@@ -1073,9 +980,7 @@
         "Sesam",
         "Nüsse",
         "Sellerie"
-      ],
-      "pdf_product_code": "TY-02",
-      "pdf_product_name": "Vegane Entenstücke"
+      ]
     },
     {
       "code": "YD01",
@@ -1084,7 +989,6 @@
       "price": 13.2,
       "currency": "EUR",
       "image": "images/YD01.jpg",
-      "source_pdf": "YD-01_Product Specification.pdf",
       "ingredients": "Wasser, vegane Fleischalternative (Sojaprotein ohne Gentechnik, Maisstärke, Farbstoff (Calciumcarbonat), Festigungsmittel (Calciumsulfat)), Sojaproteinisolat ohne Gentechnik, Salz, Zucker, Pfeffer, Kartoffelstärke, Aromen (Salz, Hefeextrakt, Gummi arabicum, Palmöl, Aromen, Antioxidationsmittel (Vitamin E), pflanzlich gewonnen Geschmacksverstärker (Dinatrium-5′-Ribonukleotide), Kartoffelstärke, Sojaproteinisolat, Rapsöl, Essigsäure)",
       "nutrition_per": "100g",
       "nutrition": {
@@ -1101,8 +1005,6 @@
         "Soja",
         "Gluten"
       ],
-      "pdf_product_code": "YD-01",
-      "pdf_product_name": "Veganer Schmor-Schinken",
       "may_contain": []
     },
     {
@@ -1112,7 +1014,6 @@
       "price": 5.5,
       "currency": "EUR",
       "image": "images/YH08.jpg",
-      "source_pdf": "YH-08_Product Specification.pdf",
       "ingredients": "Wasser, Kartoffelstärke*, Kelp-Extrakt, Weizenfaser, Zucker, Salz, Sojaproteinpulver ohne Gentechnik, Geliermittel (Konjakpulver, Carrageen), Farbstoff (Paprikaextrakt) *Ursprungsland:Deutschland",
       "nutrition_per": "100g",
       "nutrition": {
@@ -1130,8 +1031,6 @@
         "Soja",
         "Gluten"
       ],
-      "pdf_product_code": "YH-08",
-      "pdf_product_name": "Vegane Krabben-Surimi",
       "may_contain": []
     },
     {
@@ -1141,7 +1040,6 @@
       "price": 5.8,
       "currency": "EUR",
       "image": "images/YS02.jpg",
-      "source_pdf": "YS-02_Product Specification.pdf",
       "ingredients": "Sojaprotein ohne Gentechnik*, Wasser, Weizenprotein, Weizenstärke, Sonnenblumenöl, Salz, Zucker, chinesisches Five-Spice-Pulver, Chilipulver, veganes Fleischaroma, veganes Hähnchenaroma, Stabilisator (Calciumsulfat), Farbstoff (Calciumcarbonat), Glukose, vegane Aromen (Maltodextrin, Shiitake-Extrakt, Gemüseextrakt) *Ursprungsland: China",
       "nutrition_per": "100g",
       "nutrition": {
@@ -1165,9 +1063,7 @@
         "Sesam",
         "Nüsse",
         "Sellerie"
-      ],
-      "pdf_product_code": "YS-02",
-      "pdf_product_name": "Vegane Saté"
+      ]
     },
     {
       "code": "AZ05",
@@ -1176,7 +1072,6 @@
       "price": 5.3,
       "currency": "EUR",
       "image": "images/AZ05.jpg",
-      "source_pdf": "AZ-05_Product Specification.pdf",
       "ingredients": "texturiertes Sojaprotein ohne Gentechnik*, Zucker, Rapsöl, Salz, Sojasauce (enthält Soja und Weizen), Geschmacksverstärker (Mononatriumglutamat, pflanzlich gewonnen (Dinatriumguanylat, Dinatriuminosinat)), Gewürze (Lakritz, Zimt, Nelke, schwarzer Pfeffer, Curry), Feuchthaltemittel (D-Sorbit), Konservierungsstoff (Kaliumsorbat), Antioxidationsmittel (Vitamin E), Farbstoff (Paprikaextrakt) *Ursprungsland: China",
       "nutrition_per": "100g",
       "nutrition": {
@@ -1199,9 +1094,7 @@
         "Sesam",
         "Nüsse",
         "Sellerie"
-      ],
-      "pdf_product_code": "AZ-05",
-      "pdf_product_name": "Vegane BBQ-Rindfleischscheiben"
+      ]
     },
     {
       "code": "D004b",
@@ -1210,7 +1103,6 @@
       "price": 7.4,
       "currency": "EUR",
       "image": "images/D004b.jpg",
-      "source_pdf": "D-004_Product Specification.pdf",
       "ingredients": "Sojaprotein ohne Gentechnik*, Sojamehl ohne Gentechnik, Weizenprotein, Weizenstärke, Farbstoffe (Kakaopulver, Calciumcarbonat), Festigungsmittel (Calciumsulfat) *Ursprungsland: China",
       "nutrition_per": "100g",
       "nutrition": {
@@ -1234,9 +1126,7 @@
         "Sesam",
         "Nüsse",
         "Sellerie"
-      ],
-      "pdf_product_code": "D-004",
-      "pdf_product_name": "Vegane Rindfleischscheiben"
+      ]
     },
     {
       "code": "D005b",
@@ -1245,7 +1135,6 @@
       "price": 7.1,
       "currency": "EUR",
       "image": "images/D005b.jpg",
-      "source_pdf": "D-005_Product Specification.pdf",
       "ingredients": "Sojaprotein ohne Gentechnik*, Maisstärke, Weizenprotein, Sojamehl ohne Gentechnik, Weizenstärke, Festigungsmittel (Calciumsulfat), Antioxidationsmittel (L-Cystein-Monohydrochlorid) *Ursprungsland: China",
       "nutrition_per": "100g",
       "nutrition": {
@@ -1268,9 +1157,7 @@
         "Sesam",
         "Nüsse",
         "Sellerie"
-      ],
-      "pdf_product_code": "D-005",
-      "pdf_product_name": "Veganes Schweinesteak"
+      ]
     },
     {
       "code": "D126",
@@ -1279,7 +1166,6 @@
       "price": 7.6,
       "currency": "EUR",
       "image": "images/D126.jpg",
-      "source_pdf": "D-126_Product Specification.pdf",
       "ingredients": "Weizengluten*, Sojaöl**, Weizenstärke, Sesamöl, Sojasauce (enthält schwarze Sojabohnen, Salz), Zucker, Salz, Ingwer, Chili, hydrolysiertes Sojaprotein ohne Gentechnik * Ursprungsland: USA ** Die Mock Duck ist in Sojaöl eingelegt",
       "nutrition_per": "100g",
       "nutrition": {
@@ -1304,9 +1190,196 @@
         "Sesam",
         "Nüsse",
         "Sellerie"
+      ]
+    },
+    {
+      "code": "Seitan_Kebab",
+      "name": "Seitan Kebab",
+      "weight": "1000g",
+      "price": "12",
+      "currency": "EUR",
+      "ingredients": "Wasser, Weizengluten (EU), Sonnenblumenöl, Weizenmehl T-850, Salz, Gewürze, Sojasauce (Soja, Weizen, Wasser, Salz).",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 857,
+        "energy_kcal": 203,
+        "fat_g": 5.2,
+        "saturated_fat_g": 0.8,
+        "carbohydrates_g": 10.7,
+        "sugars_g": 0.5,
+        "protein_g": 28.4,
+        "salt_g": 1.39
+      },
+      "contains_allergens": [
+        "Gluten",
+        "Weizen",
+        "Soja"
       ],
-      "pdf_product_code": "D-126",
-      "pdf_product_name": "Vegane Mock Duck"
+      "may_contain": [
+        "Sesam"
+      ]
+    },
+    {
+      "code": "Silken_Tofu",
+      "name": "Seidentofu",
+      "weight": "300g",
+      "price": 3,
+      "currency": "EUR",
+      "image": "images/Silken_Tofu.jpg",
+      "ingredients": "Wasser, Sojabohnen, Stabilisator (E516), Säureregulator (E575)",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 180,
+        "energy_kcal": 43,
+        "fat_g": 2.2,
+        "saturated_fat_g": 0.4,
+        "carbohydrates_g": 1.4,
+        "sugars_g": 0.5,
+        "protein_g": 5.1,
+        "salt_g": 0.0
+      },
+      "contains_allergens": [
+        "Soja"
+      ],
+      "may_contain": []
+    },
+    {
+      "code": "Chicken_Burger",
+      "name": "Cornflakes Burger Chicken-Style",
+      "weight": "950g",
+      "price": "13",
+      "currency": "EUR",
+      "image": "images/Chicken_Burger.jpg",
+      "ingredients": "Texturierte aromatisierte Erbsenprotein-Zubereitung (Wasser, Erbsenprotein, Rapsöl, Zitrusfaser, Geliermittel (Calciumalginat), natürliches Aroma), Wasser, Cornflakes (Mais, Zucker, Öle (Sonnenblume, Raps), Weizenmehl, Verdickungsmittel (Methylcellulose), Salz, Weizengrieß, Kartoffeleiweiß, modifizierte Stärke (enthält Weizen), Gewürze, Backtriebmittel (Diphosphate, Natriumcarbonate), Hefeextrakt, Dextrose",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 1008,
+        "energy_kcal": 241,
+        "fat_g": 13,
+        "saturated_fat_g": 1.4,
+        "carbohydrates_g": 24,
+        "sugars_g": 1.3,
+        "protein_g": 7.0,
+        "salt_g": 1.6
+      },
+      "contains_allergens": [
+        "Gluten",
+        "Weizen",
+        "Gerstenmalzextrakt"
+      ],
+      "may_contain": [
+        "Milch"
+      ]
+    },
+    {
+      "code": "Seitan",
+      "name": "Seitan",
+      "weight": "1000g",
+      "price": "12",
+      "currency": "EUR",
+      "image": "images/Seitan.jpg",
+      "ingredients": "Wasser, Weizengluten (EU), Weizenmehl T-850, Salz, Sojasauce (Soja, Weizen, Wasser, Salz).",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 857,
+        "energy_kcal": 203,
+        "fat_g": 5.2,
+        "saturated_fat_g": 0.8,
+        "carbohydrates_g": 10.7,
+        "sugars_g": 0.5,
+        "protein_g": 28.4,
+        "salt_g": 1.39
+      },
+      "contains_allergens": [
+        "Gluten",
+        "Weizen",
+        "Soja"
+      ],
+      "may_contain": [
+        "Sesam"
+      ]
+    },
+    {
+      "code": "Hotdogs",
+      "name": "Tofu Hotdogs",
+      "weight": "800g",
+      "price": "12",
+      "currency": "EUR",
+      "image": "images/Hotdogs.jpg",
+      "ingredients": "Tofu (EU) (Soja, Wasser, Gerinnungsmittel: Calciumchlorid), Wasser, Sonnenblumenöl, Weizenprotein, Sojasauce (Soja, Wasser, Weizen, Salz), Zwiebel, Salz, geräucherte Gewürze.",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 1121,
+        "energy_kcal": 269,
+        "fat_g": 17.7,
+        "saturated_fat_g": 2.2,
+        "carbohydrates_g": 7.3,
+        "sugars_g": 0.7,
+        "protein_g": 20.1,
+        "salt_g": 1.9
+      },
+      "contains_allergens": [
+        "Gluten",
+        "Weizen",
+        "Soja"
+      ],
+      "may_contain": [
+        "Sesam"
+      ]
+    },
+    {
+      "code": "Nuggets",
+      "name": "Nuggets Chicken-Style",
+      "weight": "1000g",
+      "price": "13",
+      "currency": "EUR",
+      "image": "images/Nuggets.jpg",
+      "ingredients": "Texturierte aromatisierte Erbsenprotein-Zubereitung (Wasser, Erbsenprotein, Rapsöl, Zitrusfasern, Geliermittel (Calciumalginat), natürliches Aroma), Weizenmehl, Wasser, Pflanzliche Öle (Sonnenblumenöl, Rapsöl), Stärke (enthält Weizen), Weizengluten, natürliche Aromen, Verdickungsmittel (Methylcellulose), Salz, Gewürze, Kartoffelprotein, Hefeextrakt, Hefe, Backtriebmittel (Diphosphate, Natriumcarbonate), Gewürzextrakt.",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 1087,
+        "energy_kcal": 261,
+        "fat_g": 17,
+        "saturated_fat_g": 1.5,
+        "carbohydrates_g": 19,
+        "sugars_g": 0.3,
+        "protein_g": 7.3,
+        "salt_g": 1.2
+      },
+      "contains_allergens": [
+        "Weizen",
+        "Gluten"
+      ],
+      "may_contain": [
+        "Milch"
+      ]
+    },
+    {
+      "code": "Fingers",
+      "name": "Fingers Chicken-Style",
+      "weight": "1000g",
+      "price": "13",
+      "currency": "EUR",
+      "image": "images/Fingers.jpg",
+      "ingredients": "Texturierte aromatisierte Erbsenprotein-Zubereitung (Wasser, Erbsenprotein, Rapsöl, Zitrusfasern, Geliermittel (Calciumalginat), natürliches Aroma), Weizenmehl, natürliche Aromen, Verdickungsmittel (Methylcellulose), Salz, Gewürze, Kartoffelprotein, Hefeextrakt, Hefe, Backtriebmittel (Diphosphate, Natriumcarbonate), Gewürzextrakt.",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 1023,
+        "energy_kcal": 245,
+        "fat_g": 15,
+        "saturated_fat_g": 1.5,
+        "carbohydrates_g": 19,
+        "sugars_g": 0.3,
+        "protein_g": 7.9,
+        "salt_g": 1.3
+      },
+      "contains_allergens": [
+        "Weizen",
+        "Gluten"
+      ],
+      "may_contain": [
+        "Milch"
+      ]
     }
   ]
 }
