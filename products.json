@@ -1,0 +1,861 @@
+{
+  "products": [
+    {
+      "code": "AJ01",
+      "weight": "300g",
+      "price": 5.5,
+      "currency": "EUR",
+      "image": "images/AJ01.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 703,
+        "energy_kcal": 168,
+        "fat_g": 6,
+        "saturated_fat_g": 0.6,
+        "carbohydrates_g": 12,
+        "sugars_g": 3,
+        "fibre_g": 1.5,
+        "protein_g": 16,
+        "salt_g": 1.4
+      }
+    },
+    {
+      "code": "AJ02",
+      "weight": "300g",
+      "price": 5.7,
+      "currency": "EUR",
+      "image": "images/AJ02.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 402,
+        "energy_kcal": 96,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "carbohydrates_g": 20,
+        "sugars_g": 0,
+        "protein_g": 4,
+        "salt_g": 1.9
+      }
+    },
+    {
+      "code": "CH02",
+      "weight": "300g",
+      "price": 5.7,
+      "currency": "EUR",
+      "image": "images/CH02.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 800,
+        "energy_kcal": 191,
+        "fat_g": 6.1,
+        "saturated_fat_g": 0.8,
+        "carbohydrates_g": 15,
+        "sugars_g": 4.8,
+        "protein_g": 19,
+        "salt_g": 1.7
+      }
+    },
+    {
+      "code": "CH03",
+      "weight": "250g",
+      "price": 5.7,
+      "currency": "EUR",
+      "image": "images/CH03.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 1080,
+        "energy_kcal": 258,
+        "fat_g": 15,
+        "saturated_fat_g": 1.4,
+        "carbohydrates_g": 14,
+        "sugars_g": 1.5,
+        "protein_g": 17,
+        "salt_g": 2.3
+      }
+    },
+    {
+      "code": "CH04",
+      "weight": "250g",
+      "price": 6,
+      "currency": "EUR",
+      "image": "images/CH04.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 520,
+        "energy_kcal": 124,
+        "fat_g": 4.3,
+        "saturated_fat_g": 0.8,
+        "carbohydrates_g": 18,
+        "sugars_g": 2.8,
+        "protein_g": 3.9,
+        "salt_g": 3.2
+      }
+    },
+    {
+      "code": "CH05",
+      "weight": "300g",
+      "price": 6.5,
+      "currency": "EUR",
+      "image": "images/CH05.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 795,
+        "energy_kcal": 190,
+        "fat_g": 6,
+        "saturated_fat_g": 1,
+        "carbohydrates_g": 15,
+        "sugars_g": 5,
+        "protein_g": 19,
+        "salt_g": 1.7
+      }
+    },
+    {
+      "code": "CK03",
+      "weight": "275g",
+      "price": 6.2,
+      "currency": "EUR",
+      "image": "images/CK03.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 1011,
+        "energy_kcal": 242,
+        "fat_g": 16,
+        "saturated_fat_g": 2.1,
+        "carbohydrates_g": 5.5,
+        "sugars_g": 2.1,
+        "fibre_g": 1.3,
+        "protein_g": 19,
+        "salt_g": 2
+      }
+    },
+    {
+      "code": "CK06",
+      "weight": "500g",
+      "price": 7.7,
+      "currency": "EUR",
+      "image": "images/CK06.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 657,
+        "energy_kcal": 157,
+        "fat_g": 6.9,
+        "saturated_fat_g": 0.6,
+        "carbohydrates_g": 7.7,
+        "sugars_g": 1.5,
+        "fibre_g": 2.2,
+        "protein_g": 16,
+        "salt_g": 2.1
+      }
+    },
+    {
+      "code": "CK07",
+      "weight": "300g",
+      "price": 5.5,
+      "currency": "EUR",
+      "image": "images/CK07.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 634,
+        "energy_kcal": 290,
+        "fat_g": 20,
+        "saturated_fat_g": 2.5,
+        "carbohydrates_g": 17,
+        "sugars_g": 2,
+        "protein_g": 10,
+        "salt_g": 1.5
+      }
+    },
+    {
+      "code": "CW03",
+      "weight": "250g",
+      "price": 5.7,
+      "currency": "EUR",
+      "image": "images/CW03.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 821,
+        "energy_kcal": 196,
+        "fat_g": 12,
+        "saturated_fat_g": 2.2,
+        "carbohydrates_g": 5.8,
+        "sugars_g": 1.9,
+        "fibre_g": 0.8,
+        "protein_g": 16,
+        "salt_g": 2.2
+      }
+    },
+    {
+      "code": "CW07",
+      "weight": "350g",
+      "price": 7,
+      "currency": "EUR",
+      "image": "images/CW07.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 821,
+        "energy_kcal": 196,
+        "fat_g": 12,
+        "saturated_fat_g": 2.2,
+        "carbohydrates_g": 5.8,
+        "sugars_g": 1.9,
+        "fibre_g": 0.8,
+        "protein_g": 16,
+        "salt_g": 2.2
+      }
+    },
+    {
+      "code": "CW11",
+      "weight": "500g",
+      "price": 8.6,
+      "currency": "EUR",
+      "image": "images/CW11.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 821,
+        "energy_kcal": 196,
+        "fat_g": 12,
+        "saturated_fat_g": 2.2,
+        "carbohydrates_g": 5.8,
+        "sugars_g": 1.9,
+        "fibre_g": 0.8,
+        "protein_g": 16,
+        "salt_g": 2.2
+      }
+    },
+    {
+      "code": "FC01",
+      "weight": "1000g",
+      "price": 12.1,
+      "currency": "EUR",
+      "image": "images/FC01.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 841,
+        "energy_kcal": 201,
+        "fat_g": 12,
+        "saturated_fat_g": 1.5,
+        "carbohydrates_g": 3,
+        "fibre_g": 1.4,
+        "protein_g": 21,
+        "salt_g": 0.01
+      }
+    },
+    {
+      "code": "GS03",
+      "weight": "500g",
+      "price": 7,
+      "currency": "EUR",
+      "image": "images/GS03.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 594,
+        "energy_kcal": 142,
+        "fat_g": 2.6,
+        "saturated_fat_g": 0.5,
+        "carbohydrates_g": 9.7,
+        "sugars_g": 0.8,
+        "fibre_g": 0.9,
+        "protein_g": 20,
+        "salt_g": 1.6
+      }
+    },
+    {
+      "code": "JC36",
+      "weight": "500g",
+      "price": 7.4,
+      "currency": "EUR",
+      "image": "images/JC36.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "fat_g": 11,
+        "carbohydrates_g": 9,
+        "fibre_g": 1,
+        "protein_g": 19,
+        "salt_g": 2,
+        "energy_kj": 883,
+        "energy_kcal": 211,
+        "saturated_fat_g": 2,
+        "sugars_g": 6.3
+      }
+    },
+    {
+      "code": "KC10-V",
+      "weight": "300g",
+      "price": 6,
+      "currency": "EUR",
+      "image": "images/KC10-V.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 1193,
+        "energy_kcal": 285,
+        "fat_g": 20,
+        "saturated_fat_g": 3,
+        "carbohydrates_g": 13,
+        "sugars_g": 1,
+        "fibre_g": 2,
+        "protein_g": 13,
+        "salt_g": 1.5
+      }
+    },
+    {
+      "code": "KC21-V",
+      "weight": "300g",
+      "price": 6,
+      "currency": "EUR",
+      "image": "images/KC21-V.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 812,
+        "energy_kcal": 194,
+        "fat_g": 7.2,
+        "saturated_fat_g": 0.7,
+        "carbohydrates_g": 7.7,
+        "sugars_g": 2.4,
+        "fibre_g": 1.5,
+        "protein_g": 19,
+        "salt_g": 2
+      }
+    },
+    {
+      "code": "KC23-V",
+      "weight": "300g",
+      "price": 5.7,
+      "currency": "EUR",
+      "image": "images/KC23-V.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 757,
+        "energy_kcal": 181,
+        "fat_g": 9.9,
+        "saturated_fat_g": 1.8,
+        "carbohydrates_g": 8.1,
+        "sugars_g": 3.5,
+        "fibre_g": 0.3,
+        "protein_g": 15,
+        "salt_g": 1.9
+      }
+    },
+    {
+      "code": "KC29",
+      "weight": "300g",
+      "price": 5.5,
+      "currency": "EUR",
+      "image": "images/KC29.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 314,
+        "energy_kcal": 75,
+        "fat_g": 0.5,
+        "saturated_fat_g": 0.1,
+        "carbohydrates_g": 17,
+        "sugars_g": 2.5,
+        "fibre_g": 3.4,
+        "protein_g": 0.3,
+        "salt_g": 0.9
+      }
+    },
+    {
+      "code": "SD01",
+      "weight": "180g",
+      "price": 4.4,
+      "currency": "EUR",
+      "image": "images/SD01.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 669,
+        "energy_kcal": 160,
+        "fat_g": 7.2,
+        "saturated_fat_g": 1.3,
+        "carbohydrates_g": 7.8,
+        "sugars_g": 1.7,
+        "fibre_g": 2.2,
+        "protein_g": 17,
+        "salt_g": 1.7
+      }
+    },
+    {
+      "code": "SS06-N",
+      "weight": "600g",
+      "price": 10.1,
+      "currency": "EUR",
+      "image": "images/SS06-N.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 942,
+        "energy_kcal": 225,
+        "fat_g": 16,
+        "saturated_fat_g": 2.7,
+        "carbohydrates_g": 8.1,
+        "sugars_g": 2.9,
+        "fibre_g": 3.4,
+        "protein_g": 12,
+        "salt_g": 2.2
+      }
+    },
+    {
+      "code": "TC04",
+      "weight": "250g",
+      "price": 6.2,
+      "currency": "EUR",
+      "image": "images/TC04.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 1365,
+        "energy_kcal": 326,
+        "fat_g": 7.6,
+        "saturated_fat_g": 0.5,
+        "carbohydrates_g": 49,
+        "sugars_g": 6.1,
+        "fibre_g": 3.9,
+        "protein_g": 16,
+        "salt_g": 1.5
+      }
+    },
+    {
+      "code": "TC05",
+      "weight": "250g",
+      "price": 5.1,
+      "currency": "EUR",
+      "image": "images/TC05.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 1373,
+        "energy_kcal": 328,
+        "fat_g": 18,
+        "saturated_fat_g": 1,
+        "carbohydrates_g": 24,
+        "sugars_g": 11,
+        "fibre_g": 3,
+        "protein_g": 18,
+        "salt_g": 2.2
+      }
+    },
+    {
+      "code": "TC06",
+      "weight": "300g",
+      "price": 5.5,
+      "currency": "EUR",
+      "image": "images/TC06.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 1072,
+        "energy_kcal": 256,
+        "fat_g": 17,
+        "saturated_fat_g": 2.8,
+        "carbohydrates_g": 10,
+        "sugars_g": 2.4,
+        "fibre_g": 0.2,
+        "protein_g": 16,
+        "salt_g": 1.3
+      }
+    },
+    {
+      "code": "TC14",
+      "weight": "200g",
+      "price": 4.2,
+      "currency": "EUR",
+      "image": "images/TC14.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 1099,
+        "energy_kcal": 263,
+        "fat_g": 11,
+        "saturated_fat_g": 0.8,
+        "carbohydrates_g": 24,
+        "sugars_g": 3.3,
+        "fibre_g": 2.5,
+        "protein_g": 16,
+        "salt_g": 1.4
+      }
+    },
+    {
+      "code": "TC15",
+      "weight": "250g",
+      "price": 5.2,
+      "currency": "EUR",
+      "image": "images/TC15.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 1428,
+        "energy_kcal": 341,
+        "fat_g": 21,
+        "saturated_fat_g": 4,
+        "carbohydrates_g": 21,
+        "sugars_g": 8,
+        "fibre_g": 3,
+        "protein_g": 17,
+        "salt_g": 2.4
+      }
+    },
+    {
+      "code": "TC24",
+      "weight": "250g",
+      "price": 5.1,
+      "currency": "EUR",
+      "image": "images/TC24.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 1428,
+        "energy_kcal": 341,
+        "fat_g": 21,
+        "saturated_fat_g": 4,
+        "carbohydrates_g": 21,
+        "sugars_g": 8,
+        "fibre_g": 3,
+        "protein_g": 17,
+        "salt_g": 2.4
+      }
+    },
+    {
+      "code": "TC26",
+      "weight": "200g",
+      "price": 4.6,
+      "currency": "EUR",
+      "image": "images/TC26.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 647,
+        "energy_kcal": 155,
+        "fat_g": 4.8,
+        "saturated_fat_g": 0.3,
+        "carbohydrates_g": 28,
+        "sugars_g": 4.8,
+        "fibre_g": 5.2,
+        "protein_g": 0.3,
+        "salt_g": 2
+      }
+    },
+    {
+      "code": "TC27",
+      "weight": "250g",
+      "price": 5.1,
+      "currency": "EUR",
+      "image": "images/TC27.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 1213,
+        "energy_kcal": 290,
+        "fat_g": 13,
+        "saturated_fat_g": 1,
+        "carbohydrates_g": 26,
+        "sugars_g": 9.4,
+        "fibre_g": 2.2,
+        "protein_g": 18,
+        "salt_g": 2.1
+      }
+    },
+    {
+      "code": "TC29",
+      "weight": "200g",
+      "price": 4.2,
+      "currency": "EUR",
+      "image": "images/TC29.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 1485,
+        "energy_kcal": 355,
+        "fat_g": 24,
+        "saturated_fat_g": 1.7,
+        "carbohydrates_g": 15,
+        "sugars_g": 2.8,
+        "fibre_g": 5,
+        "protein_g": 19,
+        "salt_g": 1.4
+      }
+    },
+    {
+      "code": "TY01",
+      "weight": "600g",
+      "price": 7.8,
+      "currency": "EUR",
+      "image": "images/TY01.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 1000,
+        "energy_kcal": 239,
+        "fat_g": 14,
+        "saturated_fat_g": 2.6,
+        "carbohydrates_g": 9.6,
+        "sugars_g": 0.8,
+        "fibre_g": 1.2,
+        "protein_g": 19,
+        "salt_g": 1.9
+      }
+    },
+    {
+      "code": "TY02",
+      "weight": "600g",
+      "price": 7.8,
+      "currency": "EUR",
+      "image": "images/TY02.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 787,
+        "energy_kcal": 188,
+        "fat_g": 8.1,
+        "saturated_fat_g": 1.7,
+        "carbohydrates_g": 8.2,
+        "sugars_g": 1.9,
+        "fibre_g": 1.3,
+        "protein_g": 21,
+        "salt_g": 1.7
+      }
+    },
+    {
+      "code": "YD01",
+      "weight": "1000g",
+      "price": 13.2,
+      "currency": "EUR",
+      "image": "images/YD01.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 281,
+        "energy_kcal": 1176,
+        "fat_g": 4.1,
+        "saturated_fat_g": 0.7,
+        "carbohydrates_g": 8.5,
+        "sugars_g": 5,
+        "protein_g": 14,
+        "salt_g": 1.2
+      }
+    },
+    {
+      "code": "YH08",
+      "weight": "250g",
+      "price": 5.5,
+      "currency": "EUR",
+      "image": "images/YH08.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 348,
+        "energy_kcal": 83,
+        "fat_g": 1.3,
+        "saturated_fat_g": 0.3,
+        "carbohydrates_g": 18,
+        "sugars_g": 2.7,
+        "fibre_g": 3.4,
+        "protein_g": 0.3,
+        "salt_g": 1.4
+      }
+    },
+    {
+      "code": "YS02",
+      "weight": "300g",
+      "price": 5.8,
+      "currency": "EUR",
+      "image": "images/YS02.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 757,
+        "energy_kcal": 181,
+        "fat_g": 9.9,
+        "saturated_fat_g": 1.8,
+        "carbohydrates_g": 8.1,
+        "sugars_g": 3.5,
+        "fibre_g": 0.3,
+        "protein_g": 15,
+        "salt_g": 1.9
+      }
+    },
+    {
+      "code": "AZ05",
+      "weight": "200g",
+      "price": 5.3,
+      "currency": "EUR",
+      "image": "images/AZ05.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 1322,
+        "energy_kcal": 316,
+        "fat_g": 8.2,
+        "saturated_fat_g": 3.2,
+        "carbohydrates_g": 31,
+        "sugars_g": 15,
+        "protein_g": 30,
+        "salt_g": 3.8
+      }
+    },
+    {
+      "code": "D004b",
+      "weight": "300g",
+      "price": 7.4,
+      "currency": "EUR",
+      "image": "images/D004b.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 1464,
+        "energy_kcal": 350,
+        "fat_g": 2,
+        "saturated_fat_g": 0.5,
+        "carbohydrates_g": 25,
+        "sugars_g": 3,
+        "fibre_g": 10,
+        "protein_g": 59,
+        "salt_g": 1
+      }
+    },
+    {
+      "code": "D005b",
+      "weight": "300g",
+      "price": 7.1,
+      "currency": "EUR",
+      "image": "images/D005b.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 1465,
+        "energy_kcal": 350,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "carbohydrates_g": 23,
+        "sugars_g": 0.5,
+        "protein_g": 65,
+        "salt_g": 1.5
+      }
+    },
+    {
+      "code": "D126",
+      "weight": "400g",
+      "price": 7.6,
+      "currency": "EUR",
+      "image": "images/D126.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 1539,
+        "energy_kcal": 343,
+        "fat_g": 28,
+        "saturated_fat_g": 5,
+        "carbohydrates_g": 8.4,
+        "sugars_g": 1.9,
+        "fibre_g": 0.8,
+        "protein_g": 15,
+        "salt_g": 1.6
+      }
+    },
+    {
+      "code": "Nuggets",
+      "weight": "1000g",
+      "price": "13",
+      "currency": "EUR",
+      "image": "images/Nuggets.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 1087,
+        "energy_kcal": 261,
+        "fat_g": 17,
+        "saturated_fat_g": 1.5,
+        "carbohydrates_g": 19,
+        "sugars_g": 0.3,
+        "protein_g": 7.3,
+        "salt_g": 1.2
+      }
+    },
+    {
+      "code": "Fingers",
+      "weight": "1000g",
+      "price": "13",
+      "currency": "EUR",
+      "image": "images/Fingers.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 1023,
+        "energy_kcal": 245,
+        "fat_g": 15,
+        "saturated_fat_g": 1.5,
+        "carbohydrates_g": 19,
+        "sugars_g": 0.3,
+        "protein_g": 7.9,
+        "salt_g": 1.3
+      }
+    },
+    {
+      "code": "Chicken_Burger",
+      "weight": "950g",
+      "price": "13",
+      "currency": "EUR",
+      "image": "images/Chicken_Burger.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 1008,
+        "energy_kcal": 241,
+        "fat_g": 13,
+        "saturated_fat_g": 1.4,
+        "carbohydrates_g": 24,
+        "sugars_g": 1.3,
+        "protein_g": 7.0,
+        "salt_g": 1.6
+      }
+    },
+    {
+      "code": "Seitan",
+      "weight": "1000g",
+      "price": "12",
+      "currency": "EUR",
+      "image": "images/Seitan.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 857,
+        "energy_kcal": 203,
+        "fat_g": 5.2,
+        "saturated_fat_g": 0.8,
+        "carbohydrates_g": 10.7,
+        "sugars_g": 0.5,
+        "protein_g": 28.4,
+        "salt_g": 1.39
+      }
+    },
+    {
+      "code": "Hotdogs",
+      "weight": "800g",
+      "price": "12",
+      "currency": "EUR",
+      "image": "images/Hotdogs.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 1121,
+        "energy_kcal": 269,
+        "fat_g": 17.7,
+        "saturated_fat_g": 2.2,
+        "carbohydrates_g": 7.3,
+        "sugars_g": 0.7,
+        "protein_g": 20.1,
+        "salt_g": 1.9
+      }
+    },
+    {
+      "code": "Seitan_Kebab",
+      "weight": "1000g",
+      "price": "12",
+      "currency": "EUR",
+      "image": "images/Seitan_Kebab.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 857,
+        "energy_kcal": 203,
+        "fat_g": 5.2,
+        "saturated_fat_g": 0.8,
+        "carbohydrates_g": 10.7,
+        "sugars_g": 0.5,
+        "protein_g": 28.4,
+        "salt_g": 1.39
+      }
+    },
+    {
+      "code": "Silken_Tofu",
+      "weight": "300g",
+      "price": 3,
+      "currency": "EUR",
+      "image": "images/Silken_Tofu.jpg",
+      "nutrition_per": "100g",
+      "nutrition": {
+        "energy_kj": 180,
+        "energy_kcal": 43,
+        "fat_g": 2.2,
+        "saturated_fat_g": 0.4,
+        "carbohydrates_g": 1.4,
+        "sugars_g": 0.5,
+        "protein_g": 5.1,
+        "salt_g": 0.0
+      }
+    }
+  ]
+}

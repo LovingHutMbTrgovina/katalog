@@ -2,120 +2,124 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>LH Product Catalog</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css" />
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>LH Product Catalog</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css"/>
 </head>
 
 <!-- TODO: PRODUCT CODE + 1 TO 39 NUMBERING -->
 
 <body>
-  <header class="page-header">
+<header class="page-header">
     <div class="page-header__inner">
-      <div class="header-main">
-        <p class="eyebrow" data-i18n="eyebrow">Loving Hut</p>
+        <div class="header-main">
+            <p class="eyebrow" data-i18n="eyebrow">Loving Hut</p>
 
-        <div class="title-row">
-          <h1 data-i18n="title">Product Catalog</h1>
+            <div class="title-row">
+                <h1 data-i18n="title">Product Catalog</h1>
 
-          <div class="language-dropdown">
-            <button id="languageToggle" class="language-toggle" type="button" aria-expanded="false">
-              <img id="currentLanguageFlag" class="language-flag" src="images/translation/si.svg" alt="Slovenščina" />
-              <span id="currentLanguageLabel">SL</span>
-              <span class="language-caret">▾</span>
-            </button>
+                <div class="language-dropdown">
+                    <button id="languageToggle" class="language-toggle" type="button" aria-expanded="false">
+                        <img id="currentLanguageFlag" class="language-flag" src="images/translation/si.svg"
+                             alt="Slovenščina"/>
+                        <span id="currentLanguageLabel">SL</span>
+                        <span class="language-caret">▾</span>
+                    </button>
 
-            <div id="languageMenu" class="language-menu" hidden>
-              <button class="language-option" type="button" data-lang="en" data-flag="images/translation/gb.svg"
-                data-label="EN">
-                <img class="language-flag" src="images/translation/gb.svg" alt="English" />
-                <span>English</span>
-              </button>
-              <button class="language-option" type="button" data-lang="de" data-flag="images/translation/de.svg"
-                data-label="DE">
-                <img class="language-flag" src="images/translation/de.svg" alt="Deutsch" />
-                <span>Deutsch</span>
-              </button>
-              <button class="language-option" type="button" data-lang="sl" data-flag="images/translation/si.svg"
-                data-label="SL">
-                <img class="language-flag" src="images/translation/si.svg" alt="Slovenščina" />
-                <span>Slovenščina</span>
-              </button>
+                    <div id="languageMenu" class="language-menu" hidden>
+                        <button class="language-option" type="button" data-lang="en"
+                                data-flag="images/translation/gb.svg"
+                                data-label="EN">
+                            <img class="language-flag" src="images/translation/gb.svg" alt="English"/>
+                            <span>English</span>
+                        </button>
+                        <button class="language-option" type="button" data-lang="de"
+                                data-flag="images/translation/de.svg"
+                                data-label="DE">
+                            <img class="language-flag" src="images/translation/de.svg" alt="Deutsch"/>
+                            <span>Deutsch</span>
+                        </button>
+                        <button class="language-option" type="button" data-lang="sl"
+                                data-flag="images/translation/si.svg"
+                                data-label="SL">
+                            <img class="language-flag" src="images/translation/si.svg" alt="Slovenščina"/>
+                            <span>Slovenščina</span>
+                        </button>
+                    </div>
+                </div>
             </div>
-          </div>
         </div>
-      </div>
 
-      <div class="toolbar">
-        <label class="search">
-          <span class="visually-hidden">Search products</span>
-          <input id="searchInput" type="search" data-i18n-placeholder="searchPlaceholder"
-            placeholder="Search by name or code…" />
-        </label>
-      </div>
+        <div class="toolbar">
+            <label class="search">
+                <span class="visually-hidden">Search products</span>
+                <input id="searchInput" type="search" data-i18n-placeholder="searchPlaceholder"
+                       placeholder="Search by name or code…"/>
+            </label>
+        </div>
     </div>
-  </header>
+</header>
 
-  <main class="page-content">
+<main class="page-content">
     <section class="summary-bar" id="summaryBar">
-      <span id="productCount">Loading products…</span>
+        <span id="productCount">Loading products…</span>
     </section>
 
     <section id="productGrid" class="product-grid" aria-live="polite"></section>
-  </main>
+</main>
 
-  <template id="productCardTemplate">
+<template id="productCardTemplate">
     <article class="product-card">
-      <div class="product-card__image-wrap">
-        <img class="product-card__image" loading="lazy" alt="" />
-        <div class="image-fallback" hidden>Image not found</div>
-      </div>
-
-      <div class="product-card__body">
-        <div class="product-card__top">
-          <div>
-            <p class="product-card__code"></p>
-            <h2 class="product-card__title"></h2>
-          </div>
-          <div class="product-card__price-block">
-            <p class="product-card__price"></p>
-            <p class="product-card__weight"></p>
-          </div>
+        <div class="product-card__image-wrap">
+            <img class="product-card__image" loading="lazy" alt=""/>
+            <div class="image-fallback" hidden>Image not found</div>
         </div>
 
-        <button class="more-info-toggle" type="button" data-role="toggleDetails" aria-expanded="false">
-          More information
-        </button>
-
-        <div class="product-card__details" data-role="details" hidden>
-          <div class="tag-row">
-            <span class="tag" data-role="contains" hidden></span>
-            <span class="tag tag--muted" data-role="mayContain" hidden></span>
-          </div>
-
-          <section class="content-block">
-            <h3 data-i18n="ingredients">Ingredients</h3>
-            <p class="ingredients"></p>
-          </section>
-
-          <section class="content-block nutrition-block">
-            <h3><span data-i18n="nutrition">Nutrition facts</span> <span class="per-label"></span></h3>
-            <div class="nutrition-table-wrap">
-              <table class="nutrition-table">
-                <tbody></tbody>
-              </table>
+        <div class="product-card__body">
+            <div class="product-card__top">
+                <div>
+                    <p class="product-card__code"></p>
+                    <h2 class="product-card__title"></h2>
+                </div>
+                <div class="product-card__price-block">
+                    <p class="product-card__price"></p>
+                    <p class="product-card__weight"></p>
+                </div>
             </div>
-          </section>
-        </div>
-      </div>
-    </article>
-  </template>
 
-  <script src="script.js"></script>
+            <button class="more-info-toggle" type="button" data-role="toggleDetails" aria-expanded="false">
+                More information
+            </button>
+
+            <div class="product-card__details" data-role="details" hidden>
+                <div class="tag-row">
+                    <span class="tag" data-role="contains" hidden></span>
+                    <span class="tag tag--muted" data-role="mayContain" hidden></span>
+                </div>
+
+                <section class="content-block">
+                    <h3 data-i18n="ingredients">Ingredients</h3>
+                    <p class="ingredients"></p>
+                </section>
+
+                <section class="content-block nutrition-block">
+                    <h3><span data-i18n="nutrition">Nutrition facts</span> <span class="per-label"></span></h3>
+                    <div class="nutrition-table-wrap">
+                        <table class="nutrition-table">
+                            <tbody></tbody>
+                        </table>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </article>
+</template>
+
+<script src="script.js"></script>
 </body>
 
 </html>

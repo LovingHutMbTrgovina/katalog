@@ -1,29 +1,9 @@
 {
-  "site_title": "Vegan Product Catalog",
-  "currency_symbol": "€",
-  "generated_from_pdfs": 39,
-  "products_count": 39,
   "products": [
     {
       "code": "AJ01",
       "name": "Vegan fish steak",
-      "weight": "300g",
-      "price": 5.5,
-      "currency": "EUR",
-      "image": "images/AJ01.jpg",
       "ingredients": "Water, non-GMO soy fibre (non-GMO soy protein isolate, non-GMO defatted soy flour, corn starch), non-GMO soy protein, canola oil, sugar, salt, vegan spices, dried seaweed",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 703,
-        "energy_kcal": 168,
-        "fat_g": 6,
-        "saturated_fat_g": 0.6,
-        "carbohydrates_g": 12,
-        "sugars_g": 3,
-        "fibre_g": 1.5,
-        "protein_g": 16,
-        "salt_g": 1.4
-      },
       "contains_allergens": [
         "soy"
       ],
@@ -38,22 +18,7 @@
     {
       "code": "AJ02",
       "name": "Vegan oyster",
-      "weight": "300g",
-      "price": 5.7,
-      "currency": "EUR",
-      "image": "images/AJ02.jpg",
       "ingredients": "Water, potato starch, tapioca starch, modified starch, gelling agent (konjac powder), non-GMO hydrolysed soy protein, stabiliser (sorbitol), salt, natural vegan spices, acidity regulator (calcium hydroxide), colour (calcium carbonate), seaweed",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 402,
-        "energy_kcal": 96,
-        "fat_g": 0,
-        "saturated_fat_g": 0,
-        "carbohydrates_g": 20,
-        "sugars_g": 0,
-        "protein_g": 4,
-        "salt_g": 1.9
-      },
       "contains_allergens": [
         "soy"
       ],
@@ -62,22 +27,7 @@
     {
       "code": "CH02",
       "name": "Vegan meatball",
-      "weight": "300g",
-      "price": 5.7,
-      "currency": "EUR",
-      "image": "images/CH02.jpg",
       "ingredients": "Water, non-GMO textured soy protein, non-GMO soy fibre (soy protein, wheat starch, wheat protein, colour (calcium carbonate), antioxidant (L-cysteine hydrochloride)), non-GMO soybean oil, tomato sauce (water, tomato paste, sucrose, vinegar, salt, spices), sucrose, pea extract, carrot extract, salt, flavourings, plant-extracted flavour enhancers (disodium guanylate, disodium inosinate), colour (sulphite ammonia caramel), pepper powder, paprika powder",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 800,
-        "energy_kcal": 191,
-        "fat_g": 6.1,
-        "saturated_fat_g": 0.8,
-        "carbohydrates_g": 15,
-        "sugars_g": 4.8,
-        "protein_g": 19,
-        "salt_g": 1.7
-      },
       "contains_allergens": [
         "gluten",
         "soy",
@@ -94,22 +44,7 @@
     {
       "code": "CH03",
       "name": "Vegan breaded chicken steak",
-      "weight": "250g",
-      "price": 5.7,
-      "currency": "EUR",
-      "image": "images/CH03.jpg",
       "ingredients": "Water, non-GMO soy protein (soy protein, wheat starch, wheat protein, colour (calcium carbonate), antioxidant (L-cysteine)), tempura batter mix (wheat flour, palm oil, salt, soybean flour, yeast, corn starch, acidity regulator (calcium sulphate), raising agent (ammonium bicarbonate), anticaking agent (magnesium carbonate), vitamin C, yeast extract, coconut oil), soybean oil, tapioca starch, modified starch, sucrose, pea extract, carrot extract, salt, plant-extracted flavour enhancers (disodium guanylate, disodium inosinate), flavourings, pepper powder, yeast extract",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 1080,
-        "energy_kcal": 258,
-        "fat_g": 15,
-        "saturated_fat_g": 1.4,
-        "carbohydrates_g": 14,
-        "sugars_g": 1.5,
-        "protein_g": 17,
-        "salt_g": 2.3
-      },
       "contains_allergens": [
         "gluten",
         "soy"
@@ -125,22 +60,7 @@
     {
       "code": "CH04",
       "name": "Vegan marbled meat slice",
-      "weight": "250g",
-      "price": 6,
-      "currency": "EUR",
-      "image": "images/CH04.jpg",
       "ingredients": "Water, non-GMO soy protein (soy protein, wheat starch, wheat protein, colour (calcium carbonate), antioxidant (L-cysteine)), modified starch, soybean oil, gelling agent (konjac powder), pea extract, carrot extract, sugar, salt, plant-extracted flavour enhancers (disodium guanylate, disodium inosinate), white pepper, acidity regulator (sodium carbonate), vegan flavourings",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 520,
-        "energy_kcal": 124,
-        "fat_g": 4.3,
-        "saturated_fat_g": 0.8,
-        "carbohydrates_g": 18,
-        "sugars_g": 2.8,
-        "protein_g": 3.9,
-        "salt_g": 3.2
-      },
       "contains_allergens": [
         "gluten",
         "soy"
@@ -156,22 +76,7 @@
     {
       "code": "CH05",
       "name": "Vegan barbeque eel",
-      "weight": "300g",
-      "price": 6.5,
-      "currency": "EUR",
-      "image": "images/CH05.jpg",
       "ingredients": "Water, non-GMO soy protein (soy protein, wheat starch, wheat protein, colour (calcium carbonate), antioxidant (L-cysteine)), soybean oil, potato starch, maltose, sugar, seaweed, bean curd skin (soy), soy sauce (contain soy, wheat), stabiliser (sorbitol), salt, plant-extracted flavour enhancers (disodium inosinate, disodium guanylate, glycine), white pepper, vegan flavourings, licorice powder, mirin",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 795,
-        "energy_kcal": 190,
-        "fat_g": 6,
-        "saturated_fat_g": 1,
-        "carbohydrates_g": 15,
-        "sugars_g": 5,
-        "protein_g": 19,
-        "salt_g": 1.7
-      },
       "contains_allergens": [
         "gluten",
         "soy"
@@ -181,23 +86,7 @@
     {
       "code": "CK03",
       "name": "Vegan chicken steak",
-      "weight": "275g",
-      "price": 6.2,
-      "currency": "EUR",
-      "image": "images/CK03.jpg",
       "ingredients": "Water, non-GMO textured soy protein, soybean oil, non-GMO soy protein isolate, modified starch, cane sugar, salt, flavour enhancers (monosodium glutamate, plant- extract (glycine, disodium guanylate, disodium inosinate)), vegan spices, sesame oil, mirin, white pepper",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 1011,
-        "energy_kcal": 242,
-        "fat_g": 16,
-        "saturated_fat_g": 2.1,
-        "carbohydrates_g": 5.5,
-        "sugars_g": 2.1,
-        "fibre_g": 1.3,
-        "protein_g": 19,
-        "salt_g": 2
-      },
       "contains_allergens": [
         "soy",
         "sesame"
@@ -213,23 +102,7 @@
     {
       "code": "CK06",
       "name": "Vegan ham",
-      "weight": "500g",
-      "price": 7.7,
-      "currency": "EUR",
-      "image": "images/CK06.jpg",
       "ingredients": "Water, non-GMO soy fibre (non-GMO soy protein isolate, non-GMO defatted soy flour, corn starch), non-GMO soy protein, canola oil, sugar, salt, vegan spices, white pepper, colour (red iron oxide)",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 657,
-        "energy_kcal": 157,
-        "fat_g": 6.9,
-        "saturated_fat_g": 0.6,
-        "carbohydrates_g": 7.7,
-        "sugars_g": 1.5,
-        "fibre_g": 2.2,
-        "protein_g": 16,
-        "salt_g": 2.1
-      },
       "contains_allergens": [
         "soy"
       ],
@@ -244,22 +117,7 @@
     {
       "code": "CK07",
       "name": "Vegan crispy oyster",
-      "weight": "300g",
-      "price": 5.5,
-      "currency": "EUR",
-      "image": "images/CK07.jpg",
       "ingredients": "Water, non-GMO soy protein isolate, soybean oil, cane sugar, modified starch (starch acetate, hydroxypropyl distarch phosphate), seaweed, salt, flavour enhancers (monosodium L-glutamate, plant-extracted (disodium guanylate, disodium inosinate)), vegan flavourings, white pepper, tapioca starch, wheat flour (gluten), parsley",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 634,
-        "energy_kcal": 290,
-        "fat_g": 20,
-        "saturated_fat_g": 2.5,
-        "carbohydrates_g": 17,
-        "sugars_g": 2,
-        "protein_g": 10,
-        "salt_g": 1.5
-      },
       "contains_allergens": [
         "soy",
         "sesame"
@@ -275,23 +133,7 @@
     {
       "code": "CW03",
       "name": "Vegan sandwich ham",
-      "weight": "250g",
-      "price": 5.7,
-      "currency": "EUR",
-      "image": "images/CW03.jpg",
       "ingredients": "Water, non-GMO textured soy protein (non-GMO soy protein isolate, wheat starch, wheat protein), soybean oil, vegetable extract (pea, carrot), sugar, salt, modified starch, hydrolysed non-GMO soy protein, vegan flavourings, smoke flavourings, wheat protein, yeast extract, white pepper, mirin, colour (calcium carbonate, red iron oxide)",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 821,
-        "energy_kcal": 196,
-        "fat_g": 12,
-        "saturated_fat_g": 2.2,
-        "carbohydrates_g": 5.8,
-        "sugars_g": 1.9,
-        "fibre_g": 0.8,
-        "protein_g": 16,
-        "salt_g": 2.2
-      },
       "contains_allergens": [
         "gluten",
         "soy"
@@ -307,23 +149,7 @@
     {
       "code": "CW07",
       "name": "Vegan black pepper ham",
-      "weight": "350g",
-      "price": 7,
-      "currency": "EUR",
-      "image": "images/CW07.jpg",
       "ingredients": "Water, non-GMO textured soy protein (non-GMO soy protein isolate, wheat starch, wheat protein), soybean oil, vegetable extract (pea, carrot), sugar, salt, modified starch, hydrolysed non-GMO soy protein, vegan flavourings, smoke flavourings, wheat protein, yeast extract, white pepper, black pepper 0,01%, mirin, colour (calcium carbonate, red iron oxide)",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 821,
-        "energy_kcal": 196,
-        "fat_g": 12,
-        "saturated_fat_g": 2.2,
-        "carbohydrates_g": 5.8,
-        "sugars_g": 1.9,
-        "fibre_g": 0.8,
-        "protein_g": 16,
-        "salt_g": 2.2
-      },
       "contains_allergens": [
         "gluten",
         "soy"
@@ -339,23 +165,7 @@
     {
       "code": "CW11",
       "name": "Vegan smoked ham",
-      "weight": "500g",
-      "price": 8.6,
-      "currency": "EUR",
-      "image": "images/CW11.jpg",
       "ingredients": "Water, non-GMO textured soy protein (non-GMO soy protein isolate, wheat starch, wheat protein), soybean oil, vegetable extract (pea, carrot), sugar, salt, modified starch, hydrolysed non-GMO soy protein, vegan flavourings, smoke flavourings, wheat protein, yeast extract, white pepper, mirin, colour (calcium carbonate, red iron oxide)",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 821,
-        "energy_kcal": 196,
-        "fat_g": 12,
-        "saturated_fat_g": 2.2,
-        "carbohydrates_g": 5.8,
-        "sugars_g": 1.9,
-        "fibre_g": 0.8,
-        "protein_g": 16,
-        "salt_g": 2.2
-      },
       "contains_allergens": [
         "gluten",
         "soy"
@@ -371,22 +181,7 @@
     {
       "code": "FC01",
       "name": "Vegan bean curd",
-      "weight": "1000g",
-      "price": 12.1,
-      "currency": "EUR",
-      "image": "images/FC01.jpg",
       "ingredients": "Non-GMO soybeans*, water, emulsifier (soy lecithin) *Country of origin: Canada",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 841,
-        "energy_kcal": 201,
-        "fat_g": 12,
-        "saturated_fat_g": 1.5,
-        "carbohydrates_g": 3,
-        "fibre_g": 1.4,
-        "protein_g": 21,
-        "salt_g": 0.01
-      },
       "contains_allergens": [
         "soy"
       ],
@@ -401,23 +196,7 @@
     {
       "code": "GS03",
       "name": "Vegan roast duck",
-      "weight": "500g",
-      "price": 7,
-      "currency": "EUR",
-      "image": "images/GS03.jpg",
       "ingredients": "Wheat gluten* 92%, wheat starch 3%, soy sauce (contain black soy, salt) 1.5%, sugar, salt, spices (anise, fennel, clove, cinnamon, Chinese red pepper), hydrolysed soja protein * Country of origin： USA",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 594,
-        "energy_kcal": 142,
-        "fat_g": 2.6,
-        "saturated_fat_g": 0.5,
-        "carbohydrates_g": 9.7,
-        "sugars_g": 0.8,
-        "fibre_g": 0.9,
-        "protein_g": 20,
-        "salt_g": 1.6
-      },
       "contains_allergens": [
         "gluten",
         "soy"
@@ -427,23 +206,7 @@
     {
       "code": "JC36",
       "name": "Vegan chicken ham",
-      "weight": "500g",
-      "price": 7.4,
-      "currency": "EUR",
-      "image": "images/JC36.jpg",
       "ingredients": "Non-GMO soy protein, non-GMO soy fiber, water, wheat protein, soy sauce, canola oil, yeast extract, tapioca starch, sugar, salt, vegan flavourings",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 883,
-        "energy_kcal": 211,
-        "fat_g": 11,
-        "saturated_fat_g": 2,
-        "carbohydrates_g": 9,
-        "sugars_g": 6.3,
-        "fibre_g": 1,
-        "protein_g": 19,
-        "salt_g": 2
-      },
       "contains_allergens": [
         "soy",
         "gluten"
@@ -459,23 +222,7 @@
     {
       "code": "KC10-V",
       "name": "Vegan salt-roasted chicken",
-      "weight": "300g",
-      "price": 6,
-      "currency": "EUR",
-      "image": "images/KC10-V.jpg",
       "ingredients": "Water, non-GMO soy protein isolate, soybean oil, vegetable extract, tapioca starch, pea starch, salt, sugar, pepper, soy sauce (contain soy and wheat), yeast extract, hydrolysed corn protein",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 1193,
-        "energy_kcal": 285,
-        "fat_g": 20,
-        "saturated_fat_g": 3,
-        "carbohydrates_g": 13,
-        "sugars_g": 1,
-        "fibre_g": 2,
-        "protein_g": 13,
-        "salt_g": 1.5
-      },
       "contains_allergens": [
         "gluten",
         "soy"
@@ -491,23 +238,7 @@
     {
       "code": "KC21-V",
       "name": "Vegan pepper steak",
-      "weight": "300g",
-      "price": 6,
-      "currency": "EUR",
-      "image": "images/KC21-V.jpg",
       "ingredients": "Water, non-GMO soy fibre (non-GMO soy protein isolate, non-GMO defatted soy flour, corn starch), non-GMO soy protein, canola oil, sugar, salt, vegan spices, black pepper",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 812,
-        "energy_kcal": 194,
-        "fat_g": 7.2,
-        "saturated_fat_g": 0.7,
-        "carbohydrates_g": 7.7,
-        "sugars_g": 2.4,
-        "fibre_g": 1.5,
-        "protein_g": 19,
-        "salt_g": 2
-      },
       "contains_allergens": [
         "soy"
       ],
@@ -522,23 +253,7 @@
     {
       "code": "KC23-V",
       "name": "Vegan chicken pieces",
-      "weight": "300g",
-      "price": 5.7,
-      "currency": "EUR",
-      "image": "images/KC23-V.jpg",
       "ingredients": "Non-GMO soy protein*, water, wheat protein, wheat starch, sunflower oil, salt, sugar, Chinese 5-spices, chilli powder, vegan meat flavouring, vegan chicken flavouring, stabiliser (calcium sulphate), colour (calcium carbonate), glucose, vegan flavourings (maltodextrin, shiitake extract, vegetable extract) * Country of origin: China",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 757,
-        "energy_kcal": 181,
-        "fat_g": 9.9,
-        "saturated_fat_g": 1.8,
-        "carbohydrates_g": 8.1,
-        "sugars_g": 3.5,
-        "fibre_g": 0.3,
-        "protein_g": 15,
-        "salt_g": 1.9
-      },
       "contains_allergens": [
         "gluten",
         "soy"
@@ -548,23 +263,7 @@
     {
       "code": "KC29",
       "name": "Vegan shrimp",
-      "weight": "300g",
-      "price": 5.5,
-      "currency": "EUR",
-      "image": "images/KC29.jpg",
       "ingredients": "Water, potato starch*, kelp extract, sugar, wheat fibre, salt, gelling agent (carrageenan, konjac powder), non-GMO soy protein powder, colour (paprika extract) *Country of origin: Germany",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 314,
-        "energy_kcal": 75,
-        "fat_g": 0.5,
-        "saturated_fat_g": 0.1,
-        "carbohydrates_g": 17,
-        "sugars_g": 2.5,
-        "fibre_g": 3.4,
-        "protein_g": 0.3,
-        "salt_g": 0.9
-      },
       "contains_allergens": [
         "gluten",
         "soy"
@@ -574,23 +273,7 @@
     {
       "code": "SD01",
       "name": "Vegan half chicken",
-      "weight": "180g",
-      "price": 4.4,
-      "currency": "EUR",
-      "image": "images/SD01.jpg",
       "ingredients": "Non-GMO textured soy protein*, non-GMO soy protein, wheat protein, soybean oil, plant-extracted flavour enhancers (disodium guanylate, disodium inosinate), sucrose, salt, spices, pepper, modified starch * Country of origin: USA",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 669,
-        "energy_kcal": 160,
-        "fat_g": 7.2,
-        "saturated_fat_g": 1.3,
-        "carbohydrates_g": 7.8,
-        "sugars_g": 1.7,
-        "fibre_g": 2.2,
-        "protein_g": 17,
-        "salt_g": 1.7
-      },
       "contains_allergens": [
         "gluten",
         "soy"
@@ -606,23 +289,7 @@
     {
       "code": "SS06-N",
       "name": "Vegan mutton new",
-      "weight": "600g",
-      "price": 10.1,
-      "currency": "EUR",
-      "image": "images/SS06-N.jpg",
       "ingredients": "Non-GMO soy protein*, water, wheat protein, shiitake fibre, soybean oil, wheat starch, salt, sugar, stabiliser (calcium sulphate), colour (calcium carbonate), white pepper, black soy sauce（contain black soy), vegan flavourings (maltodextrin, shiitake extract, vegetable extract) * Country of origin: China",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 942,
-        "energy_kcal": 225,
-        "fat_g": 16,
-        "saturated_fat_g": 2.7,
-        "carbohydrates_g": 8.1,
-        "sugars_g": 2.9,
-        "fibre_g": 3.4,
-        "protein_g": 12,
-        "salt_g": 2.2
-      },
       "contains_allergens": [
         "gluten",
         "soy"
@@ -638,23 +305,7 @@
     {
       "code": "TC04",
       "name": "Vegan chicken legs",
-      "weight": "250g",
-      "price": 6.2,
-      "currency": "EUR",
-      "image": "images/TC04.jpg",
       "ingredients": "Non-GMO soy protein, non-GMO soy fibre, wheat fibre, wheat protein, bamboo shoot, carrot, soy sauce, water, canola oil, tapioca starch, sugarcane",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 1365,
-        "energy_kcal": 326,
-        "fat_g": 7.6,
-        "saturated_fat_g": 0.5,
-        "carbohydrates_g": 49,
-        "sugars_g": 6.1,
-        "fibre_g": 3.9,
-        "protein_g": 16,
-        "salt_g": 1.5
-      },
       "contains_allergens": [
         "gluten",
         "soy"
@@ -670,23 +321,7 @@
     {
       "code": "TC05",
       "name": "Vegan trips with black pepper",
-      "weight": "250g",
-      "price": 5.1,
-      "currency": "EUR",
-      "image": "images/TC05.jpg",
       "ingredients": "Non-GMO textured soy protein*, non-GMO soy protein isolate, wheat protein, soy sauce (contain soy and wheat), maltose (wheat), trehalose**, tapioca starch, sugar, salt, black pepper 1%, Chinese 5-spice powder, spices, flavourings (maltodextrin, salt, sugar, yeast extract, hydrolysed soy protein, shiitake extract, cabbage extract) * Country of origin：China ** Trehalose is a source of glucose.",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 1373,
-        "energy_kcal": 328,
-        "fat_g": 18,
-        "saturated_fat_g": 1,
-        "carbohydrates_g": 24,
-        "sugars_g": 11,
-        "fibre_g": 3,
-        "protein_g": 18,
-        "salt_g": 2.2
-      },
       "contains_allergens": [
         "gluten",
         "soy"
@@ -702,23 +337,7 @@
     {
       "code": "TC06",
       "name": "Vegan salmon",
-      "weight": "300g",
-      "price": 5.5,
-      "currency": "EUR",
-      "image": "images/TC06.jpg",
       "ingredients": "Wheat fibre, non-GMO soy fibre, water, non-GMO soy protein, soy sauce, tapioca starch, sugar, salt, white pepper, colour (paprika extract E160c), seaweed",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 1072,
-        "energy_kcal": 256,
-        "fat_g": 17,
-        "saturated_fat_g": 2.8,
-        "carbohydrates_g": 10,
-        "sugars_g": 2.4,
-        "fibre_g": 0.2,
-        "protein_g": 16,
-        "salt_g": 1.3
-      },
       "contains_allergens": [
         "gluten",
         "soy"
@@ -734,23 +353,7 @@
     {
       "code": "TC14",
       "name": "Vegan B.B.Q meat",
-      "weight": "200g",
-      "price": 4.2,
-      "currency": "EUR",
-      "image": "images/TC14.jpg",
       "ingredients": "Non-GMO soy fibre*, non-GMO soy protein, wheat fibre, wheat protein, maltose (wheat extract), canola oil, sugar, salt, soy sauce, colour (paprika extract E160c), vegan flavourings, tapioca starch * Country of origin：China",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 1099,
-        "energy_kcal": 263,
-        "fat_g": 11,
-        "saturated_fat_g": 0.8,
-        "carbohydrates_g": 24,
-        "sugars_g": 3.3,
-        "fibre_g": 2.5,
-        "protein_g": 16,
-        "salt_g": 1.4
-      },
       "contains_allergens": [
         "gluten",
         "soy"
@@ -766,23 +369,7 @@
     {
       "code": "TC15",
       "name": "Vegan spare ribs",
-      "weight": "250g",
-      "price": 5.2,
-      "currency": "EUR",
-      "image": "images/TC15.jpg",
       "ingredients": "Non-GMO textured soy protein*, non-GMO soy protein isolate, wheat protein, lotus root, soy sauce (contain soy and wheat), maltose (wheat), trehalose**, tapioca starch, sugar, salt, flavourings (maltodextrin, salt, sugar, yeast extract, hydrolysed soy protein, shiitake extract, cabbage extract), black-plum juice, spices, canola oil * Country of origin：China ** Trehalose is a source of glucose.",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 1428,
-        "energy_kcal": 341,
-        "fat_g": 21,
-        "saturated_fat_g": 4,
-        "carbohydrates_g": 21,
-        "sugars_g": 8,
-        "fibre_g": 3,
-        "protein_g": 17,
-        "salt_g": 2.4
-      },
       "contains_allergens": [
         "gluten",
         "soy"
@@ -798,23 +385,7 @@
     {
       "code": "TC24",
       "name": "Vegan sesame oil chicken",
-      "weight": "250g",
-      "price": 5.1,
-      "currency": "EUR",
-      "image": "images/TC24.jpg",
       "ingredients": "Non-GMO soy protein*, non-GMO soy fibre, wheat fibre, canola oil, water, soy sauce, maltose (wheat extract), tapioca starch, sesame oil 0,7%, salt, yeast extract, white pepper, vegan flavourings, wolfberry *Country of origin: China",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 1428,
-        "energy_kcal": 341,
-        "fat_g": 21,
-        "saturated_fat_g": 4,
-        "carbohydrates_g": 21,
-        "sugars_g": 8,
-        "fibre_g": 3,
-        "protein_g": 17,
-        "salt_g": 2.4
-      },
       "contains_allergens": [
         "gluten",
         "soy",
@@ -831,23 +402,7 @@
     {
       "code": "TC26",
       "name": "Vegan squid slices",
-      "weight": "200g",
-      "price": 4.6,
-      "currency": "EUR",
-      "image": "images/TC26.jpg",
       "ingredients": "Water, modified starch, sugar, salt, gelling agent (konjac powder), canola oil, vegan flavourings",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 647,
-        "energy_kcal": 155,
-        "fat_g": 4.8,
-        "saturated_fat_g": 0.3,
-        "carbohydrates_g": 28,
-        "sugars_g": 4.8,
-        "fibre_g": 5.2,
-        "protein_g": 0.3,
-        "salt_g": 2
-      },
       "contains_allergens": [
         "gluten"
       ],
@@ -862,23 +417,7 @@
     {
       "code": "TC27",
       "name": "Vegan three cup chicken",
-      "weight": "250g",
-      "price": 5.1,
-      "currency": "EUR",
-      "image": "images/TC27.jpg",
       "ingredients": "Non-GMO soy protein*, wheat protein, non-GMO soy fibre, water, maltose (wheat extract), sugar, salt, canola oil, tapioca starch, vegan flavourings, ginger, chili *Country of origin: China",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 1213,
-        "energy_kcal": 290,
-        "fat_g": 13,
-        "saturated_fat_g": 1,
-        "carbohydrates_g": 26,
-        "sugars_g": 9.4,
-        "fibre_g": 2.2,
-        "protein_g": 18,
-        "salt_g": 2.1
-      },
       "contains_allergens": [
         "gluten",
         "soy"
@@ -894,23 +433,7 @@
     {
       "code": "TC29",
       "name": "Vegan stewed beef",
-      "weight": "200g",
-      "price": 4.2,
-      "currency": "EUR",
-      "image": "images/TC29.jpg",
       "ingredients": "Non-GMO soy protein*, non-GMO soy fibre, shiitake, wheat protein, wheat fibre, sugar, canola oil, yeast extract, salt, vegan flavourings, white pepper, cinnamon *Country of origin: China",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 1485,
-        "energy_kcal": 355,
-        "fat_g": 24,
-        "saturated_fat_g": 1.7,
-        "carbohydrates_g": 15,
-        "sugars_g": 2.8,
-        "fibre_g": 5,
-        "protein_g": 19,
-        "salt_g": 1.4
-      },
       "contains_allergens": [
         "gluten",
         "soy"
@@ -926,23 +449,7 @@
     {
       "code": "TY01",
       "name": "Vegan BBQ duck",
-      "weight": "600g",
-      "price": 7.8,
-      "currency": "EUR",
-      "image": "images/TY01.jpg",
       "ingredients": "Wheat gluten*, wheat starch, sesame oil, soy sauce (contain black soy, salt), ginger, salt, white pepper powder, hydrolysed non-GMO soy protein",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 1000,
-        "energy_kcal": 239,
-        "fat_g": 14,
-        "saturated_fat_g": 2.6,
-        "carbohydrates_g": 9.6,
-        "sugars_g": 0.8,
-        "fibre_g": 1.2,
-        "protein_g": 19,
-        "salt_g": 1.9
-      },
       "contains_allergens": [
         "gluten",
         "soy",
@@ -959,23 +466,7 @@
     {
       "code": "TY02",
       "name": "Vegan duck chunk",
-      "weight": "600g",
-      "price": 7.8,
-      "currency": "EUR",
-      "image": "images/TY02.jpg",
       "ingredients": "Wheat gluten*, wheat starch, sesame oil, soy sauce (contain black soy, salt), ginger, sugar, salt, white pepper powder, hydrolysed non-GMO soy protein * Country of origin： USA",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 787,
-        "energy_kcal": 188,
-        "fat_g": 8.1,
-        "saturated_fat_g": 1.7,
-        "carbohydrates_g": 8.2,
-        "sugars_g": 1.9,
-        "fibre_g": 1.3,
-        "protein_g": 21,
-        "salt_g": 1.7
-      },
       "contains_allergens": [
         "gluten",
         "soy",
@@ -992,22 +483,7 @@
     {
       "code": "YD01",
       "name": "Vegan braised ham",
-      "weight": "1000g",
-      "price": 13.2,
-      "currency": "EUR",
-      "image": "images/YD01.jpg",
       "ingredients": "Water, vegan meat (non-GMO soy protein, corn starch, colour (calcium carbonate), firming agent (calcium sulphate)), non-GMO soy protein isolate, salt, sugar, pepper, potato starch, flavourings (salt, yeast extract, gum Arabic, palm oil, flavourings, antioxidant (vitamin E), plant-extracted flavour enhancer (disodium 5′- ribonucleotides), potato starch, soy protein isolate, canola oil, acetic acid)",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 281,
-        "energy_kcal": 1176,
-        "fat_g": 4.1,
-        "saturated_fat_g": 0.7,
-        "carbohydrates_g": 8.5,
-        "sugars_g": 5,
-        "protein_g": 14,
-        "salt_g": 1.2
-      },
       "contains_allergens": [
         "gluten",
         "soy"
@@ -1017,23 +493,7 @@
     {
       "code": "YH08",
       "name": "Vegan crab surimi",
-      "weight": "250g",
-      "price": 5.5,
-      "currency": "EUR",
-      "image": "images/YH08.jpg",
       "ingredients": "Water, potato starch*, kelp extract, wheat fibre, sugar, salt, non-GMO soy protein powder, gelling agent (konjac powder, carrageenan), colour (paprika extract) *Country of origin：Germany",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 348,
-        "energy_kcal": 83,
-        "fat_g": 1.3,
-        "saturated_fat_g": 0.3,
-        "carbohydrates_g": 18,
-        "sugars_g": 2.7,
-        "fibre_g": 3.4,
-        "protein_g": 0.3,
-        "salt_g": 1.4
-      },
       "contains_allergens": [
         "gluten",
         "soy"
@@ -1043,23 +503,7 @@
     {
       "code": "YS02",
       "name": "Vegan sate",
-      "weight": "300g",
-      "price": 5.8,
-      "currency": "EUR",
-      "image": "images/YS02.jpg",
       "ingredients": "Non-GMO soy protein*, water, wheat protein, wheat starch, sunflower oil, salt, sugar, Chinese 5-spices, chilli powder, vegan meat flavouring, vegan chicken flavouring, stabiliser (calcium sulphate), colour (calcium carbonate), glucose, vegan flavourings (maltodextrin, shiitake extract, vegetable extract) *Country of origin: China",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 757,
-        "energy_kcal": 181,
-        "fat_g": 9.9,
-        "saturated_fat_g": 1.8,
-        "carbohydrates_g": 8.1,
-        "sugars_g": 3.5,
-        "fibre_g": 0.3,
-        "protein_g": 15,
-        "salt_g": 1.9
-      },
       "contains_allergens": [
         "gluten",
         "soy"
@@ -1075,22 +519,7 @@
     {
       "code": "AZ05",
       "name": "Vegan B.B.Q beef slice",
-      "weight": "200g",
-      "price": 5.3,
-      "currency": "EUR",
-      "image": "images/AZ05.jpg",
       "ingredients": "Non-GMO textured SOY protein*, sugar, canola oil, salt, SOY sauce (contain SOY and WHEAT), flavour enhancers (monosodium glutamate, plant-extracted (disodium guanylate, disodium inosinate)), spices (licorice, cinnamon, clove, black pepper, vegetarian curry), humectant (D-sorbitol), preservative (potassium sorbate), antioxidant (vitamin E), colour (paprika extract) *Country of Origin: China",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 1322,
-        "energy_kcal": 316,
-        "fat_g": 8.2,
-        "saturated_fat_g": 3.2,
-        "carbohydrates_g": 31,
-        "sugars_g": 15,
-        "protein_g": 30,
-        "salt_g": 3.8
-      },
       "contains_allergens": [
         "gluten",
         "soy"
@@ -1106,23 +535,7 @@
     {
       "code": "D004b",
       "name": "Vegan beef slices",
-      "weight": "300g",
-      "price": 7.4,
-      "currency": "EUR",
-      "image": "images/D004b.jpg",
       "ingredients": "Non-GMO soy protein*, non-GMO soy flour, wheat protein, wheat starch, colours (cocoa powder, calcium carbonate), firming agent (calcium sulphate) *Country of origin： China",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 1464,
-        "energy_kcal": 350,
-        "fat_g": 2,
-        "saturated_fat_g": 0.5,
-        "carbohydrates_g": 25,
-        "sugars_g": 3,
-        "fibre_g": 10,
-        "protein_g": 59,
-        "salt_g": 1
-      },
       "contains_allergens": [
         "gluten",
         "soy"
@@ -1138,22 +551,7 @@
     {
       "code": "D005b",
       "name": "Vegan pork steak",
-      "weight": "300g",
-      "price": 7.1,
-      "currency": "EUR",
-      "image": "images/D005b.jpg",
       "ingredients": "Non-GMO soy protein*, corn starch, wheat protein, non-GMO soy flour, wheat starch, firming agent (calcium sulphate), antioxidant (L-cysteine monohydrochloride) *Country of origin： China",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 1465,
-        "energy_kcal": 350,
-        "fat_g": 0,
-        "saturated_fat_g": 0,
-        "carbohydrates_g": 23,
-        "sugars_g": 0.5,
-        "protein_g": 65,
-        "salt_g": 1.5
-      },
       "contains_allergens": [
         "gluten",
         "soy"
@@ -1169,23 +567,7 @@
     {
       "code": "D126",
       "name": "Vegan mock duck",
-      "weight": "400g",
-      "price": 7.6,
-      "currency": "EUR",
-      "image": "images/D126.jpg",
       "ingredients": "Wheat gluten*, soybean oil**, wheat starch, sesame oil, soy sauce (contain black soy, salt), sugar, salt, ginger, chilli pepper, hydrolysed non-GMO soy protein * Country of origin: USA ** This is the filled oil in the glass gar",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 1539,
-        "energy_kcal": 343,
-        "fat_g": 28,
-        "saturated_fat_g": 5,
-        "carbohydrates_g": 8.4,
-        "sugars_g": 1.9,
-        "fibre_g": 0.8,
-        "protein_g": 15,
-        "salt_g": 1.6
-      },
       "contains_allergens": [
         "gluten",
         "soy",
@@ -1202,22 +584,7 @@
     {
       "code": "Nuggets",
       "name": "Nuggets Chicken-Style",
-      "weight": "1000g",
-      "price": "13",
-      "currency": "EUR",
-      "image": "images/Nuggets.jpg",
       "ingredients": "Textured flavoured pea protein preparation (water, pea protein, rapeseed oil, citrus fibres, gelling agent (calcium alginate), natural flavouring), wheat flour, water, vegetable oils (sunflower, rapeseed oil), starch (contains wheat), wheat gluten, natural flavourings, thickener (methyl cellulose), salt, spices, potato protein, yeast extract, yeast, raising agent (diphosphates, sodium carbonates), spice extract.",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 1087,
-        "energy_kcal": 261,
-        "fat_g": 17,
-        "saturated_fat_g": 1.5,
-        "carbohydrates_g": 19,
-        "sugars_g": 0.3,
-        "protein_g": 7.3,
-        "salt_g": 1.2
-      },
       "contains_allergens": [
         "wheat",
         "gluten"
@@ -1229,22 +596,7 @@
     {
       "code": "Fingers",
       "name": "Fingers Chicken-Style",
-      "weight": "1000g",
-      "price": "13",
-      "currency": "EUR",
-      "image": "images/Fingers.jpg",
       "ingredients": "Textured flavoured pea protein preparation (water, pea protein, rapeseed oil, citrus fibres, gelling agent (calcium alginate), natural flavouring), wheat flour, natural flavourings, thickener (methyl cellulose), salt, spices, potato protein, yeast extract, yeast, raising agent (diphosphates, sodium carbonates), spice extract.",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 1023,
-        "energy_kcal": 245,
-        "fat_g": 15,
-        "saturated_fat_g": 1.5,
-        "carbohydrates_g": 19,
-        "sugars_g": 0.3,
-        "protein_g": 7.9,
-        "salt_g": 1.3
-      },
       "contains_allergens": [
         "wheat",
         "gluten"
@@ -1256,22 +608,7 @@
     {
       "code": "Chicken_Burger",
       "name": "Burger Chicken-Style",
-      "weight": "950g",
-      "price": "13",
-      "currency": "EUR",
-      "image": "images/Chicken_Burger.jpg",
       "ingredients": "Textured flavoured pea protein preparation (water, pea protein, rapeseed oil, citrus fiber, gelling agent (calcium alginate), natural flavouring), water, cornflakes (corn, sugar, oils (sunflower, rapeseed), wheat flour, thickener (methylcellulose), salt, wheat semolina, potato protein, modified starch (contains wheat), spices, raising agents (diphosphates, sodium carbonates), yeast extract, dextrose",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 1008,
-        "energy_kcal": 241,
-        "fat_g": 13,
-        "saturated_fat_g": 1.4,
-        "carbohydrates_g": 24,
-        "sugars_g": 1.3,
-        "protein_g": 7.0,
-        "salt_g": 1.6
-      },
       "contains_allergens": [
         "wheat",
         "gluten",
@@ -1284,22 +621,7 @@
     {
       "code": "Seitan",
       "name": "Seitan",
-      "weight": "1000g",
-      "price": "12",
-      "currency": "EUR",
-      "image": "images/Seitan.jpg",
       "ingredients": "Water, wheat gluten (EU), wheat flour T-850, salt, soy sauce (soy, wheat, water, salt).",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 857,
-        "energy_kcal": 203,
-        "fat_g": 5.2,
-        "saturated_fat_g": 0.8,
-        "carbohydrates_g": 10.7,
-        "sugars_g": 0.5,
-        "protein_g": 28.4,
-        "salt_g": 1.39
-      },
       "contains_allergens": [
         "gluten",
         "wheat",
@@ -1312,22 +634,7 @@
     {
       "code": "Hotdogs",
       "name": "Tofu Hotdogs",
-      "weight": "800g",
-      "price": "12",
-      "currency": "EUR",
-      "image": "images/Hotdogs.jpg",
       "ingredients": "Tofu (EU) (soy, water, firming agent: calcium chloride), water, sunflower oil, wheat protein, soy sauce (soy, water, wheat, salt), onion, salt, smoked spices.",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 1121,
-        "energy_kcal": 269,
-        "fat_g": 17.7,
-        "saturated_fat_g": 2.2,
-        "carbohydrates_g": 7.3,
-        "sugars_g": 0.7,
-        "protein_g": 20.1,
-        "salt_g": 1.9
-      },
       "contains_allergens": [
         "gluten",
         "wheat",
@@ -1340,22 +647,7 @@
     {
       "code": "Seitan_Kebab",
       "name": "Seitan Kebab",
-      "weight": "1000g",
-      "price": "12",
-      "currency": "EUR",
-      "image": "images/Seitan_Kebab.jpg",
       "ingredients": "Water, wheat gluten (EU), sunflower oil, wheat flour T-850, salt, spices, soy sauce (soy, wheat, water, salt).",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 857,
-        "energy_kcal": 203,
-        "fat_g": 5.2,
-        "saturated_fat_g": 0.8,
-        "carbohydrates_g": 10.7,
-        "sugars_g": 0.5,
-        "protein_g": 28.4,
-        "salt_g": 1.39
-      },
       "contains_allergens": [
         "wheat",
         "gluten",
@@ -1368,22 +660,7 @@
     {
       "code": "Silken_Tofu",
       "name": "Silken Tofu",
-      "weight": "300g",
-      "price": 3,
-      "currency": "EUR",
-      "image": "images/Silken_Tofu.jpg",
       "ingredients": "Water, soybeans, stabiliser (E516), acidity regulator (E575)",
-      "nutrition_per": "100g",
-      "nutrition": {
-        "energy_kj": 180,
-        "energy_kcal": 43,
-        "fat_g": 2.2,
-        "saturated_fat_g": 0.4,
-        "carbohydrates_g": 1.4,
-        "sugars_g": 0.5,
-        "protein_g": 5.1,
-        "salt_g": 0.0
-      },
       "contains_allergens": [
         "soy"
       ],
