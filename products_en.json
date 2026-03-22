@@ -1200,65 +1200,67 @@
       ]
     },
     {
-      "code": "Seitan_Kebab",
-      "name": "Seitan Kebab",
+      "code": "Nuggets",
+      "name": "Nuggets Chicken-Style",
       "weight": "1000g",
-      "price": "12",
+      "price": "13",
       "currency": "EUR",
-      "image": "images/Seitan_Kebab.jpg",
-      "ingredients": "Water, wheat gluten (EU), sunflower oil, wheat flour T-850, salt, spices, soy sauce (soy, wheat, water, salt).",
+      "image": "images/Nuggets.jpg",
+      "ingredients": "Textured flavoured pea protein preparation (water, pea protein, rapeseed oil, citrus fibres, gelling agent (calcium alginate), natural flavouring), wheat flour, water, vegetable oils (sunflower, rapeseed oil), starch (contains wheat), wheat gluten, natural flavourings, thickener (methyl cellulose), salt, spices, potato protein, yeast extract, yeast, raising agent (diphosphates, sodium carbonates), spice extract.",
       "nutrition_per": "100g",
       "nutrition": {
-        "energy_kj": 857,
-        "energy_kcal": 203,
-        "fat_g": 5.2,
-        "saturated_fat_g": 0.8,
-        "carbohydrates_g": 10.7,
-        "sugars_g": 0.5,
-        "protein_g": 28.4,
-        "salt_g": 1.39
+        "energy_kj": 1087,
+        "energy_kcal": 261,
+        "fat_g": 17,
+        "saturated_fat_g": 1.5,
+        "carbohydrates_g": 19,
+        "sugars_g": 0.3,
+        "protein_g": 7.3,
+        "salt_g": 1.2
       },
       "contains_allergens": [
         "wheat",
-        "gluten",
-        "soy"
+        "gluten"
       ],
       "may_contain": [
-        "sesame"
+        "milk"
       ]
     },
     {
-      "code": "Silken_Tofu",
-      "name": "Seidentofu",
-      "weight": "300g",
-      "price": 3,
+      "code": "Fingers",
+      "name": "Fingers Chicken-Style",
+      "weight": "1000g",
+      "price": "13",
       "currency": "EUR",
-      "image": "images/Silken_Tofu.jpg",
-      "ingredients": "Wasser, Sojabohnen, Stabilisator (E516), Säureregulator (E575)",
+      "image": "images/Fingers.jpg",
+      "ingredients": "Textured flavoured pea protein preparation (water, pea protein, rapeseed oil, citrus fibres, gelling agent (calcium alginate), natural flavouring), wheat flour, natural flavourings, thickener (methyl cellulose), salt, spices, potato protein, yeast extract, yeast, raising agent (diphosphates, sodium carbonates), spice extract.",
       "nutrition_per": "100g",
       "nutrition": {
-        "energy_kj": 180,
-        "energy_kcal": 43,
-        "fat_g": 2.2,
-        "saturated_fat_g": 0.4,
-        "carbohydrates_g": 1.4,
-        "sugars_g": 0.5,
-        "protein_g": 5.1,
-        "salt_g": 0.0
+        "energy_kj": 1023,
+        "energy_kcal": 245,
+        "fat_g": 15,
+        "saturated_fat_g": 1.5,
+        "carbohydrates_g": 19,
+        "sugars_g": 0.3,
+        "protein_g": 7.9,
+        "salt_g": 1.3
       },
       "contains_allergens": [
-        "Soja"
+        "wheat",
+        "gluten"
       ],
-      "may_contain": []
+      "may_contain": [
+        "milk"
+      ]
     },
     {
       "code": "Chicken_Burger",
-      "name": "cornflakes burger chicken-style",
+      "name": "Burger Chicken-Style",
       "weight": "950g",
       "price": "13",
       "currency": "EUR",
       "image": "images/Chicken_Burger.jpg",
-      "ingredients": "textured flavoured pea protein preparation (water, pea protein, rapeseed oil, citrus fiber, gelling agent (calcium alginate), natural flavouring), water, cornflakes (corn, sugar, oils (sunflower, rapeseed), wheat flour, thickener (methylcellulose), salt, wheat semolina, potato protein, modified starch (contains wheat), spices, raising agents (diphosphates, sodium carbonates), yeast extract, dextrose",
+      "ingredients": "Textured flavoured pea protein preparation (water, pea protein, rapeseed oil, citrus fiber, gelling agent (calcium alginate), natural flavouring), water, cornflakes (corn, sugar, oils (sunflower, rapeseed), wheat flour, thickener (methylcellulose), salt, wheat semolina, potato protein, modified starch (contains wheat), spices, raising agents (diphosphates, sodium carbonates), yeast extract, dextrose",
       "nutrition_per": "100g",
       "nutrition": {
         "energy_kj": 1008,
@@ -1314,7 +1316,7 @@
       "price": "12",
       "currency": "EUR",
       "image": "images/Hotdogs.jpg",
-      "ingredients": "tofu (EU) (soy, water, firming agent: calcium chloride), water, sunflower oil, wheat protein, soy sauce (soy, water, wheat, salt), onion, salt, smoked spices.",
+      "ingredients": "Tofu (EU) (soy, water, firming agent: calcium chloride), water, sunflower oil, wheat protein, soy sauce (soy, water, wheat, salt), onion, salt, smoked spices.",
       "nutrition_per": "100g",
       "nutrition": {
         "energy_kj": 1121,
@@ -1336,58 +1338,56 @@
       ]
     },
     {
-      "code": "Nuggets",
-      "name": "Nuggets Chicken-Style",
+      "code": "Seitan_Kebab",
+      "name": "Seitan Kebab",
       "weight": "1000g",
-      "price": "13",
+      "price": "12",
       "currency": "EUR",
-      "image": "images/Nuggets.jpg",
-      "ingredients": "textured flavoured pea protein preparation (water, pea protein, rapeseed oil, citrus fibres, gelling agent (calcium alginate), natural flavouring), wheat flour, water, vegetable oils (sunflower, rapeseed oil), starch (contains wheat), wheat gluten, natural flavourings, thickener (methyl cellulose), salt, spices, potato protein, yeast extract, yeast, raising agent (diphosphates, sodium carbonates), spice extract.",
+      "image": "images/Seitan_Kebab.jpg",
+      "ingredients": "Water, wheat gluten (EU), sunflower oil, wheat flour T-850, salt, spices, soy sauce (soy, wheat, water, salt).",
       "nutrition_per": "100g",
       "nutrition": {
-        "energy_kj": 1087,
-        "energy_kcal": 261,
-        "fat_g": 17,
-        "saturated_fat_g": 1.5,
-        "carbohydrates_g": 19,
-        "sugars_g": 0.3,
-        "protein_g": 7.3,
-        "salt_g": 1.2
+        "energy_kj": 857,
+        "energy_kcal": 203,
+        "fat_g": 5.2,
+        "saturated_fat_g": 0.8,
+        "carbohydrates_g": 10.7,
+        "sugars_g": 0.5,
+        "protein_g": 28.4,
+        "salt_g": 1.39
       },
       "contains_allergens": [
         "wheat",
-        "gluten"
+        "gluten",
+        "soy"
       ],
       "may_contain": [
-        "milk"
+        "sesame"
       ]
     },
     {
-      "code": "Fingers",
-      "name": "Chicken-Style Fingers",
-      "weight": "1000g",
-      "price": "13",
+      "code": "Silken_Tofu",
+      "name": "Silken Tofu",
+      "weight": "300g",
+      "price": 3,
       "currency": "EUR",
-      "image": "images/Fingers.jpg",
-      "ingredients": "textured flavoured pea protein preparation (water, pea protein, rapeseed oil, citrus fibres, gelling agent (calcium alginate), natural flavouring), wheat flour, natural flavourings, thickener (methyl cellulose), salt, spices, potato protein, yeast extract, yeast, raising agent (diphosphates, sodium carbonates), spice extract.",
+      "image": "images/Silken_Tofu.jpg",
+      "ingredients": "Water, soybeans, stabiliser (E516), acidity regulator (E575)",
       "nutrition_per": "100g",
       "nutrition": {
-        "energy_kj": 1023,
-        "energy_kcal": 245,
-        "fat_g": 15,
-        "saturated_fat_g": 1.5,
-        "carbohydrates_g": 19,
-        "sugars_g": 0.3,
-        "protein_g": 7.9,
-        "salt_g": 1.3
+        "energy_kj": 180,
+        "energy_kcal": 43,
+        "fat_g": 2.2,
+        "saturated_fat_g": 0.4,
+        "carbohydrates_g": 1.4,
+        "sugars_g": 0.5,
+        "protein_g": 5.1,
+        "salt_g": 0.0
       },
       "contains_allergens": [
-        "wheat",
-        "gluten"
+        "soy"
       ],
-      "may_contain": [
-        "milk"
-      ]
+      "may_contain": []
     }
   ]
 }

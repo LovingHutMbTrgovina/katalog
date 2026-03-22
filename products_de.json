@@ -405,7 +405,7 @@
       "price": 7,
       "currency": "EUR",
       "image": "images/GS03.jpg",
-      "ingredients": "Wheat gluten* 92%, Weizenstärke 3%, Sojasauce (enthält schwarze Sojabohnen, Salz) 1.5%, Zucker, Salz, Gewürze (Anis, Fenchelsamen, Nelke, Zimt, Chinesischer roter Pfeffer), hydrolisiertes Sojaprotein * Ursprungsland: USA",
+      "ingredients": "Weizengluten* 92%, Weizenstärke 3%, Sojasauce (enthält schwarze Sojabohnen, Salz) 1.5%, Zucker, Salz, Gewürze (Anis, Fenchelsamen, Nelke, Zimt, Chinesischer roter Pfeffer), hydrolisiertes Sojaprotein * Ursprungsland: USA",
       "nutrition_per": "100g",
       "nutrition": {
         "energy_kj": 594,
@@ -574,7 +574,7 @@
       "price": 4.4,
       "currency": "EUR",
       "image": "images/SD01.jpg",
-      "ingredients": "texturiertes Sojaprotein ohne Gentechnik*, Sojaprotein ohne Gentechnik, Weizenprotein, Sojaöl, pflanzlich gewonnene Geschmacksverstärker (Dinatriumguanylat, Dinatriuminosinat), Saccharose, Salz, Gewürze, Pfeffer, modifizierte Stärke * Ursprungsland: USA",
+      "ingredients": "Texturiertes Sojaprotein ohne Gentechnik*, Sojaprotein ohne Gentechnik, Weizenprotein, Sojaöl, pflanzlich gewonnene Geschmacksverstärker (Dinatriumguanylat, Dinatriuminosinat), Saccharose, Salz, Gewürze, Pfeffer, modifizierte Stärke * Ursprungsland: USA",
       "nutrition_per": "100g",
       "nutrition": {
         "energy_kj": 669,
@@ -670,7 +670,7 @@
       "price": 5.1,
       "currency": "EUR",
       "image": "images/TC05.jpg",
-      "ingredients": "Zutaten: texturiertes Sojaprotein ohne Gentechnik*, Sojaproteinisolat ohne Gentechnik, Weizenprotein, Sojasauce (enthält Soja und Weizen), Maltose (Weizen), Trehalose**, Tapiokastärke, Zucker, Salz, schwarzer Pfeffer 1%, chinesisches Five-Spice-Pulver, Gewürze, Aromen (Maltodextrin, Salz, Zucker, Hefeextrakt, hydrolysiertes Sojaprotein, Shiitake-Extrakt, Kohlextrakt) * Ursprungsland:China ** Trehalose eine Zuckerart.",
+      "ingredients": "Texturiertes Sojaprotein ohne Gentechnik*, Sojaproteinisolat ohne Gentechnik, Weizenprotein, Sojasauce (enthält Soja und Weizen), Maltose (Weizen), Trehalose**, Tapiokastärke, Zucker, Salz, schwarzer Pfeffer 1%, chinesisches Five-Spice-Pulver, Gewürze, Aromen (Maltodextrin, Salz, Zucker, Hefeextrakt, hydrolysiertes Sojaprotein, Shiitake-Extrakt, Kohlextrakt) * Ursprungsland:China ** Trehalose eine Zuckerart.",
       "nutrition_per": "100g",
       "nutrition": {
         "energy_kj": 1373,
@@ -766,7 +766,7 @@
       "price": 5.2,
       "currency": "EUR",
       "image": "images/TC15.jpg",
-      "ingredients": "texturiertes Sojaprotein ohne Gentechnik*, Sojaproteinisolat ohne Gentechnik, Weizenprotein, Lotuswurzel, Sojasauce (enthält Soja und Weizen), Maltose (wheat), Trehalose**, Tapiokastärke, Zucker, Salz, Aromen (Maltodextrin, Salz, Zucker, Hefeextrakt, hydrolysiertes Sojaprotein, Shiitake-Extrakt, Kohlextrakt), Pflaumensaft, Gewürze, Rapsöl * Ursprungsland:China ** Trehalose ist eine Zuckerart.",
+      "ingredients": "Texturiertes Sojaprotein ohne Gentechnik*, Sojaproteinisolat ohne Gentechnik, Weizenprotein, Lotuswurzel, Sojasauce (enthält Soja und Weizen), Maltose (wheat), Trehalose**, Tapiokastärke, Zucker, Salz, Aromen (Maltodextrin, Salz, Zucker, Hefeextrakt, hydrolysiertes Sojaprotein, Shiitake-Extrakt, Kohlextrakt), Pflaumensaft, Gewürze, Rapsöl * Ursprungsland:China ** Trehalose ist eine Zuckerart.",
       "nutrition_per": "100g",
       "nutrition": {
         "energy_kj": 1428,
@@ -1072,7 +1072,7 @@
       "price": 5.3,
       "currency": "EUR",
       "image": "images/AZ05.jpg",
-      "ingredients": "texturiertes Sojaprotein ohne Gentechnik*, Zucker, Rapsöl, Salz, Sojasauce (enthält Soja und Weizen), Geschmacksverstärker (Mononatriumglutamat, pflanzlich gewonnen (Dinatriumguanylat, Dinatriuminosinat)), Gewürze (Lakritz, Zimt, Nelke, schwarzer Pfeffer, Curry), Feuchthaltemittel (D-Sorbit), Konservierungsstoff (Kaliumsorbat), Antioxidationsmittel (Vitamin E), Farbstoff (Paprikaextrakt) *Ursprungsland: China",
+      "ingredients": "Texturiertes Sojaprotein ohne Gentechnik*, Zucker, Rapsöl, Salz, Sojasauce (enthält Soja und Weizen), Geschmacksverstärker (Mononatriumglutamat, pflanzlich gewonnen (Dinatriumguanylat, Dinatriuminosinat)), Gewürze (Lakritz, Zimt, Nelke, schwarzer Pfeffer, Curry), Feuchthaltemittel (D-Sorbit), Konservierungsstoff (Kaliumsorbat), Antioxidationsmittel (Vitamin E), Farbstoff (Paprikaextrakt) *Ursprungsland: China",
       "nutrition_per": "100g",
       "nutrition": {
         "energy_kj": 1322,
@@ -1193,59 +1193,62 @@
       ]
     },
     {
-      "code": "Seitan_Kebab",
-      "name": "Seitan Kebab",
+      "code": "Nuggets",
+      "name": "Nuggets Chicken-Style",
       "weight": "1000g",
-      "price": "12",
+      "price": "13",
       "currency": "EUR",
-      "ingredients": "Wasser, Weizengluten (EU), Sonnenblumenöl, Weizenmehl T-850, Salz, Gewürze, Sojasauce (Soja, Weizen, Wasser, Salz).",
+      "image": "images/Nuggets.jpg",
+      "ingredients": "Texturierte aromatisierte Erbsenprotein-Zubereitung (Wasser, Erbsenprotein, Rapsöl, Zitrusfasern, Geliermittel (Calciumalginat), natürliches Aroma), Weizenmehl, Wasser, Pflanzliche Öle (Sonnenblumenöl, Rapsöl), Stärke (enthält Weizen), Weizengluten, natürliche Aromen, Verdickungsmittel (Methylcellulose), Salz, Gewürze, Kartoffelprotein, Hefeextrakt, Hefe, Backtriebmittel (Diphosphate, Natriumcarbonate), Gewürzextrakt.",
       "nutrition_per": "100g",
       "nutrition": {
-        "energy_kj": 857,
-        "energy_kcal": 203,
-        "fat_g": 5.2,
-        "saturated_fat_g": 0.8,
-        "carbohydrates_g": 10.7,
-        "sugars_g": 0.5,
-        "protein_g": 28.4,
-        "salt_g": 1.39
+        "energy_kj": 1087,
+        "energy_kcal": 261,
+        "fat_g": 17,
+        "saturated_fat_g": 1.5,
+        "carbohydrates_g": 19,
+        "sugars_g": 0.3,
+        "protein_g": 7.3,
+        "salt_g": 1.2
       },
       "contains_allergens": [
-        "Gluten",
         "Weizen",
-        "Soja"
+        "Gluten"
       ],
       "may_contain": [
-        "Sesam"
+        "Milch"
       ]
     },
     {
-      "code": "Silken_Tofu",
-      "name": "Seidentofu",
-      "weight": "300g",
-      "price": 3,
+      "code": "Fingers",
+      "name": "Fingers Chicken-Style",
+      "weight": "1000g",
+      "price": "13",
       "currency": "EUR",
-      "image": "images/Silken_Tofu.jpg",
-      "ingredients": "Wasser, Sojabohnen, Stabilisator (E516), Säureregulator (E575)",
+      "image": "images/Fingers.jpg",
+      "ingredients": "Texturierte aromatisierte Erbsenprotein-Zubereitung (Wasser, Erbsenprotein, Rapsöl, Zitrusfasern, Geliermittel (Calciumalginat), natürliches Aroma), Weizenmehl, natürliche Aromen, Verdickungsmittel (Methylcellulose), Salz, Gewürze, Kartoffelprotein, Hefeextrakt, Hefe, Backtriebmittel (Diphosphate, Natriumcarbonate), Gewürzextrakt.",
       "nutrition_per": "100g",
       "nutrition": {
-        "energy_kj": 180,
-        "energy_kcal": 43,
-        "fat_g": 2.2,
-        "saturated_fat_g": 0.4,
-        "carbohydrates_g": 1.4,
-        "sugars_g": 0.5,
-        "protein_g": 5.1,
-        "salt_g": 0.0
+        "energy_kj": 1023,
+        "energy_kcal": 245,
+        "fat_g": 15,
+        "saturated_fat_g": 1.5,
+        "carbohydrates_g": 19,
+        "sugars_g": 0.3,
+        "protein_g": 7.9,
+        "salt_g": 1.3
       },
       "contains_allergens": [
-        "Soja"
+        "Weizen",
+        "Gluten"
       ],
-      "may_contain": []
+      "may_contain": [
+        "Milch"
+      ]
     },
     {
       "code": "Chicken_Burger",
-      "name": "Cornflakes Burger Chicken-Style",
+      "name": "Burger Chicken-Style",
       "weight": "950g",
       "price": "13",
       "currency": "EUR",
@@ -1327,59 +1330,58 @@
         "Sesam"
       ]
     },
+
     {
-      "code": "Nuggets",
-      "name": "Nuggets Chicken-Style",
+      "code": "Seitan_Kebab",
+      "name": "Seitan Kebab",
       "weight": "1000g",
-      "price": "13",
+      "price": "12",
       "currency": "EUR",
-      "image": "images/Nuggets.jpg",
-      "ingredients": "Texturierte aromatisierte Erbsenprotein-Zubereitung (Wasser, Erbsenprotein, Rapsöl, Zitrusfasern, Geliermittel (Calciumalginat), natürliches Aroma), Weizenmehl, Wasser, Pflanzliche Öle (Sonnenblumenöl, Rapsöl), Stärke (enthält Weizen), Weizengluten, natürliche Aromen, Verdickungsmittel (Methylcellulose), Salz, Gewürze, Kartoffelprotein, Hefeextrakt, Hefe, Backtriebmittel (Diphosphate, Natriumcarbonate), Gewürzextrakt.",
+      "image": "images/Seitan_Kebab.jpg",
+      "ingredients": "Wasser, Weizengluten (EU), Sonnenblumenöl, Weizenmehl T-850, Salz, Gewürze, Sojasauce (Soja, Weizen, Wasser, Salz).",
       "nutrition_per": "100g",
       "nutrition": {
-        "energy_kj": 1087,
-        "energy_kcal": 261,
-        "fat_g": 17,
-        "saturated_fat_g": 1.5,
-        "carbohydrates_g": 19,
-        "sugars_g": 0.3,
-        "protein_g": 7.3,
-        "salt_g": 1.2
+        "energy_kj": 857,
+        "energy_kcal": 203,
+        "fat_g": 5.2,
+        "saturated_fat_g": 0.8,
+        "carbohydrates_g": 10.7,
+        "sugars_g": 0.5,
+        "protein_g": 28.4,
+        "salt_g": 1.39
       },
       "contains_allergens": [
         "Weizen",
-        "Gluten"
+        "Gluten",
+        "Soja"
       ],
       "may_contain": [
-        "Milch"
+        "Sesam"
       ]
     },
     {
-      "code": "Fingers",
-      "name": "Fingers Chicken-Style",
-      "weight": "1000g",
-      "price": "13",
+      "code": "Silken_Tofu",
+      "name": "Seidentofu",
+      "weight": "300g",
+      "price": 3,
       "currency": "EUR",
-      "image": "images/Fingers.jpg",
-      "ingredients": "Texturierte aromatisierte Erbsenprotein-Zubereitung (Wasser, Erbsenprotein, Rapsöl, Zitrusfasern, Geliermittel (Calciumalginat), natürliches Aroma), Weizenmehl, natürliche Aromen, Verdickungsmittel (Methylcellulose), Salz, Gewürze, Kartoffelprotein, Hefeextrakt, Hefe, Backtriebmittel (Diphosphate, Natriumcarbonate), Gewürzextrakt.",
+      "image": "images/Silken_Tofu.jpg",
+      "ingredients": "Wasser, Sojabohnen, Stabilisator (E516), Säureregulator (E575)",
       "nutrition_per": "100g",
       "nutrition": {
-        "energy_kj": 1023,
-        "energy_kcal": 245,
-        "fat_g": 15,
-        "saturated_fat_g": 1.5,
-        "carbohydrates_g": 19,
-        "sugars_g": 0.3,
-        "protein_g": 7.9,
-        "salt_g": 1.3
+        "energy_kj": 180,
+        "energy_kcal": 43,
+        "fat_g": 2.2,
+        "saturated_fat_g": 0.4,
+        "carbohydrates_g": 1.4,
+        "sugars_g": 0.5,
+        "protein_g": 5.1,
+        "salt_g": 0.0
       },
       "contains_allergens": [
-        "Weizen",
-        "Gluten"
+        "Soja"
       ],
-      "may_contain": [
-        "Milch"
-      ]
+      "may_contain": []
     }
   ]
 }
