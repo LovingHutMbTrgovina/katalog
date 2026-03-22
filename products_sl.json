@@ -262,7 +262,7 @@
     {
       "code": "KC29",
       "name": "Veganske kozice",
-      "ingredients": "Voda, krompirjev škrob*, ekstrakt kelpa, sladkor, pšenična vlaknina, sol, želirno sredstvo (karagenan, konjak v prahu), prah sojinih beljakovin brez GSO, barvilo (ekstrakt paprike) *Država porekla: Nemčija",
+      "ingredients": "Voda, krompirjev škrob*, izvleček morskih alg - kelp, sladkor, pšenična vlaknina, sol, želirno sredstvo (karagenan, konjak v prahu), prah sojinih beljakovin brez GSO, barvilo (ekstrakt paprike) *Država porekla: Nemčija",
       "contains_allergens": [
         "sojo",
         "gluten"
@@ -288,7 +288,7 @@
     {
       "code": "SS06-N",
       "name": "Veganska ovčetina new",
-      "ingredients": "Sojine beljakovine brez GSO*, Voda, pšenične beljakovine, vlaknine shiitake, sojino olje, pšenični škrob, sol, sladkor, stabilizator (kalcijev sulfat), barvilo (kalcijev karbonat), beli poper, black sojina omaka(vsebuje črno sojo), veganske arome (maltodextrin, ekstrakt shiitake, zelenjavni ekstrakt) * Država porekla: Kitajska",
+      "ingredients": "Sojine beljakovine brez GSO*, Voda, pšenične beljakovine, vlaknine shiitake, sojino olje, pšenični škrob, sol, sladkor, stabilizator (kalcijev sulfat), barvilo (kalcijev karbonat), beli poper, črna sojina omaka (vsebuje črno sojo), veganske arome (maltodextrin, ekstrakt shiitake, zelenjavni ekstrakt) * Država porekla: Kitajska",
       "contains_allergens": [
         "sojo",
         "gluten"
@@ -304,7 +304,7 @@
     {
       "code": "TC04",
       "name": "Veganske piščančje krače",
-      "ingredients": "Sojine beljakovine brez GSO, soja brez GSO, pšenična vlaknina, pšenične beljakovine, bambusovi poganjki, korenje, sojina omaka, Voda, olje oljne repice, tapiokin škrob, sladkorni trs",
+      "ingredients": "Sojine beljakovine brez GSO, soja brez GSO, pšenična vlaknina, pšenične beljakovine, bambusovi poganjki, korenje, sojina omaka, Voda, olje oljne repice, tapiokin škrob, trsni sladkor",
       "contains_allergens": [
         "sojo",
         "gluten"
@@ -384,7 +384,7 @@
     {
       "code": "TC24",
       "name": "Veganski piščanec s sezamovim oljem",
-      "ingredients": "Sojine beljakovine brez GSO*, soja brez GSO, pšenična vlaknina, olje oljne repice, Voda, sojina omaka, maltoza (pšenični ekstrakt), tapiokin škrob, sezamovo olje 0,7%, sol, kvasni ekstrakt, beli poper, veganske arome, goji jagode *Država porekla: Kitajska",
+      "ingredients": "Sojine beljakovine brez GSO*, soja brez GSO, pšenična vlaknina, olje oljne repice, voda, sojina omaka, maltoza (pšenični ekstrakt), tapiokin škrob, sezamovo olje 0,7%, sol, kvasni ekstrakt, beli poper, veganske arome, goji jagode *Država porekla: Kitajska",
       "contains_allergens": [
         "sojo",
         "gluten",
@@ -414,7 +414,7 @@
     {
       "code": "TC27",
       "name": "Veganski Three-Cup piščanec",
-      "ingredients": "Sojine beljakovine brez GSO*, pšenične beljakovine, soja brez GSO, Voda, maltoza (pšenični ekstrakt), sladkor, sol, olje oljne repice, tapiokin škrob, veganske arome, ingver, čili *Država porekla: Kitajska",
+      "ingredients": "Sojine beljakovine brez GSO*, pšenične beljakovine, soja brez GSO, voda, maltoza (pšenični ekstrakt), sladkor, sol, olje oljne repice, tapiokin škrob, veganske arome, ingver, čili *Država porekla: Kitajska",
       "contains_allergens": [
         "sojo",
         "gluten"
@@ -489,7 +489,7 @@
     {
       "code": "YH08",
       "name": "Veganski rakov surimi",
-      "ingredients": "Voda, krompirjev škrob*, ekstrakt kelpa, pšenična vlaknina, sladkor, sol, prah sojinih beljakovin brez GSO, želirno sredstvo (konjak v prahu, karagenan), barvilo (ekstrakt paprike) *Država porekla: Nemčija",
+      "ingredients": "Voda, krompirjev škrob*, izvleček morskih alg - kelp, pšenična vlaknina, sladkor, sol, prah sojinih beljakovin brez GSO, želirno sredstvo (konjak v prahu, karagenan), barvilo (ekstrakt paprike) *Država porekla: Nemčija",
       "contains_allergens": [
         "sojo",
         "gluten"
@@ -498,8 +498,8 @@
     },
     {
       "code": "YS02",
-      "name": "Veganski satay",
-      "ingredients": "Sojine beljakovine brez GSO*, Voda, pšenične beljakovine, pšenični škrob, sončnično olje, sol, sladkor, kitajska mešanica petih začimb, čili v prahu, veganska aroma mesa, veganska aroma piščanca, stabilizator (kalcijev sulfat), barvilo (kalcijev karbonat), glukoza, veganske arome (maltodextrin, ekstrakt shiitake, zelenjavni ekstrakt) *Država porekla: Kitajska",
+      "name": "Veganska nabodala - satay",
+      "ingredients": "Sojine beljakovine brez GSO*, voda, pšenične beljakovine, pšenični škrob, sončnično olje, sol, sladkor, kitajska mešanica petih začimb, čili v prahu, veganska aroma mesa, veganska aroma piščanca, stabilizator (kalcijev sulfat), barvilo (kalcijev karbonat), glukoza, veganske arome (maltodextrin, ekstrakt shiitake, zelenjavni ekstrakt) *Država porekla: Kitajska",
       "contains_allergens": [
         "sojo",
         "gluten"
@@ -546,7 +546,7 @@
     },
     {
       "code": "D005b",
-      "name": "Veganski svinjski zrezek",
+      "name": "Veganske rezine svinjnine",
       "ingredients": "Sojine beljakovine brez GSO*, koruzni škrob, pšenične beljakovine, sojina moka brez GSO, pšenični škrob, utrjevalec (kalcijev sulfat), antioksidant (L-cistein monohidroklorid) *Država porekla: Kitajska",
       "contains_allergens": [
         "sojo",
