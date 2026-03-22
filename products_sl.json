@@ -582,7 +582,7 @@
       "name": "Nuggets Chicken-Style",
       "ingredients": "Pripravek iz teksturiranih aromatiziranih grahovih beljakovin (voda, grahove beljakovine, repično olje, citrusna vlakna, želirno sredstvo (kalcijev alginat), naravna aroma), pšenična moka, voda, rastlinska olja (sončnično, repično olje), škrob (vsebuje pšenico), pšenični gluten, naravne arome, sredstvo za zgoščevanje (metilceluloza), sol, začimbe, krompirjeve beljakovine, ekstrakt kvasa, kvas, sredstvo za vzhajanje (difosfati, natrijevi karbonati), ekstrakt začimb.",
       "contains_allergens": [
-        "pšenica",
+        "pšenico",
         "gluten"
       ],
       "may_contain": [
@@ -594,7 +594,7 @@
       "name": "Fingers Chicken-Style",
       "ingredients": "Pripravek iz teksturiranih aromatiziranih grahovih beljakovin (voda, grahove beljakovine, repično olje, citrusna vlakna, želirno sredstvo (kalcijev alginat), naravna aroma), pšenična moka, naravne arome, sredstvo za zgoščevanje (metilceluloza), sol, začimbe, krompirjeve beljakovine, ekstrakt kvasa, kvas, sredstvo za vzhajanje (difosfati, natrijevi karbonati), ekstrakt začimb.",
       "contains_allergens": [
-        "pšenica",
+        "pšenico",
         "gluten"
       ],
       "may_contain": [
@@ -606,7 +606,7 @@
       "name": "Burger Chicken-Style",
       "ingredients": "Teksturiran aromatiziran pripravek iz grahovih beljakovin (voda, grahove beljakovine, repično olje, citrusna vlaknina, želirno sredstvo (kalcijev alginat), naravna aroma), voda, koruzni kosmiči (koruza, sladkor, olja (sončnično, repično), pšenična moka, zgoščevalec (metilceluloza), sol, pšenični zdrob, krompirjeve beljakovine, modificiran škrob (vsebuje pšenico), začimbe, sredstva za vzhajanje (difosfati, natrijevi karbonati), kvasni ekstrakt, dekstroza",
       "contains_allergens": [
-        "pšenica",
+        "pšenico",
         "gluten",
         "ječmenov sladni ekstrakt"
       ],
@@ -619,7 +619,7 @@
       "name": "Seitan",
       "ingredients": "Voda, pšenične beljakovine (EU), moka T-850, sol, sojina omaka (soja, pšenica, voda, sol).",
       "contains_allergens": [
-        "pšenica",
+        "pšenico",
         "soja"
       ],
       "may_contain": [
@@ -631,7 +631,7 @@
       "name": "Tofu Hotdogs",
       "ingredients": "Tofu (EU) (soja, voda, utrjevalec: kalcijev klorid), voda, sončnično olje, pšenične beljakovine, sojina omaka (soja, voda, pšenica, sol), čebula, sol, dimljene začimbe.",
       "contains_allergens": [
-        "pšenica",
+        "pšenico",
         "gluten",
         "soja"
       ],
@@ -644,7 +644,7 @@
       "name": "Seitan Kebab",
       "ingredients": "Voda, pšenične beljakovine (EU), sončnično olje, moka T-850, sol, začimbe, sojina omaka (soja, pšenica, voda, sol).",
       "contains_allergens": [
-        "pšenica",
+        "pšenico",
         "gluten",
         "soja"
       ],
