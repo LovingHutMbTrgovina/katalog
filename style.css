@@ -438,6 +438,24 @@ h1 {
     display: none !important;
 }
 
+
+.product-card__status {
+    display: inline-block;
+    margin-top: 8px;
+    padding: 4px 10px;
+    border: 1px solid #c62828;
+    border-radius: 999px;
+    color: #c62828;
+    background-color: rgba(198, 40, 40, 0.06);
+    font-size: 0.85rem;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.product-card__status[hidden] {
+    display: none !important;
+}
+
 @media (max-width: 780px) {
     .title-row {
         align-items: center;

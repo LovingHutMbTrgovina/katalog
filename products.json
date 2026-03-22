@@ -2,6 +2,7 @@
   "products": [
     {
       "code": "AJ01",
+      "available": true,
       "weight": "300g",
       "price": 5.5,
       "currency": "EUR",
@@ -21,6 +22,7 @@
     },
     {
       "code": "AJ02",
+      "available": true,
       "weight": "300g",
       "price": 5.7,
       "currency": "EUR",
@@ -39,6 +41,7 @@
     },
     {
       "code": "CH02",
+      "available": true,
       "weight": "300g",
       "price": 5.7,
       "currency": "EUR",
@@ -57,6 +60,7 @@
     },
     {
       "code": "CH03",
+      "available": true,
       "weight": "250g",
       "price": 5.7,
       "currency": "EUR",
@@ -75,6 +79,7 @@
     },
     {
       "code": "CH04",
+      "available": true,
       "weight": "250g",
       "price": 6,
       "currency": "EUR",
@@ -93,6 +98,7 @@
     },
     {
       "code": "CH05",
+      "available": true,
       "weight": "300g",
       "price": 6.5,
       "currency": "EUR",
@@ -111,6 +117,7 @@
     },
     {
       "code": "CK03",
+      "available": true,
       "weight": "275g",
       "price": 6.2,
       "currency": "EUR",
@@ -130,6 +137,7 @@
     },
     {
       "code": "CK06",
+      "available": true,
       "weight": "500g",
       "price": 7.7,
       "currency": "EUR",
@@ -149,14 +157,15 @@
     },
     {
       "code": "CK07",
+      "available": true,
       "weight": "300g",
       "price": 5.5,
       "currency": "EUR",
       "image": "images/CK07.jpg",
       "nutrition_per": "100g",
       "nutrition": {
-        "energy_kj": 634,
-        "energy_kcal": 290,
+        "energy_kj": 1171,
+        "energy_kcal": 280,
         "fat_g": 20,
         "saturated_fat_g": 2.5,
         "carbohydrates_g": 17,
@@ -167,6 +176,7 @@
     },
     {
       "code": "CW03",
+      "available": true,
       "weight": "250g",
       "price": 5.7,
       "currency": "EUR",
@@ -186,6 +196,7 @@
     },
     {
       "code": "CW07",
+      "available": true,
       "weight": "350g",
       "price": 7,
       "currency": "EUR",
@@ -205,6 +216,7 @@
     },
     {
       "code": "CW11",
+      "available": true,
       "weight": "500g",
       "price": 8.6,
       "currency": "EUR",
@@ -224,6 +236,7 @@
     },
     {
       "code": "FC01",
+      "available": true,
       "weight": "1000g",
       "price": 12.1,
       "currency": "EUR",
@@ -242,6 +255,7 @@
     },
     {
       "code": "GS03",
+      "available": true,
       "weight": "500g",
       "price": 7,
       "currency": "EUR",
@@ -261,6 +275,7 @@
     },
     {
       "code": "JC36",
+      "available": true,
       "weight": "500g",
       "price": 7.4,
       "currency": "EUR",
@@ -280,6 +295,7 @@
     },
     {
       "code": "KC10-V",
+      "available": true,
       "weight": "300g",
       "price": 6,
       "currency": "EUR",
@@ -299,6 +315,7 @@
     },
     {
       "code": "KC21-V",
+      "available": true,
       "weight": "300g",
       "price": 6,
       "currency": "EUR",
@@ -318,6 +335,7 @@
     },
     {
       "code": "KC23-V",
+      "available": true,
       "weight": "300g",
       "price": 5.7,
       "currency": "EUR",
@@ -337,6 +355,7 @@
     },
     {
       "code": "KC29",
+      "available": true,
       "weight": "300g",
       "price": 5.5,
       "currency": "EUR",
@@ -356,6 +375,7 @@
     },
     {
       "code": "SD01",
+      "available": true,
       "weight": "180g",
       "price": 4.4,
       "currency": "EUR",
@@ -375,6 +395,7 @@
     },
     {
       "code": "SS06-N",
+      "available": true,
       "weight": "600g",
       "price": 10.1,
       "currency": "EUR",
@@ -394,6 +415,7 @@
     },
     {
       "code": "TC04",
+      "available": true,
       "weight": "250g",
       "price": 6.2,
       "currency": "EUR",
@@ -413,6 +435,7 @@
     },
     {
       "code": "TC05",
+      "available": true,
       "weight": "250g",
       "price": 5.1,
       "currency": "EUR",
@@ -432,6 +455,7 @@
     },
     {
       "code": "TC06",
+      "available": true,
       "weight": "300g",
       "price": 5.5,
       "currency": "EUR",
@@ -451,6 +475,7 @@
     },
     {
       "code": "TC14",
+      "available": true,
       "weight": "200g",
       "price": 4.2,
       "currency": "EUR",
@@ -470,6 +495,7 @@
     },
     {
       "code": "TC15",
+      "available": true,
       "weight": "250g",
       "price": 5.2,
       "currency": "EUR",
@@ -489,6 +515,7 @@
     },
     {
       "code": "TC24",
+      "available": true,
       "weight": "250g",
       "price": 5.1,
       "currency": "EUR",
@@ -508,6 +535,7 @@
     },
     {
       "code": "TC26",
+      "available": true,
       "weight": "200g",
       "price": 4.6,
       "currency": "EUR",
@@ -527,6 +555,7 @@
     },
     {
       "code": "TC27",
+      "available": true,
       "weight": "250g",
       "price": 5.1,
       "currency": "EUR",
@@ -546,6 +575,7 @@
     },
     {
       "code": "TC29",
+      "available": true,
       "weight": "200g",
       "price": 4.2,
       "currency": "EUR",
@@ -565,6 +595,7 @@
     },
     {
       "code": "TY01",
+      "available": true,
       "weight": "600g",
       "price": 7.8,
       "currency": "EUR",
@@ -584,6 +615,7 @@
     },
     {
       "code": "TY02",
+      "available": true,
       "weight": "600g",
       "price": 7.8,
       "currency": "EUR",
@@ -603,6 +635,7 @@
     },
     {
       "code": "YD01",
+      "available": true,
       "weight": "1000g",
       "price": 13.2,
       "currency": "EUR",
@@ -621,6 +654,7 @@
     },
     {
       "code": "YH08",
+      "available": true,
       "weight": "250g",
       "price": 5.5,
       "currency": "EUR",
@@ -640,6 +674,7 @@
     },
     {
       "code": "YS02",
+      "available": true,
       "weight": "300g",
       "price": 5.8,
       "currency": "EUR",
@@ -659,6 +694,7 @@
     },
     {
       "code": "AZ05",
+      "available": true,
       "weight": "200g",
       "price": 5.3,
       "currency": "EUR",
@@ -677,6 +713,7 @@
     },
     {
       "code": "D004b",
+      "available": true,
       "weight": "300g",
       "price": 7.4,
       "currency": "EUR",
@@ -696,6 +733,7 @@
     },
     {
       "code": "D005b",
+      "available": true,
       "weight": "300g",
       "price": 7.1,
       "currency": "EUR",
@@ -714,6 +752,7 @@
     },
     {
       "code": "D126",
+      "available": true,
       "weight": "400g",
       "price": 7.6,
       "currency": "EUR",
@@ -733,6 +772,7 @@
     },
     {
       "code": "Nuggets",
+      "available": true,
       "weight": "1000g",
       "price": "13",
       "currency": "EUR",
@@ -751,6 +791,7 @@
     },
     {
       "code": "Fingers",
+      "available": true,
       "weight": "1000g",
       "price": "13",
       "currency": "EUR",
@@ -769,6 +810,7 @@
     },
     {
       "code": "Chicken_Burger",
+      "available": true,
       "weight": "950g",
       "price": "13",
       "currency": "EUR",
@@ -787,6 +829,7 @@
     },
     {
       "code": "Seitan",
+      "available": true,
       "weight": "1000g",
       "price": "12",
       "currency": "EUR",
@@ -805,6 +848,7 @@
     },
     {
       "code": "Hotdogs",
+      "available": true,
       "weight": "800g",
       "price": "12",
       "currency": "EUR",
@@ -823,6 +867,7 @@
     },
     {
       "code": "Seitan_Kebab",
+      "available": true,
       "weight": "1000g",
       "price": "12",
       "currency": "EUR",
@@ -841,19 +886,21 @@
     },
     {
       "code": "Silken_Tofu",
+      "available": true,
       "weight": "300g",
       "price": 3,
       "currency": "EUR",
       "image": "images/Silken_Tofu.jpg",
       "nutrition_per": "100g",
       "nutrition": {
-        "energy_kj": 180,
-        "energy_kcal": 43,
+        "energy_kj": 192,
+        "energy_kcal": 46,
         "fat_g": 2.2,
         "saturated_fat_g": 0.4,
         "carbohydrates_g": 1.4,
-        "sugars_g": 0.5,
+        "sugars_g": 0.9,
         "protein_g": 5.1,
+        "fibre_g": 0.6,
         "salt_g": 0.0
       }
     }

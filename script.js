@@ -24,6 +24,7 @@ const translations = {
         noResults: "Ni najdenih izdelkov",
         moreInfo: "Več informacij",
         lessInfo: "Manj informacij",
+        soldOut: "Razprodano",
         missingIngredients: "Sestavine še niso na voljo.",
         nutritionLabels: {
             energy_kj: "Energijska vrednost (kJ)",
@@ -50,6 +51,7 @@ const translations = {
         noResults: "No products match your search.",
         moreInfo: "More information",
         lessInfo: "Less information",
+        soldOut: "Sold out",
         missingIngredients: "Ingredients not available yet.",
         nutritionLabels: {
             energy_kj: "Energy (kJ)",
@@ -76,6 +78,7 @@ const translations = {
         noResults: "Keine passenden Produkte gefunden",
         moreInfo: "Mehr Informationen",
         lessInfo: "Weniger Informationen",
+        soldOut: "Ausverkauft",
         missingIngredients: "Zutaten sind noch nicht verfügbar.",
         nutritionLabels: {
             energy_kj: "Energie (kJ)",
@@ -187,6 +190,16 @@ function buildCard(product, index) {
 
     fragment.querySelector(".product-card__code").textContent = `${index + 1}. (${product.code})`;
     fragment.querySelector(".product-card__title").textContent = product.name;
+
+    const soldOutBadge = fragment.querySelector('[data-role="soldOutBadge"]');
+
+    if (product.available === false) {
+        soldOutBadge.hidden = false;
+        soldOutBadge.textContent = translations[currentLang].soldOut;
+    } else {
+        soldOutBadge.hidden = true;
+    }
+
     fragment.querySelector(".product-card__price").textContent = formatPrice(product.price, product.currency || "EUR");
     fragment.querySelector(".product-card__weight").textContent = product.weight || "";
     fragment.querySelector(".ingredients").textContent =
