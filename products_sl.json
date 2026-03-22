@@ -591,7 +591,7 @@
     },
     {
       "code": "Fingers",
-      "name": "Fingers Chicken-Style",
+      "name": "Fingersi - Chicken-Style",
       "ingredients": "Pripravek iz teksturiranih aromatiziranih grahovih beljakovin (voda, grahove beljakovine, repično olje, citrusna vlakna, želirno sredstvo (kalcijev alginat), naravna aroma), pšenična moka, naravne arome, sredstvo za zgoščevanje (metilceluloza), sol, začimbe, krompirjeve beljakovine, ekstrakt kvasa, kvas, sredstvo za vzhajanje (difosfati, natrijevi karbonati), ekstrakt začimb.",
       "contains_allergens": [
         "pšenico",
@@ -603,7 +603,7 @@
     },
     {
       "code": "Chicken_Burger",
-      "name": "Burgers Chicken-Style",
+      "name": "Burgerji - Chicken-Style",
       "ingredients": "Teksturiran aromatiziran pripravek iz grahovih beljakovin (voda, grahove beljakovine, repično olje, citrusna vlaknina, želirno sredstvo (kalcijev alginat), naravna aroma), voda, koruzni kosmiči (koruza, sladkor, olja (sončnično, repično), pšenična moka, zgoščevalec (metilceluloza), sol, pšenični zdrob, krompirjeve beljakovine, modificiran škrob (vsebuje pšenico), začimbe, sredstva za vzhajanje (difosfati, natrijevi karbonati), kvasni ekstrakt, dekstroza",
       "contains_allergens": [
         "pšenico",
@@ -616,7 +616,7 @@
     },
     {
       "code": "Seitan",
-      "name": "Seitan",
+      "name": "Seitan drobljenec",
       "ingredients": "Voda, pšenične beljakovine (EU), moka T-850, sol, sojina omaka (soja, pšenica, voda, sol).",
       "contains_allergens": [
         "pšenico",
@@ -628,7 +628,7 @@
     },
     {
       "code": "Hotdogs",
-      "name": "Tofu Hotdogs",
+      "name": "Hrenovke - Tofu Hotdogs",
       "ingredients": "Tofu (EU) (soja, voda, utrjevalec: kalcijev klorid), voda, sončnično olje, pšenične beljakovine, sojina omaka (soja, voda, pšenica, sol), čebula, sol, dimljene začimbe.",
       "contains_allergens": [
         "pšenico",
@@ -654,7 +654,7 @@
     },
     {
       "code": "Silken_Tofu",
-      "name": "Silken Tofu",
+      "name": "Svileni Tofu",
       "ingredients": "Voda, soja, stabilizator (E516), regulator kislosti (E575)",
       "contains_allergens": [
         "sojo"
