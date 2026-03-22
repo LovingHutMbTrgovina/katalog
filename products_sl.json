@@ -565,7 +565,7 @@
       "name": "Veganska mock raca",
       "ingredients": "Pšenični gluten*, sojino olje**, pšenični škrob, sezamovo olje, sojina omaka (vsebuje črno sojo, sol), sladkor, sol, ingver, čili paprika, hidrolizirane sojine beljakovine brez GSO * Država porekla: ZDA",
       "contains_allergens": [
-        "soja",
+        "sojo",
         "gluten",
         "sezam"
       ],
@@ -620,7 +620,7 @@
       "ingredients": "Voda, pšenične beljakovine (EU), moka T-850, sol, sojina omaka (soja, pšenica, voda, sol).",
       "contains_allergens": [
         "pšenico",
-        "soja"
+        "sojo"
       ],
       "may_contain": [
         "sezama"
@@ -633,7 +633,7 @@
       "contains_allergens": [
         "pšenico",
         "gluten",
-        "soja"
+        "sojo"
       ],
       "may_contain": [
         "sezama"
@@ -646,7 +646,7 @@
       "contains_allergens": [
         "pšenico",
         "gluten",
-        "soja"
+        "sojo"
       ],
       "may_contain": [
         "sezama"
@@ -657,7 +657,7 @@
       "name": "Silken Tofu",
       "ingredients": "Voda, soja, stabilizator (E516), regulator kislosti (E575)",
       "contains_allergens": [
-        "soja"
+        "sojo"
       ],
       "may_contain": []
     }
