@@ -188,7 +188,7 @@ function buildCard(product, index) {
         nutritionHeading.textContent = translations[currentLang].nutrition;
     }
 
-    fragment.querySelector(".product-card__code").textContent = `${index + 1}. (${product.code})`;
+    fragment.querySelector(".product-card__code").textContent = `${product.id}. (${product.code})`;
     fragment.querySelector(".product-card__title").textContent = product.name;
 
     const soldOutBadge = fragment.querySelector('[data-role="soldOutBadge"]');

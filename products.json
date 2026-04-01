@@ -1,8 +1,9 @@
 {
   "products": [
     {
+      "id": 1,
       "code": "AJ01",
-      "available": true,
+      "available": false,
       "weight": "300g",
       "price": 5.5,
       "currency": "EUR",
@@ -21,6 +22,7 @@
       }
     },
     {
+      "id": 2,
       "code": "AJ02",
       "available": true,
       "weight": "300g",
@@ -40,6 +42,7 @@
       }
     },
     {
+      "id": 3,
       "code": "CH02",
       "available": true,
       "weight": "300g",
@@ -59,6 +62,7 @@
       }
     },
     {
+      "id": 4,
       "code": "CH03",
       "available": true,
       "weight": "250g",
@@ -78,6 +82,7 @@
       }
     },
     {
+      "id": 5,
       "code": "CH04",
       "available": true,
       "weight": "250g",
@@ -97,6 +102,7 @@
       }
     },
     {
+      "id": 6,
       "code": "CH05",
       "available": true,
       "weight": "300g",
@@ -116,6 +122,7 @@
       }
     },
     {
+      "id": 7,
       "code": "CK03",
       "available": true,
       "weight": "275g",
@@ -136,6 +143,7 @@
       }
     },
     {
+      "id": 8,
       "code": "CK06",
       "available": true,
       "weight": "500g",
@@ -156,6 +164,7 @@
       }
     },
     {
+      "id": 9,
       "code": "CK07",
       "available": true,
       "weight": "300g",
@@ -175,6 +184,7 @@
       }
     },
     {
+      "id": 10,
       "code": "CW03",
       "available": true,
       "weight": "250g",
@@ -195,6 +205,7 @@
       }
     },
     {
+      "id": 11,
       "code": "CW07",
       "available": true,
       "weight": "350g",
@@ -215,6 +226,7 @@
       }
     },
     {
+      "id": 12,
       "code": "CW11",
       "available": true,
       "weight": "500g",
@@ -235,6 +247,7 @@
       }
     },
     {
+      "id": 13,
       "code": "FC01",
       "available": true,
       "weight": "1000g",
@@ -254,6 +267,7 @@
       }
     },
     {
+      "id": 14,
       "code": "GS03",
       "available": true,
       "weight": "500g",
@@ -274,6 +288,7 @@
       }
     },
     {
+      "id": 15,
       "code": "JC36",
       "available": true,
       "weight": "500g",
@@ -294,6 +309,7 @@
       }
     },
     {
+      "id": 16,
       "code": "KC10-V",
       "available": true,
       "weight": "300g",
@@ -314,6 +330,7 @@
       }
     },
     {
+      "id": 17,
       "code": "KC21-V",
       "available": true,
       "weight": "300g",
@@ -334,6 +351,7 @@
       }
     },
     {
+      "id": 18,
       "code": "KC23-V",
       "available": true,
       "weight": "300g",
@@ -354,6 +372,7 @@
       }
     },
     {
+      "id": 19,
       "code": "KC29",
       "available": true,
       "weight": "300g",
@@ -374,6 +393,7 @@
       }
     },
     {
+      "id": 20,
       "code": "SD01",
       "available": true,
       "weight": "180g",
@@ -394,6 +414,7 @@
       }
     },
     {
+      "id": 21,
       "code": "SS06-N",
       "available": true,
       "weight": "600g",
@@ -414,6 +435,7 @@
       }
     },
     {
+      "id": 22,
       "code": "TC04",
       "available": true,
       "weight": "250g",
@@ -434,6 +456,7 @@
       }
     },
     {
+      "id": 23,
       "code": "TC05",
       "available": true,
       "weight": "250g",
@@ -454,6 +477,7 @@
       }
     },
     {
+      "id": 24,
       "code": "TC06",
       "available": true,
       "weight": "300g",
@@ -474,6 +498,7 @@
       }
     },
     {
+      "id": 25,
       "code": "TC14",
       "available": true,
       "weight": "200g",
@@ -494,6 +519,7 @@
       }
     },
     {
+      "id": 26,
       "code": "TC15",
       "available": true,
       "weight": "250g",
@@ -514,6 +540,7 @@
       }
     },
     {
+      "id": 27,
       "code": "TC24",
       "available": true,
       "weight": "250g",
@@ -534,6 +561,7 @@
       }
     },
     {
+      "id": 28,
       "code": "TC26",
       "available": true,
       "weight": "200g",
@@ -554,6 +582,7 @@
       }
     },
     {
+      "id": 29,
       "code": "TC27",
       "available": true,
       "weight": "250g",
@@ -574,6 +603,7 @@
       }
     },
     {
+      "id": 30,
       "code": "TC29",
       "available": true,
       "weight": "200g",
@@ -594,6 +624,7 @@
       }
     },
     {
+      "id": 31,
       "code": "TY01",
       "available": true,
       "weight": "600g",
@@ -614,6 +645,7 @@
       }
     },
     {
+      "id": 32,
       "code": "TY02",
       "available": true,
       "weight": "600g",
@@ -634,6 +666,7 @@
       }
     },
     {
+      "id": 33,
       "code": "YD01",
       "available": true,
       "weight": "1000g",
@@ -653,6 +686,7 @@
       }
     },
     {
+      "id": 34,
       "code": "YH08",
       "available": true,
       "weight": "250g",
@@ -673,6 +707,7 @@
       }
     },
     {
+      "id": 35,
       "code": "YS02",
       "available": true,
       "weight": "300g",
@@ -693,6 +728,7 @@
       }
     },
     {
+      "id": 36,
       "code": "AZ05",
       "available": true,
       "weight": "200g",
@@ -712,6 +748,7 @@
       }
     },
     {
+      "id": 37,
       "code": "D004b",
       "available": true,
       "weight": "300g",
@@ -732,6 +769,7 @@
       }
     },
     {
+      "id": 38,
       "code": "D005b",
       "available": true,
       "weight": "300g",
@@ -751,6 +789,7 @@
       }
     },
     {
+      "id": 39,
       "code": "D126",
       "available": true,
       "weight": "400g",
@@ -771,6 +810,7 @@
       }
     },
     {
+      "id": 40,
       "code": "Nuggets",
       "available": true,
       "weight": "1000g",
@@ -790,6 +830,7 @@
       }
     },
     {
+      "id": 41,
       "code": "Fingers",
       "available": true,
       "weight": "1000g",
@@ -809,6 +850,7 @@
       }
     },
     {
+      "id": 42,
       "code": "Chicken_Burger",
       "available": true,
       "weight": "950g",
@@ -828,6 +870,7 @@
       }
     },
     {
+      "id": 43,
       "code": "Seitan",
       "available": true,
       "weight": "1000g",
@@ -847,6 +890,7 @@
       }
     },
     {
+      "id": 44,
       "code": "Hotdogs",
       "available": true,
       "weight": "800g",
@@ -866,6 +910,7 @@
       }
     },
     {
+      "id": 45,
       "code": "Seitan_Kebab",
       "available": true,
       "weight": "1000g",
@@ -885,6 +930,7 @@
       }
     },
     {
+      "id": 46,
       "code": "Silken_Tofu",
       "available": true,
       "weight": "300g",
