@@ -3,7 +3,7 @@
     {
       "id": 1,
       "code": "AJ01",
-      "available": false,
+      "available": true,
       "weight": "300g",
       "price": 5.5,
       "currency": "EUR",
