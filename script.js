@@ -154,6 +154,15 @@ function buildCard(product, index) {
     const fragment = template.content.cloneNode(true);
     const image = fragment.querySelector(".product-card__image");
     const fallback = fragment.querySelector(".image-fallback");
+    const badgeContainer = fragment.querySelector(".badge-container");
+
+    if (product.badges?.includes("gluten_free")) {
+        const badge = document.createElement("img");
+        badge.src = "images/glutenfree_icon.jpg";
+        badge.alt = "Gluten-free";
+        badge.className = "product-badge";
+        badgeContainer.appendChild(badge);
+    }
 
     const details = fragment.querySelector('[data-role="details"]');
     const toggleButton = fragment.querySelector('[data-role="toggleDetails"]');
