@@ -247,7 +247,7 @@
     {
       "id": 12,
       "code": "CW11",
-      "available": true,
+      "available": false ,
       "weight": "500g",
       "price": 8.6,
       "currency": "EUR",
