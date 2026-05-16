@@ -292,7 +292,7 @@
     {
       "id": 14,
       "code": "GS03",
-      "available": true,
+      "available": false,
       "weight": "500g",
       "price": 7,
       "currency": "EUR",
@@ -800,7 +800,7 @@
     {
       "id": 37,
       "code": "D004b",
-      "available": true,
+      "available": false,
       "weight": "300g",
       "price": 7.4,
       "currency": "EUR",
